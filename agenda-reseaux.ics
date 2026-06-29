@@ -22,6 +22,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:a0c073e475eb2e9186412fadbc840cde@poster.kultureouest.fr
+DTSTAMP:20260629T183000Z
+DTSTART;TZID=Europe/Paris:20260629T203000
+DTEND;TZID=Europe/Paris:20260629T210000
+SUMMARY:📣 Post réseaux : La Dictée de Chansons — 2 places pour les Francofolies à gagner
+DESCRIPTION:📝 2 PLACES POUR LES FRANCOFOLIES À GAGNER ! 🎟️
+END:VEVENT
+BEGIN:VEVENT
 UID:be9ced616da10ac41e8526cae0fc283f@poster.kultureouest.fr
 DTSTAMP:20260630T100000Z
 DTSTART;TZID=Europe/Paris:20260630T120000
@@ -52,6 +60,38 @@ DTSTART;TZID=Europe/Paris:20260703T120000
 DTEND;TZID=Europe/Paris:20260703T123000
 SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 4 juillet
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 4 juillet à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:fc0de9a178d41bde1fc5b89e405c57bc@poster.kultureouest.fr
+DTSTAMP:20260704T050000Z
+DTSTART;TZID=Europe/Paris:20260704T070000
+DTEND;TZID=Europe/Paris:20260704T073000
+SUMMARY:📣 Post réseaux : Marché nocturne du bassin de Bougainville — Rochefort
+DESCRIPTION:⚓🎸 MARCHÉ NOCTURNE AU BASSIN DE BOUGAINVILLE — Rochefort
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce381bbd2d12353af7ca07d317ca9a0@poster.kultureouest.fr
+DTSTAMP:20260704T093000Z
+DTSTART;TZID=Europe/Paris:20260704T113000
+DTEND;TZID=Europe/Paris:20260704T120000
+SUMMARY:📣 Post réseaux : Flashmob géant des Gold Trotteurs — Place Colbert\, Rochefort
+DESCRIPTION:💃🕺 FLASHMOB GÉANT À ROCHEFORT — Place Colbert
+END:VEVENT
+BEGIN:VEVENT
+UID:fba8c14a7cb9f9fecc304bf1f3f55e43@poster.kultureouest.fr
+DTSTAMP:20260705T093000Z
+DTSTART;TZID=Europe/Paris:20260705T113000
+DTEND;TZID=Europe/Paris:20260705T120000
+SUMMARY:📣 Post réseaux : Soirée Salsa & Bachata — L’Ékume\, Châtelaillon-Plage
+DESCRIPTION:💃🕺 SALSA & BACHATA FACE À L’OCÉAN — L’Ékume\, Châtelaillon-Plage 🔥
+END:VEVENT
+BEGIN:VEVENT
+UID:44e3d9efa538c3822d0ff2d11993f743@poster.kultureouest.fr
+DTSTAMP:20260705T180000Z
+DTSTART;TZID=Europe/Paris:20260705T200000
+DTEND;TZID=Europe/Paris:20260705T203000
+SUMMARY:📣 Post réseaux : Concert d’Araëlle — Musique celtique à Courcelles
+DESCRIPTION:🎤 CONCERT D’ARAËLLE — Une parenthèse celtique envoûtante 🌿
 END:VEVENT
 BEGIN:VEVENT
 UID:da64be8bcb12078ee87766e7a58c6d7a@poster.kultureouest.fr
