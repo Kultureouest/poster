@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kulture Ouest//Posts reseaux//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kulture Ouest — Posts réseaux
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:be9ced616da10ac41e8526cae0fc283f@poster.kultureouest.fr
+DTSTAMP:20260630T100000Z
+DTSTART;TZID=Europe/Paris:20260630T120000
+DTEND;TZID=Europe/Paris:20260630T123000
+SUMMARY:📣 Post réseaux : France / Suède sur écran géant — 16e de finale (Port-des-Barques)
+DESCRIPTION:⚽🇫🇷 OÙ VIBRER POUR FRANCE / SUÈDE PRÈS DE ROCHEFORT ?
+END:VEVENT
+BEGIN:VEVENT
+UID:cec6583b199959fda425507eca38b9b7@poster.kultureouest.fr
+DTSTAMP:20260701T050000Z
+DTSTART;TZID=Europe/Paris:20260701T070000
+DTEND;TZID=Europe/Paris:20260701T073000
+SUMMARY:📣 Post réseaux : Grande Braderie d’Été — Chic On Recycle (Saint-Jean-de-Liversay)
+DESCRIPTION:🛍️♻️ GRANDE BRADERIE D’ÉTÉ — Chic On Recycle\, Saint-Jean-de-Liversay
+END:VEVENT
+BEGIN:VEVENT
+UID:15224f7d086c7923ad7c1adb5a5a0e80@poster.kultureouest.fr
+DTSTAMP:20260703T050000Z
+DTSTART;TZID=Europe/Paris:20260703T070000
+DTEND;TZID=Europe/Paris:20260703T073000
+SUMMARY:📣 Post réseaux : Les Après Plage : la guinguette estivale de Fouras-les-Bains
+DESCRIPTION:🍻🌅 LES APRÈS PLAGE — La guinguette estivale de Fouras-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+UID:76e1043f2ff9d8041657f1f49b1147a7@poster.kultureouest.fr
+DTSTAMP:20260703T100000Z
+DTSTART;TZID=Europe/Paris:20260703T120000
+DTEND;TZID=Europe/Paris:20260703T123000
+SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 4 juillet
+DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 4 juillet à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:da64be8bcb12078ee87766e7a58c6d7a@poster.kultureouest.fr
+DTSTAMP:20260708T043000Z
+DTSTART;TZID=Europe/Paris:20260708T063000
+DTEND;TZID=Europe/Paris:20260708T070000
+SUMMARY:📣 Post réseaux : Partir en Livre — Deviendras-tu un super-héros ? (Marennes)
+DESCRIPTION:🦸 DEVIENDRAS-TU UN SUPER-HÉROS ? — La médiathèque de Marennes au jardin public
+END:VEVENT
+BEGIN:VEVENT
+UID:be735f80cca0475ba657a0f32700ba2c@poster.kultureouest.fr
+DTSTAMP:20260709T160000Z
+DTSTART;TZID=Europe/Paris:20260709T180000
+DTEND;TZID=Europe/Paris:20260709T183000
+SUMMARY:📣 Post réseaux : Les Folies Maritimes – 1ᵉʳᵉ édition
+DESCRIPTION:🔥 FOLIES MARITIMES — 1ᵉʳᵉ édition — Samedi 11 juillet à Marennes-Hiers-Brouage
+END:VEVENT
+BEGIN:VEVENT
+UID:0999f3bd4abed26482cf6afd09c3215f@poster.kultureouest.fr
+DTSTAMP:20260731T100000Z
+DTSTART;TZID=Europe/Paris:20260731T120000
+DTEND;TZID=Europe/Paris:20260731T123000
+SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 1er août
+DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:744e51c9ced52d3936791885c59b691c@poster.kultureouest.fr
+DTSTAMP:20260816T100000Z
+DTSTART;TZID=Europe/Paris:20260816T120000
+DTEND;TZID=Europe/Paris:20260816T123000
+SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 17 août (clôture)
+DESCRIPTION:🏖️🎶 LA PLAGE SONORE clôture sa saison ce lundi 17 août à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+END:VCALENDAR
