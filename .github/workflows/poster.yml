@@ -36,6 +36,10 @@ jobs:
           FB_PAGE_ID:     ${{ secrets.FB_PAGE_ID }}
         run: python run_file.py
 
+      - name: Regenerer l'agenda ICS des posts
+        if: always()
+        run: python generate_agenda_ics.py
+
       - name: Archiver les jobs traites
         if: always()
         run: |
@@ -43,7 +47,8 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add -A
           if ! git diff --cached --quiet; then
-            git commit -m "Archivage jobs reseaux [skip ci]"
+            git commit -m "Archivage jobs reseaux + agenda ICS [skip ci]"
+            git pull --rebase --autostash origin main || true
             git push
           else
             echo "Rien a committer."
