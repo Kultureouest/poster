@@ -78,6 +78,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 4 juillet
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 4 juillet à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:b1a3ba51d97caecb560dc38f560e1aca@poster.kultureouest.fr
+DTSTAMP:20260703T163000Z
+DTSTART;TZID=Europe/Paris:20260703T183000
+DTEND;TZID=Europe/Paris:20260703T190000
+SUMMARY:📣 Post réseaux : JBB 2026 : Joyeuse Boucle Bordélique à Rochefort
+DESCRIPTION:🎉 La JBB 2026 débarque à Rochefort
+END:VEVENT
+BEGIN:VEVENT
 UID:fc0de9a178d41bde1fc5b89e405c57bc@poster.kultureouest.fr
 DTSTAMP:20260704T050000Z
 DTSTART;TZID=Europe/Paris:20260704T070000
