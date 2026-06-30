@@ -38,6 +38,14 @@ SUMMARY:📣 Post réseaux : Grande Braderie d’Été — Chic On Recycle (Sain
 DESCRIPTION:🛍️♻️ GRANDE BRADERIE D’ÉTÉ — Chic On Recycle\, Saint-Jean-de-Liversay
 END:VEVENT
 BEGIN:VEVENT
+UID:cc2605bb56428ab9e3afd9bf2e18bcdb@poster.kultureouest.fr
+DTSTAMP:20260701T103000Z
+DTSTART;TZID=Europe/Paris:20260701T123000
+DTEND;TZID=Europe/Paris:20260701T130000
+SUMMARY:📣 Post réseaux : La Boum du Conseil Municipal des Jeunes à Bourcefranc-le-Chapus
+DESCRIPTION:🪩 Soirée fluo à Bourcefranc-le-Chapus
+END:VEVENT
+BEGIN:VEVENT
 UID:8796b0a2948e765337f7b054838a058d@poster.kultureouest.fr
 DTSTAMP:20260702T103000Z
 DTSTART;TZID=Europe/Paris:20260702T123000
