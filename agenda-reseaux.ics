@@ -110,6 +110,14 @@ SUMMARY:📣 Post réseaux : Les Folies Maritimes – 1ᵉʳᵉ édition
 DESCRIPTION:🔥 FOLIES MARITIMES — 1ᵉʳᵉ édition — Samedi 11 juillet à Marennes-Hiers-Brouage
 END:VEVENT
 BEGIN:VEVENT
+UID:7a0b21b4bd7f4b19b96347c066412949@poster.kultureouest.fr
+DTSTAMP:20260711T040000Z
+DTSTART;TZID=Europe/Paris:20260711T060000
+DTEND;TZID=Europe/Paris:20260711T063000
+SUMMARY:📣 Post réseaux : De l’opéra au tango à Saint-Agnant
+DESCRIPTION:🎻 De l’opéra au tango à Saint-Agnant
+END:VEVENT
+BEGIN:VEVENT
 UID:0999f3bd4abed26482cf6afd09c3215f@poster.kultureouest.fr
 DTSTAMP:20260731T100000Z
 DTSTART;TZID=Europe/Paris:20260731T120000
