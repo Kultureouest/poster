@@ -38,6 +38,14 @@ SUMMARY:📣 Post réseaux : Grande Braderie d’Été — Chic On Recycle (Sain
 DESCRIPTION:🛍️♻️ GRANDE BRADERIE D’ÉTÉ — Chic On Recycle\, Saint-Jean-de-Liversay
 END:VEVENT
 BEGIN:VEVENT
+UID:8796b0a2948e765337f7b054838a058d@poster.kultureouest.fr
+DTSTAMP:20260702T103000Z
+DTSTART;TZID=Europe/Paris:20260702T123000
+DTEND;TZID=Europe/Paris:20260702T130000
+SUMMARY:📣 Post réseaux : L’Heure Civique à Échillais
+DESCRIPTION:🤝 L’Heure Civique à Échillais
+END:VEVENT
+BEGIN:VEVENT
 UID:15224f7d086c7923ad7c1adb5a5a0e80@poster.kultureouest.fr
 DTSTAMP:20260703T050000Z
 DTSTART;TZID=Europe/Paris:20260703T070000
