@@ -30,6 +30,14 @@ SUMMARY:📣 Post réseaux : La Boum du Conseil Municipal des Jeunes à Bourcefr
 DESCRIPTION:🪩 Soirée fluo à Bourcefranc-le-Chapus
 END:VEVENT
 BEGIN:VEVENT
+UID:f3425227908c18af0eee855b99b38fba@poster.kultureouest.fr
+DTSTAMP:20260701T170000Z
+DTSTART;TZID=Europe/Paris:20260701T190000
+DTEND;TZID=Europe/Paris:20260701T193000
+SUMMARY:📣 Post réseaux : Espace d'accueil de la réserve naturelle de Moëze-Oléron
+DESCRIPTION:🐦 La réserve naturelle de Moëze-Oléron\, à Saint-Froult\, c'est un balcon sauvage sur l'estuaire de la Charente\, à deux pa
+END:VEVENT
+BEGIN:VEVENT
 UID:8796b0a2948e765337f7b054838a058d@poster.kultureouest.fr
 DTSTAMP:20260702T103000Z
 DTSTART;TZID=Europe/Paris:20260702T123000
