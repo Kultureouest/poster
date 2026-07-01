@@ -158,6 +158,14 @@ SUMMARY:📣 Post réseaux : De l’opéra au tango à Saint-Agnant
 DESCRIPTION:🎻 De l’opéra au tango à Saint-Agnant
 END:VEVENT
 BEGIN:VEVENT
+UID:e37a0126b2e65a723a240c15c3498746@poster.kultureouest.fr
+DTSTAMP:20260717T160000Z
+DTSTART;TZID=Europe/Paris:20260717T180000
+DTEND;TZID=Europe/Paris:20260717T183000
+SUMMARY:📣 Post réseaux : L’Évasion : soirée électro à Fouras-les-Bains
+DESCRIPTION:🎧 L’Évasion débarque à Fouras-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 UID:0999f3bd4abed26482cf6afd09c3215f@poster.kultureouest.fr
 DTSTAMP:20260731T100000Z
 DTSTART;TZID=Europe/Paris:20260731T120000
