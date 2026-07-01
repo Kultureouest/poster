@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : Flashmob géant des Gold Trotteurs — Place Colber
 DESCRIPTION:💃🕺 FLASHMOB GÉANT À ROCHEFORT — Place Colbert
 END:VEVENT
 BEGIN:VEVENT
+UID:bba2e736a7ce31deb435e97c15be00f4@poster.kultureouest.fr
+DTSTAMP:20260705T043000Z
+DTSTART;TZID=Europe/Paris:20260705T063000
+DTEND;TZID=Europe/Paris:20260705T070000
+SUMMARY:📣 Post réseaux : Vide-grenier au profit de l'association Pour le bonheur de Tao – Breuillet
+DESCRIPTION:À Breuillet\, une brocante pas comme les autres réunit chineurs et grand cœur autour d'une même cause : offrir à Tao\, 4 a
+END:VEVENT
+BEGIN:VEVENT
 UID:fba8c14a7cb9f9fecc304bf1f3f55e43@poster.kultureouest.fr
 DTSTAMP:20260705T093000Z
 DTSTART;TZID=Europe/Paris:20260705T113000
