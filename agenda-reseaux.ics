@@ -62,6 +62,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 4 juillet
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 4 juillet à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:6d25e08542317bb36159bf3e69a3132b@poster.kultureouest.fr
+DTSTAMP:20260703T120000Z
+DTSTART;TZID=Europe/Paris:20260703T140000
+DTEND;TZID=Europe/Paris:20260703T143000
+SUMMARY:📣 Post réseaux : L’Apéro des Bouchos à Châtelaillon-Plage
+DESCRIPTION:🌅 L’Apéro des Bouchos revient à Châtelaillon-Plage
+END:VEVENT
+BEGIN:VEVENT
 UID:b1a3ba51d97caecb560dc38f560e1aca@poster.kultureouest.fr
 DTSTAMP:20260703T163000Z
 DTSTART;TZID=Europe/Paris:20260703T183000
