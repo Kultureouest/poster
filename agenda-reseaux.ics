@@ -110,6 +110,14 @@ SUMMARY:📣 Post réseaux : Concert d’Araëlle — Musique celtique à Cource
 DESCRIPTION:🎤 CONCERT D’ARAËLLE — Une parenthèse celtique envoûtante 🌿
 END:VEVENT
 BEGIN:VEVENT
+UID:2ee14ecf8ce5309e384dc9b05d9a0529@poster.kultureouest.fr
+DTSTAMP:20260706T050000Z
+DTSTART;TZID=Europe/Paris:20260706T070000
+DTEND;TZID=Europe/Paris:20260706T073000
+SUMMARY:📣 Post réseaux : Cours de natation au centre aquatique de Châtelaillon-Plage
+DESCRIPTION:💦 Comme un poisson dans l’eau à Châtelaillon-Plage
+END:VEVENT
+BEGIN:VEVENT
 UID:1ad711de73a656125e00e02b8246c149@poster.kultureouest.fr
 DTSTAMP:20260706T143000Z
 DTSTART;TZID=Europe/Paris:20260706T163000
