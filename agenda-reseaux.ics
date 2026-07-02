@@ -150,6 +150,14 @@ SUMMARY:📣 Post réseaux : Les Folies Maritimes – 1ᵉʳᵉ édition
 DESCRIPTION:🔥 FOLIES MARITIMES — 1ᵉʳᵉ édition — Samedi 11 juillet à Marennes-Hiers-Brouage
 END:VEVENT
 BEGIN:VEVENT
+UID:b80e072a934d469976b0a1b12b976612@poster.kultureouest.fr
+DTSTAMP:20260710T043000Z
+DTSTART;TZID=Europe/Paris:20260710T063000
+DTEND;TZID=Europe/Paris:20260710T070000
+SUMMARY:📣 Post réseaux : Ouverture exceptionnelle en nocturne de la boutique Emmaüs de Marennes
+DESCRIPTION:À Marennes\, la boutique Emmaüs ouvre ses portes en nocturne pour une soirée chine sous les lumières d'été.
+END:VEVENT
+BEGIN:VEVENT
 UID:9c6688c1e6e312859d343b6440302e8f@poster.kultureouest.fr
 DTSTAMP:20260710T160500Z
 DTSTART;TZID=Europe/Paris:20260710T180500
