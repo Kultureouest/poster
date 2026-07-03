@@ -166,6 +166,14 @@ SUMMARY:📣 Post réseaux : Brocante du Comité des Fêtes à Port-des-Barques
 DESCRIPTION:🧺 Brocante sur le front de mer à Port-des-Barques
 END:VEVENT
 BEGIN:VEVENT
+UID:3359bdd3a018b2bf9b7126c9a67bd586@poster.kultureouest.fr
+DTSTAMP:20260712T100000Z
+DTSTART;TZID=Europe/Paris:20260712T120000
+DTEND;TZID=Europe/Paris:20260712T123000
+SUMMARY:📣 Post réseaux : Le Off des Francofolies à La Belle du Gabut
+DESCRIPTION:🎶 Le Off prend ses quartiers à La Belle du Gabut
+END:VEVENT
+BEGIN:VEVENT
 UID:e37a0126b2e65a723a240c15c3498746@poster.kultureouest.fr
 DTSTAMP:20260717T160000Z
 DTSTART;TZID=Europe/Paris:20260717T180000
