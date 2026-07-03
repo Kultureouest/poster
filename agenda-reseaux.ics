@@ -158,6 +158,14 @@ SUMMARY:📣 Post réseaux : De l’opéra au tango à Saint-Agnant
 DESCRIPTION:🎻 De l’opéra au tango à Saint-Agnant
 END:VEVENT
 BEGIN:VEVENT
+UID:438f3a508b50089dd187094c3773d63f@poster.kultureouest.fr
+DTSTAMP:20260712T043000Z
+DTSTART;TZID=Europe/Paris:20260712T063000
+DTEND;TZID=Europe/Paris:20260712T070000
+SUMMARY:📣 Post réseaux : Brocante du Comité des Fêtes à Port-des-Barques
+DESCRIPTION:🧺 Brocante sur le front de mer à Port-des-Barques
+END:VEVENT
+BEGIN:VEVENT
 UID:e37a0126b2e65a723a240c15c3498746@poster.kultureouest.fr
 DTSTAMP:20260717T160000Z
 DTSTART;TZID=Europe/Paris:20260717T180000
