@@ -182,6 +182,14 @@ SUMMARY:📣 Post réseaux : Fête nationale à Soubise : jeux\, foodtruck et fe
 DESCRIPTION:À Soubise\, le 13 juillet\, la Place Robert Chatelier se transforme en cœur battant de la fête nationale\, entre jeux\, rest
 END:VEVENT
 BEGIN:VEVENT
+UID:0f57d3ec4b7f10107dcc91dda8d4ef41@poster.kultureouest.fr
+DTSTAMP:20260716T100000Z
+DTSTART;TZID=Europe/Paris:20260716T120000
+DTEND;TZID=Europe/Paris:20260716T123000
+SUMMARY:📣 Post réseaux : Le Roi qui n'aimait pas la musique – concert jeune public à la médiathèque de Marennes
+DESCRIPTION:Et si un roi refusait d'entendre la musique ? À la médiathèque de Marennes\, les musiciens du festival Entre Vents et Mar
+END:VEVENT
+BEGIN:VEVENT
 UID:e37a0126b2e65a723a240c15c3498746@poster.kultureouest.fr
 DTSTAMP:20260717T160000Z
 DTSTART;TZID=Europe/Paris:20260717T180000
