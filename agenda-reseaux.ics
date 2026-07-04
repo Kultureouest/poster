@@ -86,6 +86,14 @@ SUMMARY:📣 Post réseaux : Le Tour du monde en 80 tours à la Comédie La Roch
 DESCRIPTION:🎩 Le Tour du monde en 80 tours à La Rochelle
 END:VEVENT
 BEGIN:VEVENT
+UID:2836d92301f3ac38e09919a8fb9cb6aa@poster.kultureouest.fr
+DTSTAMP:20260707T153000Z
+DTSTART;TZID=Europe/Paris:20260707T173000
+DTEND;TZID=Europe/Paris:20260707T180000
+SUMMARY:📣 Post réseaux : Les Jeudis Ô Quais à Tonnay-Charente
+DESCRIPTION:🎶 Les Jeudis Ô Quais reviennent à Tonnay-Charente
+END:VEVENT
+BEGIN:VEVENT
 UID:da64be8bcb12078ee87766e7a58c6d7a@poster.kultureouest.fr
 DTSTAMP:20260708T043000Z
 DTSTART;TZID=Europe/Paris:20260708T063000
