@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dc6735daed37157f89464ba3d2fdbc08@poster.kultureouest.fr
-DTSTAMP:20260704T120000Z
-DTSTART;TZID=Europe/Paris:20260704T140000
-DTEND;TZID=Europe/Paris:20260704T143000
-SUMMARY:📣 Post réseaux : Où voir France-Paraguay ce samedi ? Nos adresses entre Rochefort et La Rochelle
-DESCRIPTION:Samedi 4 juillet à 23h (heure française)\, les Bleus affrontent le Paraguay en huitième de finale de la Coupe du monde\, à
-END:VEVENT
-BEGIN:VEVENT
 UID:3a7c03e9c023e261de95b94cc7a10f63@poster.kultureouest.fr
 DTSTAMP:20260704T153000Z
 DTSTART;TZID=Europe/Paris:20260704T173000
