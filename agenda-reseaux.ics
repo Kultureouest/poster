@@ -38,6 +38,14 @@ SUMMARY:📣 Post réseaux : Où voir France-Paraguay ce samedi ? Nos adresses e
 DESCRIPTION:Samedi 4 juillet à 23h (heure française)\, les Bleus affrontent le Paraguay en huitième de finale de la Coupe du monde\, à
 END:VEVENT
 BEGIN:VEVENT
+UID:3a7c03e9c023e261de95b94cc7a10f63@poster.kultureouest.fr
+DTSTAMP:20260704T153000Z
+DTSTART;TZID=Europe/Paris:20260704T173000
+DTEND;TZID=Europe/Paris:20260704T180000
+SUMMARY:📣 Post réseaux : Breuil en fête à Breuil-Magné
+DESCRIPTION:🎉 Breuil en fête revient aux Vieux Fours
+END:VEVENT
+BEGIN:VEVENT
 UID:bba2e736a7ce31deb435e97c15be00f4@poster.kultureouest.fr
 DTSTAMP:20260705T043000Z
 DTSTART;TZID=Europe/Paris:20260705T063000
