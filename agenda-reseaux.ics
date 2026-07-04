@@ -118,6 +118,14 @@ SUMMARY:📣 Post réseaux : Feu d’artifice et marché semi-nocturne à Lussan
 DESCRIPTION:🎆 Feu d’artifice et marché semi-nocturne à Lussant
 END:VEVENT
 BEGIN:VEVENT
+UID:2605062c2dd0042d3401d4c2316db05a@poster.kultureouest.fr
+DTSTAMP:20260709T043000Z
+DTSTART;TZID=Europe/Paris:20260709T063000
+DTEND;TZID=Europe/Paris:20260709T070000
+SUMMARY:📣 Post réseaux : Rendez-vous Électro à Champagne avec Jus de Bagarre
+DESCRIPTION:Deux soirées en plein air pour vibrer au son de l'électro\, signées Rochefort Océan !
+END:VEVENT
+BEGIN:VEVENT
 UID:be735f80cca0475ba657a0f32700ba2c@poster.kultureouest.fr
 DTSTAMP:20260709T160000Z
 DTSTART;TZID=Europe/Paris:20260709T180000
