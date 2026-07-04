@@ -86,6 +86,14 @@ SUMMARY:📣 Post réseaux : Le Tour du monde en 80 tours à la Comédie La Roch
 DESCRIPTION:🎩 Le Tour du monde en 80 tours à La Rochelle
 END:VEVENT
 BEGIN:VEVENT
+UID:93bb50ea4ce05a7bb32e7af1a6b4e264@poster.kultureouest.fr
+DTSTAMP:20260707T050000Z
+DTSTART;TZID=Europe/Paris:20260707T070000
+DTEND;TZID=Europe/Paris:20260707T073000
+SUMMARY:📣 Post réseaux : Anne Roumanoff à la Comédie La Rochelle : nouvelle date
+DESCRIPTION:🚨 Nouvelle date pour Anne Roumanoff à La Rochelle
+END:VEVENT
+BEGIN:VEVENT
 UID:2836d92301f3ac38e09919a8fb9cb6aa@poster.kultureouest.fr
 DTSTAMP:20260707T153000Z
 DTSTART;TZID=Europe/Paris:20260707T173000
