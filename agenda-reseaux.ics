@@ -86,6 +86,14 @@ SUMMARY:📣 Post réseaux : Rendez-vous Électro à Champagne avec Jus de Bagar
 DESCRIPTION:Deux soirées en plein air pour vibrer au son de l'électro\, signées Rochefort Océan !
 END:VEVENT
 BEGIN:VEVENT
+UID:e7a2f4fb52f0755a2b1ef06b25234044@poster.kultureouest.fr
+DTSTAMP:20260709T101500Z
+DTSTART;TZID=Europe/Paris:20260709T121500
+DTEND;TZID=Europe/Paris:20260709T124500
+SUMMARY:📣 Post réseaux : Où voir France / Maroc jeudi soir autour de Rochefort ?
+DESCRIPTION:⚽ Où voir France / Maroc jeudi soir ?
+END:VEVENT
+BEGIN:VEVENT
 UID:be735f80cca0475ba657a0f32700ba2c@poster.kultureouest.fr
 DTSTAMP:20260709T160000Z
 DTSTART;TZID=Europe/Paris:20260709T180000
