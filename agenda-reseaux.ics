@@ -46,6 +46,14 @@ SUMMARY:📣 Post réseaux : Anne Roumanoff à la Comédie La Rochelle : nouvell
 DESCRIPTION:🚨 Nouvelle date pour Anne Roumanoff à La Rochelle
 END:VEVENT
 BEGIN:VEVENT
+UID:5ea06b12150f93e91f1ed39f5ba07bf9@poster.kultureouest.fr
+DTSTAMP:20260707T100000Z
+DTSTART;TZID=Europe/Paris:20260707T120000
+DTEND;TZID=Europe/Paris:20260707T123000
+SUMMARY:📣 Post réseaux : Les Mardis sur le Pont avec Adelante Salsa à Rochefort
+DESCRIPTION:🌉💃 Mardi\, on danse sur le pont à Rochefort
+END:VEVENT
+BEGIN:VEVENT
 UID:2836d92301f3ac38e09919a8fb9cb6aa@poster.kultureouest.fr
 DTSTAMP:20260707T153000Z
 DTSTART;TZID=Europe/Paris:20260707T173000
