@@ -142,6 +142,14 @@ SUMMARY:📣 Post réseaux : Le Off des Francofolies à La Belle du Gabut
 DESCRIPTION:🎶 Le Off prend ses quartiers à La Belle du Gabut
 END:VEVENT
 BEGIN:VEVENT
+UID:f1cc12e1d22c245a1271f9359ca873ef@poster.kultureouest.fr
+DTSTAMP:20260712T163000Z
+DTSTART;TZID=Europe/Paris:20260712T183000
+DTEND;TZID=Europe/Paris:20260712T190000
+SUMMARY:📣 Post réseaux : Les principaux feux d’artifice près de chez vous
+DESCRIPTION:🎆 Les principaux feux d’artifice près de chez vous
+END:VEVENT
+BEGIN:VEVENT
 UID:5b83c7c085b9d7ad29f7e83481697e6c@poster.kultureouest.fr
 DTSTAMP:20260713T100000Z
 DTSTART;TZID=Europe/Paris:20260713T120000
