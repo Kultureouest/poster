@@ -126,6 +126,14 @@ SUMMARY:📣 Post réseaux : De l’opéra au tango à Saint-Agnant
 DESCRIPTION:🎻 De l’opéra au tango à Saint-Agnant
 END:VEVENT
 BEGIN:VEVENT
+UID:0043ee2e681714977fd92ad0732a0f69@poster.kultureouest.fr
+DTSTAMP:20260711T100000Z
+DTSTART;TZID=Europe/Paris:20260711T120000
+DTEND;TZID=Europe/Paris:20260711T123000
+SUMMARY:📣 Post réseaux : Les bals des pompiers près de chez nous
+DESCRIPTION:🚒 Les bals des pompiers près de chez nous
+END:VEVENT
+BEGIN:VEVENT
 UID:438f3a508b50089dd187094c3773d63f@poster.kultureouest.fr
 DTSTAMP:20260712T043000Z
 DTSTART;TZID=Europe/Paris:20260712T063000
