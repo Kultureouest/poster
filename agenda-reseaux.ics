@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : Les Folies Maritimes – 1ᵉʳᵉ édition
 DESCRIPTION:🔥 FOLIES MARITIMES — 1ᵉʳᵉ édition — Samedi 11 juillet à Marennes-Hiers-Brouage
 END:VEVENT
 BEGIN:VEVENT
+UID:d87db2c5a19c19727cf3c4a557ffb6e3@poster.kultureouest.fr
+DTSTAMP:20260709T170000Z
+DTSTART;TZID=Europe/Paris:20260709T190000
+DTEND;TZID=Europe/Paris:20260709T193000
+SUMMARY:📣 Post réseaux : Où voir France / Maroc jeudi ?
+DESCRIPTION:⚽ Où voir France / Maroc jeudi ?
+END:VEVENT
+BEGIN:VEVENT
 UID:b80e072a934d469976b0a1b12b976612@poster.kultureouest.fr
 DTSTAMP:20260710T043000Z
 DTSTART;TZID=Europe/Paris:20260710T063000
