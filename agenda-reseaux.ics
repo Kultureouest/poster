@@ -134,6 +134,14 @@ SUMMARY:📣 Post réseaux : Le Roi qui n'aimait pas la musique – concert jeun
 DESCRIPTION:Et si un roi refusait d'entendre la musique ? À la médiathèque de Marennes\, les musiciens du festival Entre Vents et Mar
 END:VEVENT
 BEGIN:VEVENT
+UID:9c68c218ec875604151c84c11f168b92@poster.kultureouest.fr
+DTSTAMP:20260717T043000Z
+DTSTART;TZID=Europe/Paris:20260717T063000
+DTEND;TZID=Europe/Paris:20260717T070000
+SUMMARY:📣 Post réseaux : Soirée guinguette de Bourcefranc-le-Chapus : 2e édition avec Papa Jive
+DESCRIPTION:🎪 La guinguette de Bourcefranc-le-Chapus revient pour une 2e édition !
+END:VEVENT
+BEGIN:VEVENT
 UID:e37a0126b2e65a723a240c15c3498746@poster.kultureouest.fr
 DTSTAMP:20260717T160000Z
 DTSTART;TZID=Europe/Paris:20260717T180000
