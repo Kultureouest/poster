@@ -5,9 +5,13 @@ run_file.py — Le "facteur" Kulture Ouest
 
 Parcourt file/*.json. Pour chaque job dont publish_at est arrivé (<= maintenant,
 comparé en UTC), appelle poster_reseaux.poster_job(), puis range le job :
-  • succès complet (Instagram ET Facebook) -> done/
-  • échec                                   -> failed/  (+ code de sortie 1 = alerte)
+  • succès Instagram ET Facebook -> done/
+  • échec IG ou FB               -> failed/  (+ code de sortie 1 = alerte)
 Les jobs encore dans le futur sont laissés en place pour un prochain tour.
+
+Bluesky est BEST EFFORT : son résultat est loggé mais n'entre PAS dans la
+décision done/failed. Ainsi, un échec Bluesky isolé ne renvoie jamais le job
+en failed/ (ce qui provoquerait un repost IG/FB en double au tour suivant).
 
 publish_at accepté : ISO 8601, idéalement avec fuseau, ex. "2026-06-25T09:00:00+02:00".
 Si aucun fuseau n'est précisé, on suppose l'heure de Paris.
@@ -72,16 +76,18 @@ def main():
             continue
 
         print(f"\n>>> Job dû : {name} (publish_at={when_s})")
-        ig, fb = poster_reseaux.poster_job(job)
+        ig, fb, bsky = poster_reseaux.poster_job(job)
         ts = now.strftime("%Y%m%d-%H%M%S")
 
+        # Verdict done/failed sur IG + FB uniquement. Bluesky = best effort.
         if ig and fb:
             shutil.move(path, os.path.join(DONE_DIR, f"{ts}_{name}"))
-            print(f"✅ Posté (IG={ig}, FB={fb}) — archivé dans done/")
+            bsky_txt = str(bsky) if bsky else "échec/désactivé (best effort)"
+            print(f"✅ Posté (IG={ig}, FB={fb}, Bluesky={bsky_txt}) — archivé dans done/")
             posted += 1
         else:
             shutil.move(path, os.path.join(FAILED_DIR, f"{ts}_{name}"))
-            print(f"❌ Échec (IG={ig}, FB={fb}) — déplacé dans failed/")
+            print(f"❌ Échec (IG={ig}, FB={fb}, Bluesky={bsky}) — déplacé dans failed/")
             any_fail = True
 
     print(f"\nBilan : {posted} job(s) posté(s).")
