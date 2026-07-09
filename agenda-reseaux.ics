@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2605062c2dd0042d3401d4c2316db05a@poster.kultureouest.fr
-DTSTAMP:20260709T043000Z
-DTSTART;TZID=Europe/Paris:20260709T063000
-DTEND;TZID=Europe/Paris:20260709T070000
-SUMMARY:📣 Post réseaux : Rendez-vous Électro à Champagne avec Jus de Bagarre
-DESCRIPTION:Deux soirées en plein air pour vibrer au son de l'électro\, signées Rochefort Océan !
-END:VEVENT
-BEGIN:VEVENT
 UID:e7a2f4fb52f0755a2b1ef06b25234044@poster.kultureouest.fr
 DTSTAMP:20260709T101500Z
 DTSTART;TZID=Europe/Paris:20260709T121500
