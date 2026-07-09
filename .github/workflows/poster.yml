@@ -26,14 +26,16 @@ jobs:
           python-version: "3.11"
 
       - name: Installer les dependances
-        run: pip install requests
+        run: pip install requests pillow
 
       - name: Poster les jobs dus
         env:
-          IG_TOKEN:       ${{ secrets.IG_TOKEN }}
-          IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
-          FB_PAGE_TOKEN:  ${{ secrets.FB_PAGE_TOKEN }}
-          FB_PAGE_ID:     ${{ secrets.FB_PAGE_ID }}
+          IG_TOKEN:          ${{ secrets.IG_TOKEN }}
+          IG_BUSINESS_ID:    ${{ secrets.IG_BUSINESS_ID }}
+          FB_PAGE_TOKEN:     ${{ secrets.FB_PAGE_TOKEN }}
+          FB_PAGE_ID:        ${{ secrets.FB_PAGE_ID }}
+          BSKY_HANDLE:       ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
         run: python run_file.py
 
       - name: Regenerer l'agenda ICS des posts
