@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6d983eef6ed8f77672ef84613d80c0e2@poster.kultureouest.fr
-DTSTAMP:20260714T180000Z
-DTSTART;TZID=Europe/Paris:20260714T200000
-DTEND;TZID=Europe/Paris:20260714T203000
-SUMMARY:📣 Post réseaux : Soirée guinguette à Bourcefranc-Le Chapus : concert de Papa Jive
-DESCRIPTION:Une pelouse\, des guirlandes\, un groupe qui swingue et l'odeur des food-trucks : la guinguette de Bourcefranc revient pou
-END:VEVENT
-BEGIN:VEVENT
 UID:f6e71591f4eee17c34f282b22b973846@poster.kultureouest.fr
 DTSTAMP:20260715T043000Z
 DTSTART;TZID=Europe/Paris:20260715T063000
