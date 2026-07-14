@@ -22,6 +22,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:7054fa559da664a6572ce3ee53f82182@poster.kultureouest.fr
+DTSTAMP:20260714T100000Z
+DTSTART;TZID=Europe/Paris:20260714T120000
+DTEND;TZID=Europe/Paris:20260714T123000
+SUMMARY:📣 Post réseaux : Festival du Souffle 2026 — 17e édition à l'Abbaye Royale de Celles-sur-Belle
+DESCRIPTION:Pendant quatre jours\, les pierres de l'Abbaye Royale de Celles-sur-Belle vibrent au souffle des saxophones - et de tout 
+END:VEVENT
+BEGIN:VEVENT
 UID:4ce43f6b8a52d8e999aa64a4eab90395@poster.kultureouest.fr
 DTSTAMP:20260714T130000Z
 DTSTART;TZID=Europe/Paris:20260714T150000
