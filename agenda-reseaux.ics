@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 1er août
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:d413117925ba50292be3d38d711e7dc0@poster.kultureouest.fr
+DTSTAMP:20260814T043000Z
+DTSTART;TZID=Europe/Paris:20260814T063000
+DTEND;TZID=Europe/Paris:20260814T070000
+SUMMARY:📣 Post réseaux : Fête de l'Huître 2026 à Fouras
+DESCRIPTION:Deux jours durant\, la prairie du Casino de Fouras sent l'iode\, le citron et la friture : la Fête de l'Huître revient\, et
+END:VEVENT
+BEGIN:VEVENT
 UID:744e51c9ced52d3936791885c59b691c@poster.kultureouest.fr
 DTSTAMP:20260816T100000Z
 DTSTART;TZID=Europe/Paris:20260816T120000
