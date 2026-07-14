@@ -22,6 +22,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:4ce43f6b8a52d8e999aa64a4eab90395@poster.kultureouest.fr
+DTSTAMP:20260714T130000Z
+DTSTART;TZID=Europe/Paris:20260714T150000
+DTEND;TZID=Europe/Paris:20260714T153000
+SUMMARY:📣 Post réseaux : La France va gagner ! Mettez votre score en commentaire
+DESCRIPTION:🇫🇷⚽ La France va gagner ! Mettez votre score en commentaire
+END:VEVENT
+BEGIN:VEVENT
 UID:0f57d3ec4b7f10107dcc91dda8d4ef41@poster.kultureouest.fr
 DTSTAMP:20260716T100000Z
 DTSTART;TZID=Europe/Paris:20260716T120000
