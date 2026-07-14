@@ -78,6 +78,14 @@ SUMMARY:📣 Post réseaux : Forrest Gump en VOSTFR au CGR La Rochelle Les Minim
 DESCRIPTION:🎬 Forrest Gump revient au cinéma à La Rochelle
 END:VEVENT
 BEGIN:VEVENT
+UID:1659bdd72f98dfe0dbe56459efaf93ca@poster.kultureouest.fr
+DTSTAMP:20260720T183000Z
+DTSTART;TZID=Europe/Paris:20260720T203000
+DTEND;TZID=Europe/Paris:20260720T210000
+SUMMARY:📣 Post réseaux : Mercredis Jazz : Fred Dupin "Valve Trombone" à La Gripperie-Saint-Symphorien
+DESCRIPTION:Un terrain en herbe\, une petite scène à côté de l'église\, et le jazz qui s'installe pour la soirée : les Mercredis Jazz 
+END:VEVENT
+BEGIN:VEVENT
 UID:b5ab62b59dce81d77d0f91d2e9d6e7bf@poster.kultureouest.fr
 DTSTAMP:20260721T100000Z
 DTSTART;TZID=Europe/Paris:20260721T120000
