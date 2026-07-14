@@ -46,6 +46,14 @@ SUMMARY:📣 Post réseaux : Soirée hantée au Château de Panloy
 DESCRIPTION:Aurez-vous le courage de découvrir Panloy une fois la nuit tombée ?
 END:VEVENT
 BEGIN:VEVENT
+UID:3dbdd94a0b18fb8ae3b2ad6fed21ff47@poster.kultureouest.fr
+DTSTAMP:20260715T100000Z
+DTSTART;TZID=Europe/Paris:20260715T120000
+DTEND;TZID=Europe/Paris:20260715T123000
+SUMMARY:📣 Post réseaux : Clem'n The Rock en concert au restaurant Le Flandre
+DESCRIPTION:Une salle en bois façon carène de bateau\, la forêt de pins juste derrière\, et un trio rock qui monte le son : le Flandre
+END:VEVENT
+BEGIN:VEVENT
 UID:0f57d3ec4b7f10107dcc91dda8d4ef41@poster.kultureouest.fr
 DTSTAMP:20260716T100000Z
 DTSTART;TZID=Europe/Paris:20260716T120000
