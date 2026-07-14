@@ -30,6 +30,14 @@ SUMMARY:📣 Post réseaux : La France va gagner ! Mettez votre score en comment
 DESCRIPTION:🇫🇷⚽ La France va gagner ! Mettez votre score en commentaire
 END:VEVENT
 BEGIN:VEVENT
+UID:f6e71591f4eee17c34f282b22b973846@poster.kultureouest.fr
+DTSTAMP:20260715T043000Z
+DTSTART;TZID=Europe/Paris:20260715T063000
+DTEND;TZID=Europe/Paris:20260715T070000
+SUMMARY:📣 Post réseaux : Soirée hantée au Château de Panloy
+DESCRIPTION:Aurez-vous le courage de découvrir Panloy une fois la nuit tombée ?
+END:VEVENT
+BEGIN:VEVENT
 UID:0f57d3ec4b7f10107dcc91dda8d4ef41@poster.kultureouest.fr
 DTSTAMP:20260716T100000Z
 DTSTART;TZID=Europe/Paris:20260716T120000
