@@ -62,6 +62,14 @@ SUMMARY:📣 Post réseaux : L’Évasion : soirée électro à Fouras-les-Bains
 DESCRIPTION:🎧 L’Évasion débarque à Fouras-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+UID:24f1d2a37d6a3f49b8d83d96b56bf109@poster.kultureouest.fr
+DTSTAMP:20260718T043000Z
+DTSTART;TZID=Europe/Paris:20260718T063000
+DTEND;TZID=Europe/Paris:20260718T070000
+SUMMARY:📣 Post réseaux : Soirée concert moules-frites au Bistrot Gourmand à Montendre
+DESCRIPTION:🎶 Moules-frites et soirée concert à Montendre
+END:VEVENT
+BEGIN:VEVENT
 UID:4988e2a6685e37ec4f05ad11a85d89ff@poster.kultureouest.fr
 DTSTAMP:20260719T043000Z
 DTSTART;TZID=Europe/Paris:20260719T063000
