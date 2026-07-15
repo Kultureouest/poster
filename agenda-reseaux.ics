@@ -62,6 +62,14 @@ SUMMARY:📣 Post réseaux : L’Évasion : soirée électro à Fouras-les-Bains
 DESCRIPTION:🎧 L’Évasion débarque à Fouras-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+UID:4988e2a6685e37ec4f05ad11a85d89ff@poster.kultureouest.fr
+DTSTAMP:20260719T043000Z
+DTSTART;TZID=Europe/Paris:20260719T063000
+DTEND;TZID=Europe/Paris:20260719T070000
+SUMMARY:📣 Post réseaux : Le Fleuve en Fête à Port-d’Envaux
+DESCRIPTION:⚓🎶 Le Fleuve en Fête à Port-d’Envaux
+END:VEVENT
+BEGIN:VEVENT
 UID:f5c4dc99bb5bbaab1854f1743c3000c9@poster.kultureouest.fr
 DTSTAMP:20260719T163000Z
 DTSTART;TZID=Europe/Paris:20260719T183000
