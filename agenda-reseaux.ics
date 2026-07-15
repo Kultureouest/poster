@@ -102,6 +102,14 @@ SUMMARY:📣 Post réseaux : Soirées Hantées au Château de Panloy
 DESCRIPTION:👻 Osez les Soirées Hantées au Château de Panloy
 END:VEVENT
 BEGIN:VEVENT
+UID:4bcddbb5f4dc9f5ca00ef4303dee4e3e@poster.kultureouest.fr
+DTSTAMP:20260722T163000Z
+DTSTART;TZID=Europe/Paris:20260722T183000
+DTEND;TZID=Europe/Paris:20260722T190000
+SUMMARY:📣 Post réseaux : Les Gaillardes à Échillais et Rochefort : théâtre à vélo
+DESCRIPTION:🎭 Les Gaillardes débarquent à Échillais !
+END:VEVENT
+BEGIN:VEVENT
 UID:0999f3bd4abed26482cf6afd09c3215f@poster.kultureouest.fr
 DTSTAMP:20260731T100000Z
 DTSTART;TZID=Europe/Paris:20260731T120000
