@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:74ff1397d0ff106c820f51ac88c827f7@poster.kultureouest.fr
-DTSTAMP:20260716T163000Z
-DTSTART;TZID=Europe/Paris:20260716T183000
-DTEND;TZID=Europe/Paris:20260716T190000
-SUMMARY:📣 Post réseaux : Magnezik Festival : soirée électronique à La Fabuleuse Cantine
-DESCRIPTION:Le soleil se couche sur le bassin\, les basses montent : le Magnezik Festival pose ses platines à La Rochelle pour une nu
-END:VEVENT
-BEGIN:VEVENT
 UID:9c68c218ec875604151c84c11f168b92@poster.kultureouest.fr
 DTSTAMP:20260717T043000Z
 DTSTART;TZID=Europe/Paris:20260717T063000
