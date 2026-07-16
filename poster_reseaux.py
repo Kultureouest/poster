@@ -41,6 +41,7 @@ FB_API_URL = "https://graph.facebook.com/v21.0"
 BSKY_ENTRY         = "https://bsky.social"   # point d'entrée pour resolveHandle
 BSKY_MAX_GRAPHEMES = 300                     # limite dure d'un post Bluesky
 BSKY_BLOB_MAX      = 976_000                 # ~976 Ko : taille max d'un blob image
+BSKY_LINK_LABEL    = "kultureouest.fr"       # libellé cliquable affiché pour le lien article
 
 
 # ─── Publication Instagram (inchangée) ────────────────────────────────────────
@@ -182,11 +183,14 @@ def _bsky_resolve_pds(did):
     return BSKY_ENTRY
 
 
-def _bsky_caption(jetpack_message):
+def _bsky_caption(jetpack_message, article_url=None):
     """
     Dérive une légende Bluesky (≤ 300 graphèmes) à partir du jetpack_message :
     accroche + factuel (2 premiers paragraphes), hashtags réduits à 1-2 clés
     + #kultureouest17. Les hashtags génériques CharenteMaritime sont retirés.
+
+    Si article_url est fourni, ajoute en fin de post un lien vers l'article
+    (libellé court « kultureouest.fr », rendu cliquable par _bsky_facets).
     """
     txt = jetpack_message or ""
     tags = re.findall(r"#\w+", txt)
@@ -210,14 +214,21 @@ def _bsky_caption(jetpack_message):
     key.append("#kultureouest17")
     suffix = " " + " ".join(key)
 
-    budget = BSKY_MAX_GRAPHEMES - len(suffix) - 1
+    link_part = ("\n\n🔗 " + BSKY_LINK_LABEL) if article_url else ""
+
+    budget = BSKY_MAX_GRAPHEMES - len(suffix) - len(link_part) - 1
     if len(accroche) > budget:
         accroche = accroche[:budget - 1].rstrip(" .,;:!?-") + "…"
-    return (accroche + suffix).strip()
+    return (accroche + suffix + link_part).strip()
 
 
-def _bsky_facets(text):
-    """Rend les #hashtags cliquables (facets sur offsets d'OCTETS UTF-8)."""
+def _bsky_facets(text, article_url=None):
+    """
+    Rend cliquables (facets sur offsets d'OCTETS UTF-8) :
+      - les #hashtags (feature #tag) ;
+      - le libellé du lien article (feature #link) si article_url est fourni :
+        le texte affiché reste « kultureouest.fr » mais pointe vers l'URL complète.
+    """
     facets = []
     for m in re.finditer(r"#(\w+)", text):
         start = len(text[:m.start()].encode("utf-8"))
@@ -226,6 +237,15 @@ def _bsky_facets(text):
             "index": {"byteStart": start, "byteEnd": end},
             "features": [{"$type": "app.bsky.richtext.facet#tag", "tag": m.group(1)}],
         })
+    if article_url:
+        pos = text.rfind(BSKY_LINK_LABEL)
+        if pos != -1:
+            start = len(text[:pos].encode("utf-8"))
+            end   = len(text[:pos + len(BSKY_LINK_LABEL)].encode("utf-8"))
+            facets.append({
+                "index": {"byteStart": start, "byteEnd": end},
+                "features": [{"$type": "app.bsky.richtext.facet#link", "uri": article_url}],
+            })
     return facets
 
 
@@ -252,7 +272,7 @@ def _bsky_prepare_image(image_url):
         return data, mime
 
 
-def publier_bluesky(image_url, jetpack_message, title):
+def publier_bluesky(image_url, jetpack_message, title, article_url=None):
     print("\n┌─ BLUESKY ───────────────────────────────────────────────")
     handle = os.environ.get("BSKY_HANDLE")
     app_pw = os.environ.get("BSKY_APP_PASSWORD")
@@ -295,7 +315,7 @@ def publier_bluesky(image_url, jetpack_message, title):
             return None
         blob = ub.json()["blob"]
 
-        caption = _bsky_caption(jetpack_message)
+        caption = _bsky_caption(jetpack_message, article_url)
         record = {
             "$type": "app.bsky.feed.post",
             "text": caption,
@@ -306,7 +326,7 @@ def publier_bluesky(image_url, jetpack_message, title):
                 "images": [{"alt": (title or caption)[:280], "image": blob}],
             },
         }
-        facets = _bsky_facets(caption)
+        facets = _bsky_facets(caption, article_url)
         if facets:
             record["facets"] = facets
 
@@ -399,9 +419,10 @@ def poster_job(job):
     social_img = (job.get("image_url_social") or "").strip() or (job.get("image_url") or "").strip()
     legende    = job.get("jetpack_message", "")
     title      = job.get("title", "")
+    art_url    = (job.get("article_url") or "").strip() or None
     ig   = publier_instagram(social_img, legende)
     fb   = publier_facebook(social_img, legende)
-    bsky = publier_bluesky(social_img, legende, title)
+    bsky = publier_bluesky(social_img, legende, title, art_url)
     return ig, fb, bsky
 
 
