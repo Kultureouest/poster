@@ -102,6 +102,14 @@ SUMMARY:📣 Post réseaux : Les Gaillardes à Échillais et Rochefort : théât
 DESCRIPTION:🎭 Les Gaillardes débarquent à Échillais !
 END:VEVENT
 BEGIN:VEVENT
+UID:bc455467896e6be38648ad3f388fbcfc@poster.kultureouest.fr
+DTSTAMP:20260723T163000Z
+DTSTART;TZID=Europe/Paris:20260723T183000
+DTEND;TZID=Europe/Paris:20260723T190000
+SUMMARY:📣 Post réseaux : Bières en Live #4
+DESCRIPTION:On revient\, et on revient fort ! Bières en Live débarque pour sa 4e édition les 24 et 25 juillet 2026 sur l'esplanade du
+END:VEVENT
+BEGIN:VEVENT
 UID:60930dcda3b9b1d109a775afe0d546c0@poster.kultureouest.fr
 DTSTAMP:20260723T163000Z
 DTSTART;TZID=Europe/Paris:20260723T183000
