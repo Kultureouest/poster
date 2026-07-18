@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : Sabor Dominicano Flower Power à La Fabuleuse Canti
 DESCRIPTION:🌺 Sabor Dominicano revient à La Rochelle !
 END:VEVENT
 BEGIN:VEVENT
+UID:8d1a2fd7b5fb3eb2e2e63d3a4d3c48cb@poster.kultureouest.fr
+DTSTAMP:20260725T043000Z
+DTSTART;TZID=Europe/Paris:20260725T063000
+DTEND;TZID=Europe/Paris:20260725T070000
+SUMMARY:📣 Post réseaux : Festival Ondes Classiques : Violoncelle en Voile à Marsilly
+DESCRIPTION:⛵ Cap sur Marsilly pour le Festival Ondes Classiques !
+END:VEVENT
+BEGIN:VEVENT
 UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
 DTSTAMP:20260731T043000Z
 DTSTART;TZID=Europe/Paris:20260731T063000
