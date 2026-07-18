@@ -86,6 +86,14 @@ SUMMARY:📣 Post réseaux : Sabor Dominicano Flower Power à La Fabuleuse Canti
 DESCRIPTION:🌺 Sabor Dominicano revient à La Rochelle !
 END:VEVENT
 BEGIN:VEVENT
+UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
+DTSTAMP:20260731T043000Z
+DTSTART;TZID=Europe/Paris:20260731T063000
+DTEND;TZID=Europe/Paris:20260731T070000
+SUMMARY:📣 Post réseaux : Concert de jazz au Moulin de la Platine
+DESCRIPTION:🎷 Le concert de jazz du Moulin de la Platine est de retour !
+END:VEVENT
+BEGIN:VEVENT
 UID:0999f3bd4abed26482cf6afd09c3215f@poster.kultureouest.fr
 DTSTAMP:20260731T100000Z
 DTSTART;TZID=Europe/Paris:20260731T120000
