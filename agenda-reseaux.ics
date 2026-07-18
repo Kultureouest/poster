@@ -54,6 +54,14 @@ SUMMARY:📣 Post réseaux : Mercredis Jazz : Fred Dupin "Valve Trombone" à La 
 DESCRIPTION:Un terrain en herbe\, une petite scène à côté de l'église\, et le jazz qui s'installe pour la soirée : les Mercredis Jazz 
 END:VEVENT
 BEGIN:VEVENT
+UID:fb50eb44d09a12297609f697fedf6359@poster.kultureouest.fr
+DTSTAMP:20260721T043000Z
+DTSTART;TZID=Europe/Paris:20260721T063000
+DTEND;TZID=Europe/Paris:20260721T070000
+SUMMARY:📣 Post réseaux : Soirée années 80 avec Laurent Damont à Saint-Martin-de-Ré
+DESCRIPTION:🪩 Une soirée 100 % années 80 sur le port de Saint-Martin-de-Ré !
+END:VEVENT
+BEGIN:VEVENT
 UID:b5ab62b59dce81d77d0f91d2e9d6e7bf@poster.kultureouest.fr
 DTSTAMP:20260721T100000Z
 DTSTART;TZID=Europe/Paris:20260721T120000
