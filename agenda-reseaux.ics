@@ -126,6 +126,14 @@ SUMMARY:📣 Post réseaux : Salon Créateur d'Art Polynésien – Rochefort 202
 DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
 END:VEVENT
 BEGIN:VEVENT
+UID:c0c3bb078dfb5dee81b57a0b667a7516@poster.kultureouest.fr
+DTSTAMP:20260808T043000Z
+DTSTART;TZID=Europe/Paris:20260808T063000
+DTEND;TZID=Europe/Paris:20260808T070000
+SUMMARY:📣 Post réseaux : 48e Fête des Boucholeurs – Châtelaillon-Plage
+DESCRIPTION:🌊🦪 Le dimanche 9 août 2026\, cap sur le village des Boucholeurs pour la 48e Fête des Boucholeurs\, à Châtelaillon-Plage !
+END:VEVENT
+BEGIN:VEVENT
 UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
