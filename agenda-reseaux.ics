@@ -118,6 +118,14 @@ SUMMARY:📣 Post réseaux : Les Mercredis du Jazz à Échillais : visite patrim
 DESCRIPTION:🎷 Les Mercredis du Jazz font escale à Échillais
 END:VEVENT
 BEGIN:VEVENT
+UID:092be44be11d3a7b4896f4ed30059c2e@poster.kultureouest.fr
+DTSTAMP:20260806T043000Z
+DTSTART;TZID=Europe/Paris:20260806T063000
+DTEND;TZID=Europe/Paris:20260806T070000
+SUMMARY:📣 Post réseaux : Salon Créateur d'Art Polynésien – Rochefort 2026
+DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
+END:VEVENT
+BEGIN:VEVENT
 UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
