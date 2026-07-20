@@ -54,6 +54,14 @@ SUMMARY:📣 Post réseaux : Brocante du BMX Club Saintais
 DESCRIPTION:Envie de chiner en famille un dimanche d'été ? Direction l'Espace Mendes France à Saintes pour la grande brocante organi
 END:VEVENT
 BEGIN:VEVENT
+UID:8348aef793c01ebf7280942dbf0d71e2@poster.kultureouest.fr
+DTSTAMP:20260721T154900Z
+DTSTART;TZID=Europe/Paris:20260721T174900
+DTEND;TZID=Europe/Paris:20260721T181900
+SUMMARY:📣 Post réseaux : Brocante de Saintes - BMX Club Saintais
+DESCRIPTION:Chineurs et curieux\, notez la date : la grande brocante d'été de Saintes revient pour une journée entière de bonnes affa
+END:VEVENT
+BEGIN:VEVENT
 UID:4bcddbb5f4dc9f5ca00ef4303dee4e3e@poster.kultureouest.fr
 DTSTAMP:20260722T163000Z
 DTSTART;TZID=Europe/Paris:20260722T183000
