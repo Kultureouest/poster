@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1659bdd72f98dfe0dbe56459efaf93ca@poster.kultureouest.fr
-DTSTAMP:20260720T183000Z
-DTSTART;TZID=Europe/Paris:20260720T203000
-DTEND;TZID=Europe/Paris:20260720T210000
-SUMMARY:📣 Post réseaux : Mercredis Jazz : Fred Dupin "Valve Trombone" à La Gripperie-Saint-Symphorien
-DESCRIPTION:Un terrain en herbe\, une petite scène à côté de l'église\, et le jazz qui s'installe pour la soirée : les Mercredis Jazz 
-END:VEVENT
-BEGIN:VEVENT
 UID:fb50eb44d09a12297609f697fedf6359@poster.kultureouest.fr
 DTSTAMP:20260721T043000Z
 DTSTART;TZID=Europe/Paris:20260721T063000
