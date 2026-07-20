@@ -46,6 +46,14 @@ SUMMARY:📣 Post réseaux : Soirées Hantées au Château de Panloy
 DESCRIPTION:👻 Osez les Soirées Hantées au Château de Panloy
 END:VEVENT
 BEGIN:VEVENT
+UID:2d151bd9f52cc938e05dac585d9a1525@poster.kultureouest.fr
+DTSTAMP:20260721T145400Z
+DTSTART;TZID=Europe/Paris:20260721T165400
+DTEND;TZID=Europe/Paris:20260721T172400
+SUMMARY:📣 Post réseaux : Brocante du BMX Club Saintais
+DESCRIPTION:Envie de chiner en famille un dimanche d'été ? Direction l'Espace Mendes France à Saintes pour la grande brocante organi
+END:VEVENT
+BEGIN:VEVENT
 UID:4bcddbb5f4dc9f5ca00ef4303dee4e3e@poster.kultureouest.fr
 DTSTAMP:20260722T163000Z
 DTSTART;TZID=Europe/Paris:20260722T183000
