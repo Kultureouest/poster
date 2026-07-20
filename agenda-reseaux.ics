@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : Sabor Dominicano Flower Power à La Fabuleuse Canti
 DESCRIPTION:🌺 Sabor Dominicano revient à La Rochelle !
 END:VEVENT
 BEGIN:VEVENT
+UID:807efe2aa1972ef4e6ba353da7a5fdb4@poster.kultureouest.fr
+DTSTAMP:20260724T171800Z
+DTSTART;TZID=Europe/Paris:20260724T191800
+DTEND;TZID=Europe/Paris:20260724T194800
+SUMMARY:📣 Post réseaux : Un Violon sur le Sable – Concert du 25 juillet à Royan (changement de programmation)
+DESCRIPTION:Le rendez-vous incontournable des amateurs de musique classique sur la plage de Royan se réinvente cet été avec un nouve
+END:VEVENT
+BEGIN:VEVENT
 UID:8d1a2fd7b5fb3eb2e2e63d3a4d3c48cb@poster.kultureouest.fr
 DTSTAMP:20260725T043000Z
 DTSTART;TZID=Europe/Paris:20260725T063000
