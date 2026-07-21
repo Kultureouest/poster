@@ -62,6 +62,14 @@ SUMMARY:📣 Post réseaux : Surgères Brass Festival • Les 10 ans !
 DESCRIPTION:Pendant trois jours\, le Parc du Château de Surgères vibre pour les 10 ans du Surgères Brass Festival !
 END:VEVENT
 BEGIN:VEVENT
+UID:6ea60bbd3b6f359c382f2849ac57b6c8@poster.kultureouest.fr
+DTSTAMP:20260723T100000Z
+DTSTART;TZID=Europe/Paris:20260723T120000
+DTEND;TZID=Europe/Paris:20260723T123000
+SUMMARY:📣 Post réseaux : "Je préfère qu'on reste amis" - Noctambules Théâtrales de Fouras
+DESCRIPTION:Le rideau tombe en beauté sur les Noctambules Théâtrales de Fouras avec une comédie qui promet des éclats de rire à ne p
+END:VEVENT
+BEGIN:VEVENT
 UID:bc455467896e6be38648ad3f388fbcfc@poster.kultureouest.fr
 DTSTAMP:20260723T163000Z
 DTSTART;TZID=Europe/Paris:20260723T183000
