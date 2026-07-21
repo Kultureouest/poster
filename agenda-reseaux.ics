@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2d151bd9f52cc938e05dac585d9a1525@poster.kultureouest.fr
-DTSTAMP:20260721T145400Z
-DTSTART;TZID=Europe/Paris:20260721T165400
-DTEND;TZID=Europe/Paris:20260721T172400
-SUMMARY:📣 Post réseaux : Brocante du BMX Club Saintais
-DESCRIPTION:Envie de chiner en famille un dimanche d'été ? Direction l'Espace Mendes France à Saintes pour la grande brocante organi
-END:VEVENT
-BEGIN:VEVENT
 UID:8aae8e950aa6b234723031ace3c218d3@poster.kultureouest.fr
 DTSTAMP:20260722T044000Z
 DTSTART;TZID=Europe/Paris:20260722T064000
