@@ -30,6 +30,14 @@ SUMMARY:📣 Post réseaux : Brocante du BMX Club Saintais
 DESCRIPTION:Envie de chiner en famille un dimanche d'été ? Direction l'Espace Mendes France à Saintes pour la grande brocante organi
 END:VEVENT
 BEGIN:VEVENT
+UID:8aae8e950aa6b234723031ace3c218d3@poster.kultureouest.fr
+DTSTAMP:20260722T044000Z
+DTSTART;TZID=Europe/Paris:20260722T064000
+DTEND;TZID=Europe/Paris:20260722T071000
+SUMMARY:📣 Post réseaux : Pique-nique du Grouin – Concert Good Vibes
+DESCRIPTION:Un coucher de soleil\, une nappe posée dans le sable et une ambiance musicale live : le pique-nique du Grouin fait son re
+END:VEVENT
+BEGIN:VEVENT
 UID:dc081e867df80463fa0ea8602714e986@poster.kultureouest.fr
 DTSTAMP:20260722T094500Z
 DTSTART;TZID=Europe/Paris:20260722T114500
