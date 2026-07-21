@@ -86,6 +86,14 @@ SUMMARY:📣 Post réseaux : Festival Ondes Classiques : Violoncelle en Voile à
 DESCRIPTION:⛵ Cap sur Marsilly pour le Festival Ondes Classiques !
 END:VEVENT
 BEGIN:VEVENT
+UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
+DTSTAMP:20260729T043900Z
+DTSTART;TZID=Europe/Paris:20260729T063900
+DTEND;TZID=Europe/Paris:20260729T070900
+SUMMARY:📣 Post réseaux : Les Mercredis Jazz - Parc de la Forêt\, Rochefort
+DESCRIPTION:L'été rochefortais vibre à nouveau au rythme du jazz avec le retour des Mercredis Jazz\, rendez-vous incontournable de la
+END:VEVENT
+BEGIN:VEVENT
 UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
 DTSTAMP:20260731T043000Z
 DTSTART;TZID=Europe/Paris:20260731T063000
