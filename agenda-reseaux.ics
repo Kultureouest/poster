@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 1er août
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:742a8a4ad70b4b9ca70248fbae061646@poster.kultureouest.fr
+DTSTAMP:20260801T113900Z
+DTSTART;TZID=Europe/Paris:20260801T133900
+DTEND;TZID=Europe/Paris:20260801T140900
+SUMMARY:📣 Post réseaux : Hommage à Mike Brant avec Claude Arena – Repas-spectacle à Soubise
+DESCRIPTION:Le temps d'un dimanche\, la voix légendaire de Mike Brant revit à Soubise pour célébrer les 50 ans de son répertoire.
+END:VEVENT
+BEGIN:VEVENT
 UID:ab013d1a8a429a4ccc931770fbd95104@poster.kultureouest.fr
 DTSTAMP:20260804T110300Z
 DTSTART;TZID=Europe/Paris:20260804T130300
