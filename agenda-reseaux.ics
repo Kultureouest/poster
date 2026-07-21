@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 1er août
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:ab013d1a8a429a4ccc931770fbd95104@poster.kultureouest.fr
+DTSTAMP:20260804T110300Z
+DTSTART;TZID=Europe/Paris:20260804T130300
+DTEND;TZID=Europe/Paris:20260804T133300
+SUMMARY:📣 Post réseaux : Remontée de la Seudre — Les 30 ans
+DESCRIPTION:🎉 Remontée de la Seudre – 30 ans 😍
+END:VEVENT
+BEGIN:VEVENT
 UID:f88c95fde90b67623ba45e7b35e519e2@poster.kultureouest.fr
 DTSTAMP:20260804T163000Z
 DTSTART;TZID=Europe/Paris:20260804T183000
