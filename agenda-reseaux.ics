@@ -30,14 +30,6 @@ SUMMARY:📣 Post réseaux : Brocante du BMX Club Saintais
 DESCRIPTION:Envie de chiner en famille un dimanche d'été ? Direction l'Espace Mendes France à Saintes pour la grande brocante organi
 END:VEVENT
 BEGIN:VEVENT
-UID:858bd31ed644496cc96f81c0c8a4b01b@poster.kultureouest.fr
-DTSTAMP:20260722T092600Z
-DTSTART;TZID=Europe/Paris:20260722T112600
-DTEND;TZID=Europe/Paris:20260722T115600
-SUMMARY:📣 Post réseaux : Marché Nocturne Estival de Châtelaillon-Plage
-DESCRIPTION:Chaque dimanche soir de l'été\, la place Jean Moulin s'illumine et se transforme en promenade gourmande et artisanale au 
-END:VEVENT
-BEGIN:VEVENT
 UID:dc081e867df80463fa0ea8602714e986@poster.kultureouest.fr
 DTSTAMP:20260722T094500Z
 DTSTART;TZID=Europe/Paris:20260722T114500
