@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 1er août
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:96f35fe43c9330ccbc4fbe018f7262b6@poster.kultureouest.fr
+DTSTAMP:20260801T113900Z
+DTSTART;TZID=Europe/Paris:20260801T133900
+DTEND;TZID=Europe/Paris:20260801T140900
+SUMMARY:📣 Post réseaux : Pique-nique du Grouin – Concert Good Vibes
+DESCRIPTION:Un coucher de soleil\, une nappe posée dans le sable et une ambiance musicale live : le pique-nique du Grouin fait son re
+END:VEVENT
+BEGIN:VEVENT
 UID:742a8a4ad70b4b9ca70248fbae061646@poster.kultureouest.fr
 DTSTAMP:20260801T113900Z
 DTSTART;TZID=Europe/Paris:20260801T133900
