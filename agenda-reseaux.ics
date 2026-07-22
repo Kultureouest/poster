@@ -22,6 +22,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:17111e717133c8c42d5569c293357422@poster.kultureouest.fr
+DTSTAMP:20260722T175000Z
+DTSTART;TZID=Europe/Paris:20260722T195000
+DTEND;TZID=Europe/Paris:20260722T202000
+SUMMARY:📣 Post réseaux : Con Fuoco ! Concert de l'Orchestre Sortilège à La Rochelle
+DESCRIPTION:🔥🎼 Con Fuoco ! Le feu s'installe à La Rochelle pour un concert symphonique incandescent.
+END:VEVENT
+BEGIN:VEVENT
 UID:0a952d17f19667349616dc66bff92eae@poster.kultureouest.fr
 DTSTAMP:20260723T043000Z
 DTSTART;TZID=Europe/Paris:20260723T063000
