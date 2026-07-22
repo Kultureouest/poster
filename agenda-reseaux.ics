@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ba91fb24bfa8bacc56ca98591bd51b13@poster.kultureouest.fr
-DTSTAMP:20260722T120000Z
-DTSTART;TZID=Europe/Paris:20260722T140000
-DTEND;TZID=Europe/Paris:20260722T143000
-SUMMARY:📣 Post réseaux : Les "jeudis énigmes" à la Citadelle de Brouage
-DESCRIPTION:Chaque jeudi de l'été\, la citadelle de Brouage se transforme en terrain de jeu pour les familles en quête d'indices.
-END:VEVENT
-BEGIN:VEVENT
 UID:4bcddbb5f4dc9f5ca00ef4303dee4e3e@poster.kultureouest.fr
 DTSTAMP:20260722T163000Z
 DTSTART;TZID=Europe/Paris:20260722T183000
