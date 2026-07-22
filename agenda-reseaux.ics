@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dc081e867df80463fa0ea8602714e986@poster.kultureouest.fr
-DTSTAMP:20260722T094500Z
-DTSTART;TZID=Europe/Paris:20260722T114500
-DTEND;TZID=Europe/Paris:20260722T121500
-SUMMARY:📣 Post réseaux : Marché Nocturne Estival de Châtelaillon-Plage
-DESCRIPTION:Le Marché Nocturne Estival de Châtelaillon-Plage revient chaque dimanche soir sur la place Jean Moulin.
-END:VEVENT
-BEGIN:VEVENT
 UID:ba91fb24bfa8bacc56ca98591bd51b13@poster.kultureouest.fr
 DTSTAMP:20260722T120000Z
 DTSTART;TZID=Europe/Paris:20260722T140000
