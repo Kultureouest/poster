@@ -22,22 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bc455467896e6be38648ad3f388fbcfc@poster.kultureouest.fr
-DTSTAMP:20260723T163000Z
-DTSTART;TZID=Europe/Paris:20260723T183000
-DTEND;TZID=Europe/Paris:20260723T190000
-SUMMARY:📣 Post réseaux : Bières en Live #4
-DESCRIPTION:On revient\, et on revient fort ! Bières en Live débarque pour sa 4e édition les 24 et 25 juillet 2026 sur l'esplanade du
-END:VEVENT
-BEGIN:VEVENT
-UID:60930dcda3b9b1d109a775afe0d546c0@poster.kultureouest.fr
-DTSTAMP:20260723T163000Z
-DTSTART;TZID=Europe/Paris:20260723T183000
-DTEND;TZID=Europe/Paris:20260723T190000
-SUMMARY:📣 Post réseaux : Sabor Dominicano Flower Power à La Fabuleuse Cantine
-DESCRIPTION:🌺 Sabor Dominicano revient à La Rochelle !
-END:VEVENT
-BEGIN:VEVENT
 UID:4eaf3dce52c98ca3d0b2c3379e4be725@poster.kultureouest.fr
 DTSTAMP:20260724T100900Z
 DTSTART;TZID=Europe/Paris:20260724T120900
