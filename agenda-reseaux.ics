@@ -22,22 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6ea60bbd3b6f359c382f2849ac57b6c8@poster.kultureouest.fr
-DTSTAMP:20260723T100000Z
-DTSTART;TZID=Europe/Paris:20260723T120000
-DTEND;TZID=Europe/Paris:20260723T123000
-SUMMARY:📣 Post réseaux : "Je préfère qu'on reste amis" - Noctambules Théâtrales de Fouras
-DESCRIPTION:Le rideau tombe en beauté sur les Noctambules Théâtrales de Fouras avec une comédie qui promet des éclats de rire à ne p
-END:VEVENT
-BEGIN:VEVENT
-UID:08d0e2040f96b3a41a91b62e60ead419@poster.kultureouest.fr
-DTSTAMP:20260723T100000Z
-DTSTART;TZID=Europe/Paris:20260723T120000
-DTEND;TZID=Europe/Paris:20260723T123000
-SUMMARY:📣 Post réseaux : Stereoparc Festival
-DESCRIPTION:🎶🔥 STEREOPARC FESTIVAL – Rochefort
-END:VEVENT
-BEGIN:VEVENT
 UID:bc455467896e6be38648ad3f388fbcfc@poster.kultureouest.fr
 DTSTAMP:20260723T163000Z
 DTSTART;TZID=Europe/Paris:20260723T183000
