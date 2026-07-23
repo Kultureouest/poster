@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0a952d17f19667349616dc66bff92eae@poster.kultureouest.fr
-DTSTAMP:20260723T043000Z
-DTSTART;TZID=Europe/Paris:20260723T063000
-DTEND;TZID=Europe/Paris:20260723T070000
-SUMMARY:📣 Post réseaux : Surgères Brass Festival • Les 10 ans !
-DESCRIPTION:Pendant trois jours\, le Parc du Château de Surgères vibre pour les 10 ans du Surgères Brass Festival !
-END:VEVENT
-BEGIN:VEVENT
 UID:6ea60bbd3b6f359c382f2849ac57b6c8@poster.kultureouest.fr
 DTSTAMP:20260723T100000Z
 DTSTART;TZID=Europe/Paris:20260723T120000
