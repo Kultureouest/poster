@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4eaf3dce52c98ca3d0b2c3379e4be725@poster.kultureouest.fr
-DTSTAMP:20260724T100900Z
-DTSTART;TZID=Europe/Paris:20260724T120900
-DTEND;TZID=Europe/Paris:20260724T123900
-SUMMARY:📣 Post réseaux : Jazz au Phare 2026 - Festival de jazz\, Île de Ré
-DESCRIPTION:Cinq soirées\, quatre scènes et l'océan en toile de fond : la 17e édition de Jazz au Phare enflamme l'Île de Ré du 26 au 
-END:VEVENT
-BEGIN:VEVENT
 UID:807efe2aa1972ef4e6ba353da7a5fdb4@poster.kultureouest.fr
 DTSTAMP:20260724T171800Z
 DTSTART;TZID=Europe/Paris:20260724T191800
