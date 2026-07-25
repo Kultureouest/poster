@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ad30ada5c45eaa1e198c75ce2b8e7eab@poster.kultureouest.fr
-DTSTAMP:20260725T095400Z
-DTSTART;TZID=Europe/Paris:20260725T115400
-DTEND;TZID=Europe/Paris:20260725T122400
-SUMMARY:📣 Post réseaux : Une Saison sous le Clocher — Concert Duo D'Âmes de Chœur
-DESCRIPTION:Une parenthèse vocale hors du temps s'annonce sous les voûtes de l'église de Saint-Nazaire-sur-Charente\, le temps d'un «
-END:VEVENT
-BEGIN:VEVENT
 UID:6ae11953ef5fd9af6593eec1feb072ed@poster.kultureouest.fr
 DTSTAMP:20260725T153000Z
 DTSTART;TZID=Europe/Paris:20260725T173000
