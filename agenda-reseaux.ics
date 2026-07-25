@@ -46,6 +46,14 @@ SUMMARY:📣 Post réseaux : Nuit de la Chauve-Souris au Moulin des Loges
 DESCRIPTION:Quand la nuit tombe sur le marais de Saint-Just-Luzac\, un monde discret et fascinant s'éveille : celui des chauves-souri
 END:VEVENT
 BEGIN:VEVENT
+UID:e744b6fd752c70afb848699ec4e81b11@poster.kultureouest.fr
+DTSTAMP:20260727T043000Z
+DTSTART;TZID=Europe/Paris:20260727T063000
+DTEND;TZID=Europe/Paris:20260727T070000
+SUMMARY:📣 Post réseaux : Soirée Quiz Musical & Karaoké Pirate à la Guinguette Korser Breizh (Aytré)
+DESCRIPTION:À travers cette soirée thématique et festive en bord de mer\, la guinguette Korser Breizh d'Aytré invite habitants\, estiv
+END:VEVENT
+BEGIN:VEVENT
 UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
 DTSTAMP:20260729T043900Z
 DTSTART;TZID=Europe/Paris:20260729T063900
