@@ -70,6 +70,14 @@ SUMMARY:📣 Post réseaux : Soirée Quiz Musical & Karaoké Pirate à la Guingu
 DESCRIPTION:À travers cette soirée thématique et festive en bord de mer\, la guinguette Korser Breizh d'Aytré invite habitants\, estiv
 END:VEVENT
 BEGIN:VEVENT
+UID:d95944b7b8020f9cca0e54e37cb15d81@poster.kultureouest.fr
+DTSTAMP:20260727T100000Z
+DTSTART;TZID=Europe/Paris:20260727T120000
+DTEND;TZID=Europe/Paris:20260727T123000
+SUMMARY:📣 Post réseaux : Pierre et le Loup – Concert Jeune Public (Festival Musique en Ré)
+DESCRIPTION:Le célèbre conte musical de Prokofiev prend vie sur l'Île de Ré pour éveiller les oreilles des plus jeunes.
+END:VEVENT
+BEGIN:VEVENT
 UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
 DTSTAMP:20260729T043900Z
 DTSTART;TZID=Europe/Paris:20260729T063900
