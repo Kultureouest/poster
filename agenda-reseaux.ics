@@ -30,6 +30,14 @@ SUMMARY:📣 Post réseaux : Une Saison sous le Clocher — Concert Duo D'Âmes 
 DESCRIPTION:Une parenthèse vocale hors du temps s'annonce sous les voûtes de l'église de Saint-Nazaire-sur-Charente\, le temps d'un «
 END:VEVENT
 BEGIN:VEVENT
+UID:656cb45a9f33db48a25acee67b54d1e1@poster.kultureouest.fr
+DTSTAMP:20260726T095400Z
+DTSTART;TZID=Europe/Paris:20260726T115400
+DTEND;TZID=Europe/Paris:20260726T122400
+SUMMARY:📣 Post réseaux : Nuit de la Chauve-Souris au Moulin des Loges
+DESCRIPTION:Quand la nuit tombe sur le marais de Saint-Just-Luzac\, un monde discret et fascinant s'éveille : celui des chauves-souri
+END:VEVENT
+BEGIN:VEVENT
 UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
 DTSTAMP:20260729T043900Z
 DTSTART;TZID=Europe/Paris:20260729T063900
