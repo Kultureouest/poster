@@ -30,6 +30,14 @@ SUMMARY:📣 Post réseaux : Une Saison sous le Clocher — Concert Duo D'Âmes 
 DESCRIPTION:Une parenthèse vocale hors du temps s'annonce sous les voûtes de l'église de Saint-Nazaire-sur-Charente\, le temps d'un «
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae11953ef5fd9af6593eec1feb072ed@poster.kultureouest.fr
+DTSTAMP:20260725T153000Z
+DTSTART;TZID=Europe/Paris:20260725T173000
+DTEND;TZID=Europe/Paris:20260725T180000
+SUMMARY:📣 Post réseaux : Concert Jazz Manouche : La Pompe Funèbre à La Colo
+DESCRIPTION:Ce samedi soir\, l'île d'Oléron vibre au son du swing manouche avec le concert de La Pompe Funèbre à La Colo\, à Dolus-d'O
+END:VEVENT
+BEGIN:VEVENT
 UID:49fd350343b33bfbce28724487abebd2@poster.kultureouest.fr
 DTSTAMP:20260726T043000Z
 DTSTART;TZID=Europe/Paris:20260726T063000
