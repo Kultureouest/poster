@@ -46,6 +46,14 @@ SUMMARY:📣 Post réseaux : Nuit de la Chauve-Souris au Moulin des Loges
 DESCRIPTION:Quand la nuit tombe sur le marais de Saint-Just-Luzac\, un monde discret et fascinant s'éveille : celui des chauves-souri
 END:VEVENT
 BEGIN:VEVENT
+UID:fb49926c57d60e96453d27bdf88dc244@poster.kultureouest.fr
+DTSTAMP:20260726T153000Z
+DTSTART;TZID=Europe/Paris:20260726T173000
+DTEND;TZID=Europe/Paris:20260726T180000
+SUMMARY:📣 Post réseaux : Concert aux saveurs marines : Toméléon à Oliver's Cook
+DESCRIPTION:Le temps d'une soirée d'été\, les quais du port de plaisance de Rochefort se mettent aux couleurs de la musique et des sa
+END:VEVENT
+BEGIN:VEVENT
 UID:e744b6fd752c70afb848699ec4e81b11@poster.kultureouest.fr
 DTSTAMP:20260727T043000Z
 DTSTART;TZID=Europe/Paris:20260727T063000
