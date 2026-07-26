@@ -62,6 +62,14 @@ SUMMARY:📣 Post réseaux : Les Lundis de l'Arsenal - Rochefort
 DESCRIPTION:Comme chaque lundi de l'été\, l'Arsenal des Mers de Rochefort se transforme en scène à ciel ouvert pour une soirée gratui
 END:VEVENT
 BEGIN:VEVENT
+UID:a02fc83f3e3c014927f96c32fa1a3737@poster.kultureouest.fr
+DTSTAMP:20260728T041100Z
+DTSTART;TZID=Europe/Paris:20260728T061100
+DTEND;TZID=Europe/Paris:20260728T064100
+SUMMARY:📣 Post réseaux : Les Brassées Solidaires - 6ᵉ édition
+DESCRIPTION:Le temps d'une soirée d'été\, Échillais se transforme en village festif et solidaire pour la 6ᵉ édition des Brassées Soli
+END:VEVENT
+BEGIN:VEVENT
 UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
 DTSTAMP:20260729T043900Z
 DTSTART;TZID=Europe/Paris:20260729T063900
