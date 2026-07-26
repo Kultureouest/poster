@@ -110,6 +110,14 @@ SUMMARY:📣 Post réseaux : Concert Tchalaï - Les Mercredis du Clos
 DESCRIPTION:Un mercredi de juillet au bord de la Charente\, embarquez pour un voyage musical sans frontières avec le trio Tchalaï.
 END:VEVENT
 BEGIN:VEVENT
+UID:60322efcb57fbc810dbf2e1546a1aa49@poster.kultureouest.fr
+DTSTAMP:20260729T153000Z
+DTSTART;TZID=Europe/Paris:20260729T173000
+DTEND;TZID=Europe/Paris:20260729T180000
+SUMMARY:📣 Post réseaux : Une Folle Époque Cuba Do Re — Soirée Salsa Cubaine
+DESCRIPTION:Une Folle Époque Cuba Do Re 🇨🇺
+END:VEVENT
+BEGIN:VEVENT
 UID:b4964a0304dd00ca7ce20baaa80f2b8c@poster.kultureouest.fr
 DTSTAMP:20260730T043000Z
 DTSTART;TZID=Europe/Paris:20260730T063000
