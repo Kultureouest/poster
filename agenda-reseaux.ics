@@ -110,6 +110,14 @@ SUMMARY:📣 Post réseaux : Concert Tchalaï - Les Mercredis du Clos
 DESCRIPTION:Un mercredi de juillet au bord de la Charente\, embarquez pour un voyage musical sans frontières avec le trio Tchalaï.
 END:VEVENT
 BEGIN:VEVENT
+UID:b4964a0304dd00ca7ce20baaa80f2b8c@poster.kultureouest.fr
+DTSTAMP:20260730T043000Z
+DTSTART;TZID=Europe/Paris:20260730T063000
+DTEND;TZID=Europe/Paris:20260730T070000
+SUMMARY:📣 Post réseaux : Grand Déstockage Vivractif à Tonnay-Charente
+DESCRIPTION:Envie de faire de bonnes affaires avant la rentrée ? Vivractif ouvre grand ses portes pour un déstockage exceptionnel !
+END:VEVENT
+BEGIN:VEVENT
 UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
 DTSTAMP:20260731T043000Z
 DTSTART;TZID=Europe/Paris:20260731T063000
