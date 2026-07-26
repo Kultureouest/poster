@@ -54,6 +54,14 @@ SUMMARY:📣 Post réseaux : Pierre et le Loup – Concert Jeune Public (Festiva
 DESCRIPTION:Le célèbre conte musical de Prokofiev prend vie sur l'Île de Ré pour éveiller les oreilles des plus jeunes.
 END:VEVENT
 BEGIN:VEVENT
+UID:c72e8f19a6ef4827f319ed37d8737fee@poster.kultureouest.fr
+DTSTAMP:20260727T151100Z
+DTSTART;TZID=Europe/Paris:20260727T171100
+DTEND;TZID=Europe/Paris:20260727T174100
+SUMMARY:📣 Post réseaux : Les Lundis de l'Arsenal - Rochefort
+DESCRIPTION:Comme chaque lundi de l'été\, l'Arsenal des Mers de Rochefort se transforme en scène à ciel ouvert pour une soirée gratui
+END:VEVENT
+BEGIN:VEVENT
 UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
 DTSTAMP:20260729T043900Z
 DTSTART;TZID=Europe/Paris:20260729T063900
