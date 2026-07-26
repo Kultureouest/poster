@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:49fd350343b33bfbce28724487abebd2@poster.kultureouest.fr
-DTSTAMP:20260726T043000Z
-DTSTART;TZID=Europe/Paris:20260726T063000
-DTEND;TZID=Europe/Paris:20260726T070000
-SUMMARY:📣 Post réseaux : 6ème Grand Marché aux Livres de Tonnay-Charente
-DESCRIPTION:Le temps d'un dimanche d'été\, le quai de la Libération de Tonnay-Charente se transforme en un immense marché à ciel ouve
-END:VEVENT
-BEGIN:VEVENT
 UID:656cb45a9f33db48a25acee67b54d1e1@poster.kultureouest.fr
 DTSTAMP:20260726T095400Z
 DTSTART;TZID=Europe/Paris:20260726T115400
