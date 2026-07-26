@@ -86,6 +86,14 @@ SUMMARY:📣 Post réseaux : Festival Electro Ré 2026
 DESCRIPTION:Deux jours et deux nuits pour vivre la toute première édition d'un festival électro pensé pour l'Île de Ré.
 END:VEVENT
 BEGIN:VEVENT
+UID:00538a330ca913053f1d220fb30973a2@poster.kultureouest.fr
+DTSTAMP:20260729T043000Z
+DTSTART;TZID=Europe/Paris:20260729T063000
+DTEND;TZID=Europe/Paris:20260729T070000
+SUMMARY:📣 Post réseaux : Tournoi jeu vidéo Karting SS 123 à la Micro-Folie de Marennes
+DESCRIPTION:Qui décrochera la pole position ? La Micro-Folie de Marennes met le turbo pour un tournoi de jeu vidéo endiablé.
+END:VEVENT
+BEGIN:VEVENT
 UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
 DTSTAMP:20260729T043900Z
 DTSTART;TZID=Europe/Paris:20260729T063900
