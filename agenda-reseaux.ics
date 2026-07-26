@@ -94,6 +94,14 @@ SUMMARY:📣 Post réseaux : Les Mercredis Jazz - Parc de la Forêt\, Rochefort
 DESCRIPTION:L'été rochefortais vibre à nouveau au rythme du jazz avec le retour des Mercredis Jazz\, rendez-vous incontournable de la
 END:VEVENT
 BEGIN:VEVENT
+UID:9fa9fb86b82ae3bbaf392e418d3863dc@poster.kultureouest.fr
+DTSTAMP:20260729T100600Z
+DTSTART;TZID=Europe/Paris:20260729T120600
+DTEND;TZID=Europe/Paris:20260729T123600
+SUMMARY:📣 Post réseaux : Concert Tchalaï - Les Mercredis du Clos
+DESCRIPTION:Un mercredi de juillet au bord de la Charente\, embarquez pour un voyage musical sans frontières avec le trio Tchalaï.
+END:VEVENT
+BEGIN:VEVENT
 UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
 DTSTAMP:20260731T043000Z
 DTSTART;TZID=Europe/Paris:20260731T063000
