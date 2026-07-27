@@ -246,6 +246,14 @@ SUMMARY:📣 Post réseaux : Port en Fête : Brocante & Feux d'Artifice à Bourc
 DESCRIPTION:⚓️🎆 Port en Fête à Bourcefranc-le-Chapus ! Le Comité des Fêtes et la CSMMM invitent habitants\, estivants et gens de mer 
 END:VEVENT
 BEGIN:VEVENT
+UID:4d448fadc7d75b193d57d128e51c7684@poster.kultureouest.fr
+DTSTAMP:20260813T043600Z
+DTSTART;TZID=Europe/Paris:20260813T063600
+DTEND;TZID=Europe/Paris:20260813T070600
+SUMMARY:📣 Post réseaux : Grande Randonnée Solex\, Mobylettes & Motos – Fouqueure
+DESCRIPTION:Le 15 août\, Fouqueure vibrera au rythme des moteurs anciens pour une grande randonnée dédiée aux Solex\, mobylettes et mo
+END:VEVENT
+BEGIN:VEVENT
 UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
