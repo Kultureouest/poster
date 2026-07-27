@@ -182,6 +182,14 @@ SUMMARY:📣 Post réseaux : Salon Créateur d'Art Polynésien – Rochefort 202
 DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
 END:VEVENT
 BEGIN:VEVENT
+UID:340f3203e9265b85fa55f86af652bc8d@poster.kultureouest.fr
+DTSTAMP:20260807T040600Z
+DTSTART;TZID=Europe/Paris:20260807T060600
+DTEND;TZID=Europe/Paris:20260807T063600
+SUMMARY:📣 Post réseaux : Ciné Good Vibes Festival : projection The Doors et concert de Mazingo
+DESCRIPTION:Une soirée où le grand écran s'embrase au son du rock : le Ciné Good Vibes Festival transforme le Cinéma Agnès Varda en 
+END:VEVENT
+BEGIN:VEVENT
 UID:c0c3bb078dfb5dee81b57a0b667a7516@poster.kultureouest.fr
 DTSTAMP:20260808T043000Z
 DTSTART;TZID=Europe/Paris:20260808T063000
