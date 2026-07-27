@@ -134,6 +134,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore – Port-des-Barques
 DESCRIPTION:Le temps d'un samedi\, Port-des-Barques se transforme en havre de convivialité les pieds dans le sable.
 END:VEVENT
 BEGIN:VEVENT
+UID:312f5f16283057d769536e4508445f86@poster.kultureouest.fr
+DTSTAMP:20260801T040600Z
+DTSTART;TZID=Europe/Paris:20260801T060600
+DTEND;TZID=Europe/Paris:20260801T063600
+SUMMARY:📣 Post réseaux : Paillettes Party\, concert pop & DJ set solidaire à La Belle du Gabut
+DESCRIPTION:Le samedi 1er août\, la Friche du Gabut à La Rochelle s'illumine de paillettes pour une soirée festive et solidaire.
+END:VEVENT
+BEGIN:VEVENT
 UID:96f35fe43c9330ccbc4fbe018f7262b6@poster.kultureouest.fr
 DTSTAMP:20260801T113900Z
 DTSTART;TZID=Europe/Paris:20260801T133900
