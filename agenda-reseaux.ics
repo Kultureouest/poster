@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d95944b7b8020f9cca0e54e37cb15d81@poster.kultureouest.fr
-DTSTAMP:20260727T100000Z
-DTSTART;TZID=Europe/Paris:20260727T120000
-DTEND;TZID=Europe/Paris:20260727T123000
-SUMMARY:📣 Post réseaux : Pierre et le Loup – Concert Jeune Public (Festival Musique en Ré)
-DESCRIPTION:Le célèbre conte musical de Prokofiev prend vie sur l'Île de Ré pour éveiller les oreilles des plus jeunes.
-END:VEVENT
-BEGIN:VEVENT
 UID:c72e8f19a6ef4827f319ed37d8737fee@poster.kultureouest.fr
 DTSTAMP:20260727T151100Z
 DTSTART;TZID=Europe/Paris:20260727T171100
