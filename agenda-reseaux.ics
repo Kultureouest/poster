@@ -230,6 +230,14 @@ SUMMARY:📣 Post réseaux : Ciné Good Vibes Festival : Le Livre de la Jungle &
 DESCRIPTION:Une matinée pas comme les autres où le cinéma de patrimoine rencontre la scène live\, pour replonger en famille dans la j
 END:VEVENT
 BEGIN:VEVENT
+UID:0b977e2ebd44ad31d0e3907229f06828@poster.kultureouest.fr
+DTSTAMP:20260808T162500Z
+DTSTART;TZID=Europe/Paris:20260808T182500
+DTEND;TZID=Europe/Paris:20260808T185500
+SUMMARY:📣 Post réseaux : Port en Fête : Brocante & Feux d'Artifice à Bourcefranc-le-Chapus
+DESCRIPTION:⚓️🎆 Port en Fête à Bourcefranc-le-Chapus ! Le Comité des Fêtes et la CSMMM invitent habitants\, estivants et gens de mer 
+END:VEVENT
+BEGIN:VEVENT
 UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
