@@ -222,6 +222,14 @@ SUMMARY:📣 Post réseaux : Salon Créateur d'Art Polynésien – Rochefort 202
 DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
 END:VEVENT
 BEGIN:VEVENT
+UID:8a48202ab4ce07fef17b523f41fd411f@poster.kultureouest.fr
+DTSTAMP:20260806T103600Z
+DTSTART;TZID=Europe/Paris:20260806T123600
+DTEND;TZID=Europe/Paris:20260806T130600
+SUMMARY:📣 Post réseaux : Vente spéciale Emmaüs à Saint-Agnant
+DESCRIPTION:Chineurs\, familles et curieux ont rendez-vous à Saint-Agnant pour une journée de déstockage solidaire placée sous le sig
+END:VEVENT
+BEGIN:VEVENT
 UID:340f3203e9265b85fa55f86af652bc8d@poster.kultureouest.fr
 DTSTAMP:20260807T040600Z
 DTSTART;TZID=Europe/Paris:20260807T060600
