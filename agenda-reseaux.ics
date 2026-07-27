@@ -214,6 +214,14 @@ SUMMARY:📣 Post réseaux : 48e Fête des Boucholeurs – Châtelaillon-Plage
 DESCRIPTION:🌊🦪 Le dimanche 9 août 2026\, cap sur le village des Boucholeurs pour la 48e Fête des Boucholeurs\, à Châtelaillon-Plage !
 END:VEVENT
 BEGIN:VEVENT
+UID:b06bb93cb41dd328bcdef947a86f612a@poster.kultureouest.fr
+DTSTAMP:20260808T100600Z
+DTSTART;TZID=Europe/Paris:20260808T120600
+DTEND;TZID=Europe/Paris:20260808T123600
+SUMMARY:📣 Post réseaux : Ciné Good Vibes Festival : Le Livre de la Jungle & Baloo's Band
+DESCRIPTION:Une matinée pas comme les autres où le cinéma de patrimoine rencontre la scène live\, pour replonger en famille dans la j
+END:VEVENT
+BEGIN:VEVENT
 UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
