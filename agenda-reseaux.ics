@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e744b6fd752c70afb848699ec4e81b11@poster.kultureouest.fr
-DTSTAMP:20260727T043000Z
-DTSTART;TZID=Europe/Paris:20260727T063000
-DTEND;TZID=Europe/Paris:20260727T070000
-SUMMARY:📣 Post réseaux : Soirée Quiz Musical & Karaoké Pirate à la Guinguette Korser Breizh (Aytré)
-DESCRIPTION:À travers cette soirée thématique et festive en bord de mer\, la guinguette Korser Breizh d'Aytré invite habitants\, estiv
-END:VEVENT
-BEGIN:VEVENT
 UID:d95944b7b8020f9cca0e54e37cb15d81@poster.kultureouest.fr
 DTSTAMP:20260727T100000Z
 DTSTART;TZID=Europe/Paris:20260727T120000
