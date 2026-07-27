@@ -102,6 +102,14 @@ SUMMARY:📣 Post réseaux : Grand Déstockage Vivractif à Tonnay-Charente
 DESCRIPTION:Envie de faire de bonnes affaires avant la rentrée ? Vivractif ouvre grand ses portes pour un déstockage exceptionnel !
 END:VEVENT
 BEGIN:VEVENT
+UID:dc52090d0611551c6b7996e6920aeb9f@poster.kultureouest.fr
+DTSTAMP:20260730T161300Z
+DTSTART;TZID=Europe/Paris:20260730T181300
+DTEND;TZID=Europe/Paris:20260730T184300
+SUMMARY:📣 Post réseaux : Retour vers les 80's – La Tournée
+DESCRIPTION:🎤🎸 RETOUR VERS LES 80'S – Salle des Fêtes\, Charron
+END:VEVENT
+BEGIN:VEVENT
 UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
 DTSTAMP:20260731T043000Z
 DTSTART;TZID=Europe/Paris:20260731T063000
