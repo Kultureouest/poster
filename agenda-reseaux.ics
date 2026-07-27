@@ -126,6 +126,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 1er août
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:9a4f9bcf7f837af128b9377df2af983d@poster.kultureouest.fr
+DTSTAMP:20260731T161300Z
+DTSTART;TZID=Europe/Paris:20260731T181300
+DTEND;TZID=Europe/Paris:20260731T184300
+SUMMARY:📣 Post réseaux : La Plage Sonore – Port-des-Barques
+DESCRIPTION:Le temps d'un samedi\, Port-des-Barques se transforme en havre de convivialité les pieds dans le sable.
+END:VEVENT
+BEGIN:VEVENT
 UID:96f35fe43c9330ccbc4fbe018f7262b6@poster.kultureouest.fr
 DTSTAMP:20260801T113900Z
 DTSTART;TZID=Europe/Paris:20260801T133900
