@@ -277,4 +277,12 @@ DTEND;TZID=Europe/Paris:20260816T123000
 SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 17 août (clôture)
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE clôture sa saison ce lundi 17 août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
+BEGIN:VEVENT
+UID:de1b59138b3aa8224c16dc6c8ef9b53f@poster.kultureouest.fr
+DTSTAMP:20260820T043600Z
+DTSTART;TZID=Europe/Paris:20260820T063600
+DTEND;TZID=Europe/Paris:20260820T070600
+SUMMARY:📣 Post réseaux : Fête du Village à Geay
+DESCRIPTION:🎪 Le temps d'une journée\, tout Geay se retrouve pour vivre l'un des rendez-vous les plus attendus de l'été charentais-ma
+END:VEVENT
 END:VCALENDAR
