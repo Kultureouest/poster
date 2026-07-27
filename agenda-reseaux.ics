@@ -285,4 +285,12 @@ DTEND;TZID=Europe/Paris:20260820T070600
 SUMMARY:📣 Post réseaux : Fête du Village à Geay
 DESCRIPTION:🎪 Le temps d'une journée\, tout Geay se retrouve pour vivre l'un des rendez-vous les plus attendus de l'été charentais-ma
 END:VEVENT
+BEGIN:VEVENT
+UID:773e7a95000647619d6c31ab337a33e0@poster.kultureouest.fr
+DTSTAMP:20260827T043600Z
+DTSTART;TZID=Europe/Paris:20260827T063600
+DTEND;TZID=Europe/Paris:20260827T070600
+SUMMARY:📣 Post réseaux : Guinguette de l'association Temps Danse à Longèves
+DESCRIPTION:🍷💃 Guinguette de l'association Temps Danse – Longèves
+END:VEVENT
 END:VCALENDAR
