@@ -198,6 +198,14 @@ SUMMARY:📣 Post réseaux : Les Mercredis du Jazz à Échillais : visite patrim
 DESCRIPTION:🎷 Les Mercredis du Jazz font escale à Échillais
 END:VEVENT
 BEGIN:VEVENT
+UID:f35190a951fb84b0e5ada9977619e057@poster.kultureouest.fr
+DTSTAMP:20260805T095300Z
+DTSTART;TZID=Europe/Paris:20260805T115300
+DTEND;TZID=Europe/Paris:20260805T122300
+SUMMARY:📣 Post réseaux : Les Jeudis au Jardin : Jeu de piste "Les objets volés"
+DESCRIPTION:Et si les héros de vos livres préférés avaient perdu leurs objets fétiches dans le Jardin Public de Marennes ?
+END:VEVENT
+BEGIN:VEVENT
 UID:092be44be11d3a7b4896f4ed30059c2e@poster.kultureouest.fr
 DTSTAMP:20260806T043000Z
 DTSTART;TZID=Europe/Paris:20260806T063000
