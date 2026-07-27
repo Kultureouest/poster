@@ -246,6 +246,14 @@ SUMMARY:📣 Post réseaux : Port en Fête : Brocante & Feux d'Artifice à Bourc
 DESCRIPTION:⚓️🎆 Port en Fête à Bourcefranc-le-Chapus ! Le Comité des Fêtes et la CSMMM invitent habitants\, estivants et gens de mer 
 END:VEVENT
 BEGIN:VEVENT
+UID:9986d230b8b0f0c62a46d4ba43709f57@poster.kultureouest.fr
+DTSTAMP:20260809T043600Z
+DTSTART;TZID=Europe/Paris:20260809T063600
+DTEND;TZID=Europe/Paris:20260809T070600
+SUMMARY:📣 Post réseaux : Vide-greniers\, vide-bateaux et brocante au Port des Minimes
+DESCRIPTION:⚓️ Le Port des Minimes à La Rochelle accueille un grand vide-greniers\, vide-bateaux et brocante en bord de mer.
+END:VEVENT
+BEGIN:VEVENT
 UID:4d448fadc7d75b193d57d128e51c7684@poster.kultureouest.fr
 DTSTAMP:20260813T043600Z
 DTSTART;TZID=Europe/Paris:20260813T063600
