@@ -349,4 +349,12 @@ DTEND;TZID=Europe/Paris:20260827T070600
 SUMMARY:📣 Post réseaux : Guinguette de l'association Temps Danse à Longèves
 DESCRIPTION:🍷💃 Guinguette de l'association Temps Danse – Longèves
 END:VEVENT
+BEGIN:VEVENT
+UID:4bf67210c7c157921d7991c271cf57aa@poster.kultureouest.fr
+DTSTAMP:20260828T043200Z
+DTSTART;TZID=Europe/Paris:20260828T063200
+DTEND;TZID=Europe/Paris:20260828T070200
+SUMMARY:📣 Post réseaux : Festival Kissycol 2026 : le street art investit la rue Saint-Nicolas à La Rochelle
+DESCRIPTION:Le street art envahit le cœur historique de La Rochelle le temps d'une journée hors norme.
+END:VEVENT
 END:VCALENDAR
