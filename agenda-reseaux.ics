@@ -46,6 +46,14 @@ SUMMARY:📣 Post réseaux : Les Mercredis Jazz - Parc de la Forêt\, Rochefort
 DESCRIPTION:L'été rochefortais vibre à nouveau au rythme du jazz avec le retour des Mercredis Jazz\, rendez-vous incontournable de la
 END:VEVENT
 BEGIN:VEVENT
+UID:6a9a3049204bb0aa5e2c9c2b26c26bfe@poster.kultureouest.fr
+DTSTAMP:20260729T093800Z
+DTSTART;TZID=Europe/Paris:20260729T113800
+DTEND;TZID=Europe/Paris:20260729T120800
+SUMMARY:📣 Post réseaux : Exposition « Sur un air de Doisneau » à l'Office de Tourisme de La Rochelle
+DESCRIPTION:📷✨ EXPOSITION « SUR UN AIR DE DOISNEAU » – Office de Tourisme\, La Rochelle
+END:VEVENT
+BEGIN:VEVENT
 UID:9fa9fb86b82ae3bbaf392e418d3863dc@poster.kultureouest.fr
 DTSTAMP:20260729T100600Z
 DTSTART;TZID=Europe/Paris:20260729T120600
