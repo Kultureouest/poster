@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a02fc83f3e3c014927f96c32fa1a3737@poster.kultureouest.fr
-DTSTAMP:20260728T041100Z
-DTSTART;TZID=Europe/Paris:20260728T061100
-DTEND;TZID=Europe/Paris:20260728T064100
-SUMMARY:📣 Post réseaux : Les Brassées Solidaires - 6ᵉ édition
-DESCRIPTION:Le temps d'une soirée d'été\, Échillais se transforme en village festif et solidaire pour la 6ᵉ édition des Brassées Soli
-END:VEVENT
-BEGIN:VEVENT
 UID:f025c1829bd613271a9f5c9324763d75@poster.kultureouest.fr
 DTSTAMP:20260728T100000Z
 DTSTART;TZID=Europe/Paris:20260728T120000
