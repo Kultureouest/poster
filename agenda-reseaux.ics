@@ -246,6 +246,14 @@ SUMMARY:📣 Post réseaux : Concert live de Mazingo à La Tranche-sur-Mer
 DESCRIPTION:Le vendredi 7 août à 23h10\, la scène de La Tranche-sur-Mer s'embrase avec l'énergie électrique du trio Mazingo\, pour clo
 END:VEVENT
 BEGIN:VEVENT
+UID:0a90a575eef901d31a99772f418c5043@poster.kultureouest.fr
+DTSTAMP:20260807T155000Z
+DTSTART;TZID=Europe/Paris:20260807T175000
+DTEND;TZID=Europe/Paris:20260807T182000
+SUMMARY:📣 Post réseaux : Grande Brocante Estivale de Port-des-Barques
+DESCRIPTION:⚓🧺 Le Terrain Annexe de Port-des-Barques se transforme en grande brocante estivale !
+END:VEVENT
+BEGIN:VEVENT
 UID:c0c3bb078dfb5dee81b57a0b667a7516@poster.kultureouest.fr
 DTSTAMP:20260808T043000Z
 DTSTART;TZID=Europe/Paris:20260808T063000
