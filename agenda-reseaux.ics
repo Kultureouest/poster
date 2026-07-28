@@ -278,6 +278,14 @@ SUMMARY:📣 Post réseaux : Vide-greniers\, vide-bateaux et brocante au Port de
 DESCRIPTION:⚓️ Le Port des Minimes à La Rochelle accueille un grand vide-greniers\, vide-bateaux et brocante en bord de mer.
 END:VEVENT
 BEGIN:VEVENT
+UID:cb4a0fabeacc309139dcd4e19a6baf68@poster.kultureouest.fr
+DTSTAMP:20260811T041500Z
+DTSTART;TZID=Europe/Paris:20260811T061500
+DTEND;TZID=Europe/Paris:20260811T064500
+SUMMARY:📣 Post réseaux : test
+DESCRIPTION:Le 12 août\, offrir une heure de son temps peut sauver une vie : rendez-vous à la salle Le Sémaphore de Bourcefrand-le-Ch
+END:VEVENT
+BEGIN:VEVENT
 UID:4d448fadc7d75b193d57d128e51c7684@poster.kultureouest.fr
 DTSTAMP:20260813T043600Z
 DTSTART;TZID=Europe/Paris:20260813T063600
