@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9780d3a9b775d9833becefc3c1a54a08@poster.kultureouest.fr
-DTSTAMP:20260728T153000Z
-DTSTART;TZID=Europe/Paris:20260728T173000
-DTEND;TZID=Europe/Paris:20260728T180000
-SUMMARY:📣 Post réseaux : Festival Electro Ré 2026
-DESCRIPTION:Deux jours et deux nuits pour vivre la toute première édition d'un festival électro pensé pour l'Île de Ré.
-END:VEVENT
-BEGIN:VEVENT
 UID:00538a330ca913053f1d220fb30973a2@poster.kultureouest.fr
 DTSTAMP:20260729T043000Z
 DTSTART;TZID=Europe/Paris:20260729T063000
