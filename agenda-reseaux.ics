@@ -326,6 +326,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 17 août (clôture)
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE clôture sa saison ce lundi 17 août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:34440c337319a97b003b8b3e1e0d8cc6@poster.kultureouest.fr
+DTSTAMP:20260819T041900Z
+DTSTART;TZID=Europe/Paris:20260819T061900
+DTEND;TZID=Europe/Paris:20260819T064900
+SUMMARY:📣 Post réseaux : DJ Set & Brasero à Marennes : Les Sables Électroniques enflamment la Place des Halles
+DESCRIPTION:Une soirée où les platines rencontrent le brasero\, pour une escale électro-gourmande unique à Marennes.
+END:VEVENT
+BEGIN:VEVENT
 UID:de1b59138b3aa8224c16dc6c8ef9b53f@poster.kultureouest.fr
 DTSTAMP:20260820T043600Z
 DTSTART;TZID=Europe/Paris:20260820T063600
