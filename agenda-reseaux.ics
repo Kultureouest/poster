@@ -341,4 +341,12 @@ DTEND;TZID=Europe/Paris:20260828T070200
 SUMMARY:📣 Post réseaux : Festival Kissycol 2026 : le street art investit la rue Saint-Nicolas à La Rochelle
 DESCRIPTION:Le street art envahit le cœur historique de La Rochelle le temps d'une journée hors norme.
 END:VEVENT
+BEGIN:VEVENT
+UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
+DTSTAMP:20260905T045500Z
+DTSTART;TZID=Europe/Paris:20260905T065500
+DTEND;TZID=Europe/Paris:20260905T072500
+SUMMARY:📣 Post réseaux : Brocante de Lussant 2026 : chinez au Terrain des Fontenelles
+DESCRIPTION:Une matinée d'automne naissant à chiner sous le soleil de Saintonge : la brocante de Lussant fait son grand retour !
+END:VEVENT
 END:VCALENDAR
