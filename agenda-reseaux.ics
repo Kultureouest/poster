@@ -294,6 +294,14 @@ SUMMARY:📣 Post réseaux : Grande Randonnée Solex\, Mobylettes & Motos – Fo
 DESCRIPTION:Le 15 août\, Fouqueure vibrera au rythme des moteurs anciens pour une grande randonnée dédiée aux Solex\, mobylettes et mo
 END:VEVENT
 BEGIN:VEVENT
+UID:29f0e9baaabbb38b4374d4b48cc03ca1@poster.kultureouest.fr
+DTSTAMP:20260813T095500Z
+DTSTART;TZID=Europe/Paris:20260813T115500
+DTEND;TZID=Europe/Paris:20260813T122500
+SUMMARY:📣 Post réseaux : Soirée Moules-Frites et Bal Populaire à Les Nouillers le 14 Août 2026
+DESCRIPTION:Un vendredi soir d'été où moules-frites et bal populaire se donnent rendez-vous à Les Nouillers ! L'Amicale des fêtes or
+END:VEVENT
+BEGIN:VEVENT
 UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
