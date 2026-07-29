@@ -365,4 +365,12 @@ DTEND;TZID=Europe/Paris:20260905T072500
 SUMMARY:📣 Post réseaux : Brocante de Lussant 2026 : chinez au Terrain des Fontenelles
 DESCRIPTION:Une matinée d'automne naissant à chiner sous le soleil de Saintonge : la brocante de Lussant fait son grand retour !
 END:VEVENT
+BEGIN:VEVENT
+UID:b281481b7192477e180f3fdbcd2a3cfa@poster.kultureouest.fr
+DTSTAMP:20260912T041100Z
+DTSTART;TZID=Europe/Paris:20260912T061100
+DTEND;TZID=Europe/Paris:20260912T064100
+SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vous le 13 septembre 2026
+DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
+END:VEVENT
 END:VCALENDAR
