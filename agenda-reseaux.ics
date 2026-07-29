@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9fa9fb86b82ae3bbaf392e418d3863dc@poster.kultureouest.fr
-DTSTAMP:20260729T100600Z
-DTSTART;TZID=Europe/Paris:20260729T120600
-DTEND;TZID=Europe/Paris:20260729T123600
-SUMMARY:📣 Post réseaux : Concert Tchalaï - Les Mercredis du Clos
-DESCRIPTION:Un mercredi de juillet au bord de la Charente\, embarquez pour un voyage musical sans frontières avec le trio Tchalaï.
-END:VEVENT
-BEGIN:VEVENT
 UID:60322efcb57fbc810dbf2e1546a1aa49@poster.kultureouest.fr
 DTSTAMP:20260729T153000Z
 DTSTART;TZID=Europe/Paris:20260729T173000
