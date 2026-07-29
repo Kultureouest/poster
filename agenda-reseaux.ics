@@ -270,6 +270,14 @@ SUMMARY:📣 Post réseaux : test
 DESCRIPTION:Le 12 août\, offrir une heure de son temps peut sauver une vie : rendez-vous à la salle Le Sémaphore de Bourcefrand-le-Ch
 END:VEVENT
 BEGIN:VEVENT
+UID:fe65db16ff2ea1fc20f5605e9e388468@poster.kultureouest.fr
+DTSTAMP:20260812T045500Z
+DTSTART;TZID=Europe/Paris:20260812T065500
+DTEND;TZID=Europe/Paris:20260812T072500
+SUMMARY:📣 Post réseaux : Fanfare Bosiljak à Brouage : une déambulation musicale gratuite le 13 août
+DESCRIPTION:Les pavés de la citadelle de Brouage vont vibrer au son des cuivres le temps d'une déambulation haute en couleur.
+END:VEVENT
+BEGIN:VEVENT
 UID:4d448fadc7d75b193d57d128e51c7684@poster.kultureouest.fr
 DTSTAMP:20260813T043600Z
 DTSTART;TZID=Europe/Paris:20260813T063600
