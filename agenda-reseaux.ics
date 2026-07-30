@@ -198,6 +198,14 @@ SUMMARY:📣 Post réseaux : Salon Créateur d'Art Polynésien – Rochefort 202
 DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
 END:VEVENT
 BEGIN:VEVENT
+UID:5944bcf0dd05b680ea2ccb3a00ae7eac@poster.kultureouest.fr
+DTSTAMP:20260806T071100Z
+DTSTART;TZID=Europe/Paris:20260806T091100
+DTEND;TZID=Europe/Paris:20260806T094100
+SUMMARY:📣 Post réseaux : Ciné-culte "La Cité de la Peur" à Royan : projection et quiz avec l'Association Créa
+DESCRIPTION:Une soirée entre rires et nostalgie s'annonce pour les amateurs de comédie culte sur le territoire royannais.
+END:VEVENT
+BEGIN:VEVENT
 UID:c7b6bbeb1a054a4534de9849587aa3fe@poster.kultureouest.fr
 DTSTAMP:20260806T081100Z
 DTSTART;TZID=Europe/Paris:20260806T101100
