@@ -126,6 +126,14 @@ SUMMARY:📣 Post réseaux : Cours d'Aquagym à la Piscine de Marennes-Bourcefra
 DESCRIPTION:Cet été\, plongez dans une bulle de fraîcheur et de dynamisme à la piscine de Marennes-Bourcefranc grâce aux séances d'aq
 END:VEVENT
 BEGIN:VEVENT
+UID:231ec1a41380334a6f73223168208715@poster.kultureouest.fr
+DTSTAMP:20260803T101100Z
+DTSTART;TZID=Europe/Paris:20260803T121100
+DTEND;TZID=Europe/Paris:20260803T124100
+SUMMARY:📣 Post réseaux : Concert dansant : la fanfare Rockaforte Street Band envahit la gare du P'tit Train à Saint-Trojan
+DESCRIPTION:Une soirée d'été qui promet de faire vibrer la gare du célèbre train touristique au rythme des cuivres !
+END:VEVENT
+BEGIN:VEVENT
 UID:259b5cd1b89df67f91ec637e31c44109@poster.kultureouest.fr
 DTSTAMP:20260803T163600Z
 DTSTART;TZID=Europe/Paris:20260803T183600
