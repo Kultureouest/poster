@@ -374,6 +374,14 @@ SUMMARY:📣 Post réseaux : Fête du Village à Geay
 DESCRIPTION:🎪 Le temps d'une journée\, tout Geay se retrouve pour vivre l'un des rendez-vous les plus attendus de l'été charentais-ma
 END:VEVENT
 BEGIN:VEVENT
+UID:6604033d9e5e600575e196dbe9f0aee8@poster.kultureouest.fr
+DTSTAMP:20260825T040500Z
+DTSTART;TZID=Europe/Paris:20260825T060500
+DTEND;TZID=Europe/Paris:20260825T063500
+SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retraite aux flambeaux le 29 août
+DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
+END:VEVENT
+BEGIN:VEVENT
 UID:773e7a95000647619d6c31ab337a33e0@poster.kultureouest.fr
 DTSTAMP:20260827T043600Z
 DTSTART;TZID=Europe/Paris:20260827T063600
