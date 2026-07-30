@@ -294,6 +294,14 @@ SUMMARY:📣 Post réseaux : Vide-grenier de Fouras : brocante estivale à la Pr
 DESCRIPTION:Un dimanche d'été à savourer entre chine et bord de mer sur la Prairie du Casino de Fouras.
 END:VEVENT
 BEGIN:VEVENT
+UID:d60934deac995eadbfc0153eec2f2f97@poster.kultureouest.fr
+DTSTAMP:20260809T170500Z
+DTSTART;TZID=Europe/Paris:20260809T190500
+DTEND;TZID=Europe/Paris:20260809T193500
+SUMMARY:📣 Post réseaux : Festival de Fontdouce 2026 : la 29e édition entre classique\, jazz et musiques du monde
+DESCRIPTION:Trois soirées d'exception attendent les mélomanes au cœur de l'Abbaye de Fontdouce\, entre classique\, jazz et musiques du
+END:VEVENT
+BEGIN:VEVENT
 UID:cb4a0fabeacc309139dcd4e19a6baf68@poster.kultureouest.fr
 DTSTAMP:20260811T041500Z
 DTSTART;TZID=Europe/Paris:20260811T061500
