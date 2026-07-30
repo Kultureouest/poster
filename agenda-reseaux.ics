@@ -390,6 +390,14 @@ SUMMARY:📣 Post réseaux : Festival Kissycol 2026 : le street art investit la 
 DESCRIPTION:Le street art envahit le cœur historique de La Rochelle le temps d'une journée hors norme.
 END:VEVENT
 BEGIN:VEVENT
+UID:1063964801a759be95413c5e9e2a3b14@poster.kultureouest.fr
+DTSTAMP:20260831T100500Z
+DTSTART;TZID=Europe/Paris:20260831T120500
+DTEND;TZID=Europe/Paris:20260831T123500
+SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retraite aux flambeaux le 29 août
+DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
+END:VEVENT
+BEGIN:VEVENT
 UID:e74dfd9556efc5011622d9e0f9a99d47@poster.kultureouest.fr
 DTSTAMP:20260901T040900Z
 DTSTART;TZID=Europe/Paris:20260901T060900
