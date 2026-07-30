@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:79f954a7e0a92fb4781ef3f43264b88b@poster.kultureouest.fr
-DTSTAMP:20260730T100000Z
-DTSTART;TZID=Europe/Paris:20260730T120000
-DTEND;TZID=Europe/Paris:20260730T123000
-SUMMARY:📣 Post réseaux : Spectacle de Drones – Grande Plage de Saint-Georges-de-Didonne
-DESCRIPTION:Le ciel de Saint-Georges-de-Didonne s'embrasera dimanche soir d'un ballet lumineux hors du commun.
-END:VEVENT
-BEGIN:VEVENT
 UID:dc52090d0611551c6b7996e6920aeb9f@poster.kultureouest.fr
 DTSTAMP:20260730T161300Z
 DTSTART;TZID=Europe/Paris:20260730T181300
