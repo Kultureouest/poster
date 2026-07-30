@@ -398,6 +398,14 @@ SUMMARY:📣 Post réseaux : Brocante de Lussant 2026 : chinez au Terrain des Fo
 DESCRIPTION:Une matinée d'automne naissant à chiner sous le soleil de Saintonge : la brocante de Lussant fait son grand retour !
 END:VEVENT
 BEGIN:VEVENT
+UID:7361edb1edb32fe56a07282cd8913812@poster.kultureouest.fr
+DTSTAMP:20260911T100900Z
+DTSTART;TZID=Europe/Paris:20260911T120900
+DTEND;TZID=Europe/Paris:20260911T123900
+SUMMARY:📣 Post réseaux : Fête du Village de Plassay 2026 : brocante\, course cycliste et feu d'artifice
+DESCRIPTION:🎆🧺 Le 15 août 2026\, Plassay se pare de guirlandes pour sa fête du village : brocante géante\, course cycliste et feu d'ar
+END:VEVENT
+BEGIN:VEVENT
 UID:b281481b7192477e180f3fdbcd2a3cfa@poster.kultureouest.fr
 DTSTAMP:20260912T041100Z
 DTSTART;TZID=Europe/Paris:20260912T061100
