@@ -190,6 +190,14 @@ SUMMARY:📣 Post réseaux : Spectacle de rue à Brouage : Le Dernier Concert de
 DESCRIPTION:Un piano et une batterie s'installent en plein air sur la Place d'Aviau : voici venu le temps du Dernier Concert\, une pé
 END:VEVENT
 BEGIN:VEVENT
+UID:103e46959652dd0d2ce08bd1371a8915@poster.kultureouest.fr
+DTSTAMP:20260805T183000Z
+DTSTART;TZID=Europe/Paris:20260805T203000
+DTEND;TZID=Europe/Paris:20260805T210000
+SUMMARY:📣 Post réseaux : FestiBal des Sapeurs-Pompiers de Rochefort 2026 : bal solidaire Black & White
+DESCRIPTION:Paillettes\, casques dorés et boule à facettes : le FestiBal des Sapeurs-Pompiers revient illuminer Rochefort pour une 9e
+END:VEVENT
+BEGIN:VEVENT
 UID:092be44be11d3a7b4896f4ed30059c2e@poster.kultureouest.fr
 DTSTAMP:20260806T043000Z
 DTSTART;TZID=Europe/Paris:20260806T063000
