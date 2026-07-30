@@ -382,6 +382,14 @@ SUMMARY:📣 Post réseaux : Festival Kissycol 2026 : le street art investit la 
 DESCRIPTION:Le street art envahit le cœur historique de La Rochelle le temps d'une journée hors norme.
 END:VEVENT
 BEGIN:VEVENT
+UID:e74dfd9556efc5011622d9e0f9a99d47@poster.kultureouest.fr
+DTSTAMP:20260901T040900Z
+DTSTART;TZID=Europe/Paris:20260901T060900
+DTEND;TZID=Europe/Paris:20260901T063900
+SUMMARY:📣 Post réseaux : Randonnée Gourmande de l'Estuaire à Port-des-Barques
+DESCRIPTION:Le temps d'une soirée d'été\, l'estuaire de la Charente se pare de ses plus belles lumières pour une randonnée pas comme 
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
 DTSTAMP:20260905T045500Z
 DTSTART;TZID=Europe/Paris:20260905T065500
