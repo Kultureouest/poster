@@ -453,4 +453,12 @@ DTEND;TZID=Europe/Paris:20260912T064100
 SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vous le 13 septembre 2026
 DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
 END:VEVENT
+BEGIN:VEVENT
+UID:5c6338825955d2e76ded5d00304427d2@poster.kultureouest.fr
+DTSTAMP:20260918T042300Z
+DTSTART;TZID=Europe/Paris:20260918T062300
+DTEND;TZID=Europe/Paris:20260918T065300
+SUMMARY:📣 Post réseaux : Randonnée Gourmande "Viv'Envaux" 2026 : 11 km et 4 étapes savoureuses à Port-d'Envaux
+DESCRIPTION:Envie de marcher au rythme des saveurs et des paysages de la Charente ? Rendez-vous à Port-d'Envaux pour une randonnée g
+END:VEVENT
 END:VCALENDAR
