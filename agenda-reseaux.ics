@@ -358,6 +358,14 @@ SUMMARY:📣 Post réseaux : Fête de l'Huître 2026 à Fouras
 DESCRIPTION:Deux jours durant\, la prairie du Casino de Fouras sent l'iode\, le citron et la friture : la Fête de l'Huître revient\, et
 END:VEVENT
 BEGIN:VEVENT
+UID:df79987130aeb8a2bd6f36660686285d@poster.kultureouest.fr
+DTSTAMP:20260814T102300Z
+DTSTART;TZID=Europe/Paris:20260814T122300
+DTEND;TZID=Europe/Paris:20260814T125300
+SUMMARY:📣 Post réseaux : Vide-Grenier à Moragne : Brocante du 15 Août 2026
+DESCRIPTION:Le 15 août\, direction Moragne pour une journée de chine et de bonnes affaires en plein cœur du village.
+END:VEVENT
+BEGIN:VEVENT
 UID:744e51c9ced52d3936791885c59b691c@poster.kultureouest.fr
 DTSTAMP:20260816T100000Z
 DTSTART;TZID=Europe/Paris:20260816T120000
