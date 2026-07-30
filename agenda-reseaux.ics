@@ -198,6 +198,14 @@ SUMMARY:📣 Post réseaux : Salon Créateur d'Art Polynésien – Rochefort 202
 DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
 END:VEVENT
 BEGIN:VEVENT
+UID:c7b6bbeb1a054a4534de9849587aa3fe@poster.kultureouest.fr
+DTSTAMP:20260806T081100Z
+DTSTART;TZID=Europe/Paris:20260806T101100
+DTEND;TZID=Europe/Paris:20260806T104100
+SUMMARY:📣 Post réseaux : Festival 666 à Cercoux : trois jours de metal extrême en Charente-Maritime
+DESCRIPTION:🎸🔥 FESTIVAL 666 – Cercoux
+END:VEVENT
+BEGIN:VEVENT
 UID:8a48202ab4ce07fef17b523f41fd411f@poster.kultureouest.fr
 DTSTAMP:20260806T103600Z
 DTSTART;TZID=Europe/Paris:20260806T123600
