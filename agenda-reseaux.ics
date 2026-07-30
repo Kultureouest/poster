@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b4964a0304dd00ca7ce20baaa80f2b8c@poster.kultureouest.fr
-DTSTAMP:20260730T043000Z
-DTSTART;TZID=Europe/Paris:20260730T063000
-DTEND;TZID=Europe/Paris:20260730T070000
-SUMMARY:📣 Post réseaux : Grand Déstockage Vivractif à Tonnay-Charente
-DESCRIPTION:Envie de faire de bonnes affaires avant la rentrée ? Vivractif ouvre grand ses portes pour un déstockage exceptionnel !
-END:VEVENT
-BEGIN:VEVENT
 UID:79f954a7e0a92fb4781ef3f43264b88b@poster.kultureouest.fr
 DTSTAMP:20260730T100000Z
 DTSTART;TZID=Europe/Paris:20260730T120000
