@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d396e47d25213849beb49469fb960522@poster.kultureouest.fr
-DTSTAMP:20260730T182300Z
-DTSTART;TZID=Europe/Paris:20260730T202300
-DTEND;TZID=Europe/Paris:20260730T205300
-SUMMARY:📣 Post réseaux : Le Monde des Dinosaures débarque à Surgères pour un week-end géant
-DESCRIPTION:Et si le Jurassique débarquait le temps d'un week-end au cœur d'Aunis Sud ?
-END:VEVENT
-BEGIN:VEVENT
 UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
 DTSTAMP:20260731T043000Z
 DTSTART;TZID=Europe/Paris:20260731T063000
