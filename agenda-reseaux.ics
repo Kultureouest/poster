@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9a4f9bcf7f837af128b9377df2af983d@poster.kultureouest.fr
-DTSTAMP:20260731T161300Z
-DTSTART;TZID=Europe/Paris:20260731T181300
-DTEND;TZID=Europe/Paris:20260731T184300
-SUMMARY:📣 Post réseaux : La Plage Sonore – Port-des-Barques
-DESCRIPTION:Le temps d'un samedi\, Port-des-Barques se transforme en havre de convivialité les pieds dans le sable.
-END:VEVENT
-BEGIN:VEVENT
 UID:312f5f16283057d769536e4508445f86@poster.kultureouest.fr
 DTSTAMP:20260801T040600Z
 DTSTART;TZID=Europe/Paris:20260801T060600
