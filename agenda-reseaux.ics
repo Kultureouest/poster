@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f0db9475da614d4f81719a649471f01c@poster.kultureouest.fr
-DTSTAMP:20260731T120200Z
-DTSTART;TZID=Europe/Paris:20260731T140200
-DTEND;TZID=Europe/Paris:20260731T143200
-SUMMARY:📣 Post réseaux : 12e Fête Médiévale au Château de Crazannes : chevaliers\, fauconnerie et troubadours les 1er et 2 août 2026
-DESCRIPTION:⚔️🏰 12e Fête Médiévale du Château de Crazannes
-END:VEVENT
-BEGIN:VEVENT
 UID:9a4f9bcf7f837af128b9377df2af983d@poster.kultureouest.fr
 DTSTAMP:20260731T161300Z
 DTSTART;TZID=Europe/Paris:20260731T181300
