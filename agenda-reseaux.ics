@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:87eca9761916e6a3788f9494c9afc8d2@poster.kultureouest.fr
-DTSTAMP:20260801T163600Z
-DTSTART;TZID=Europe/Paris:20260801T183600
-DTEND;TZID=Europe/Paris:20260801T190600
-SUMMARY:📣 Post réseaux : Les Rendez-vous récréatifs – Soirée concerts & DJ set à Ars-en-Ré
-DESCRIPTION:Les Rendez-vous récréatifs font escale Place de l'Église à Ars-en-Ré pour une soirée gourmande et musicale mémorable.
-END:VEVENT
-BEGIN:VEVENT
 UID:0a27526dd4c63dd7291e3a625e3c8a6a@poster.kultureouest.fr
 DTSTAMP:20260802T044700Z
 DTSTART;TZID=Europe/Paris:20260802T064700
