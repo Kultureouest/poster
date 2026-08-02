@@ -1,0 +1,6 @@
+# Bytecode Python : regenere a chaque execution, ne doit pas etre versionne.
+# Sa presence dans Git provoquait des conflits de fusion binaires
+# lors du rebase de l'etape "Archiver les jobs traites" (exit code 128).
+__pycache__/
+*.pyc
+*.pyo
