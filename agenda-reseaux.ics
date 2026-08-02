@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2435b745a2b209e62737756126470bb4@poster.kultureouest.fr
-DTSTAMP:20260802T102500Z
-DTSTART;TZID=Europe/Paris:20260802T122500
-DTEND;TZID=Europe/Paris:20260802T125500
-SUMMARY:📣 Post réseaux : Bal des Minimes : des années 80 à aujourd'hui
-DESCRIPTION:Le temps d'une nuit d'été\, l'esplanade du Lazaret devient un immense dancefloor face à l'océan.
-END:VEVENT
-BEGIN:VEVENT
 UID:0d35f0b4b3393143f1e6276cd4f7abf3@poster.kultureouest.fr
 DTSTAMP:20260803T040600Z
 DTSTART;TZID=Europe/Paris:20260803T060600
