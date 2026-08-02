@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0a27526dd4c63dd7291e3a625e3c8a6a@poster.kultureouest.fr
-DTSTAMP:20260802T044700Z
-DTSTART;TZID=Europe/Paris:20260802T064700
-DTEND;TZID=Europe/Paris:20260802T071700
-SUMMARY:📣 Post réseaux : Marché Nocturne Estival de Châtelaillon-Plage
-DESCRIPTION:Chaque dimanche soir\, la place Jean Moulin de Châtelaillon-Plage se transforme en un village éphémère dédié à l'artisana
-END:VEVENT
-BEGIN:VEVENT
 UID:2435b745a2b209e62737756126470bb4@poster.kultureouest.fr
 DTSTAMP:20260802T102500Z
 DTSTART;TZID=Europe/Paris:20260802T122500
