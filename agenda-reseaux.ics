@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0d35f0b4b3393143f1e6276cd4f7abf3@poster.kultureouest.fr
-DTSTAMP:20260803T040600Z
-DTSTART;TZID=Europe/Paris:20260803T060600
-DTEND;TZID=Europe/Paris:20260803T063600
-SUMMARY:📣 Post réseaux : Cours d'Aquagym à la Piscine de Marennes-Bourcefranc
-DESCRIPTION:Cet été\, plongez dans une bulle de fraîcheur et de dynamisme à la piscine de Marennes-Bourcefranc grâce aux séances d'aq
-END:VEVENT
-BEGIN:VEVENT
 UID:231ec1a41380334a6f73223168208715@poster.kultureouest.fr
 DTSTAMP:20260803T101100Z
 DTSTART;TZID=Europe/Paris:20260803T121100
