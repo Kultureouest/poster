@@ -22,6 +22,958 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:eb660df701d6631f6279f82671e64908@poster.kultureouest.fr
+DTSTAMP:20260619T165000Z
+DTSTART;TZID=Europe/Paris:20260619T185000
+DTEND;TZID=Europe/Paris:20260619T192000
+SUMMARY:✅ Publié : Les Monstres ont pour prénoms Médiocre et Prodige
+DESCRIPTION:🎨 EXPO — « Les Monstres ont pour prénoms Médiocre et Prodige » à l'Atelier Bletterie (La Rochelle)\, jusqu'au 28 juin !
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6182878d2480a12a65ee54187d52f3@poster.kultureouest.fr
+DTSTAMP:20260620T030000Z
+DTSTART;TZID=Europe/Paris:20260620T050000
+DTEND;TZID=Europe/Paris:20260620T053000
+SUMMARY:✅ Publié : La Plage Sonore — Port-des-Barques
+DESCRIPTION:🏖️🎶 LA PLAGE SONORE fait son grand retour à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2bad19fa0a27e875b9184294a1335d@poster.kultureouest.fr
+DTSTAMP:20260620T150000Z
+DTSTART;TZID=Europe/Paris:20260620T170000
+DTEND;TZID=Europe/Paris:20260620T173000
+SUMMARY:✅ Publié : Nos festivals fêtent la musique — Saint-Palais-sur-Mer
+DESCRIPTION:🎶 NOS FESTIVALS FÊTENT LA MUSIQUE à Saint-Palais-sur-Mer — samedi 20 & dimanche 21 juin\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:36549527965fa2ba0ae422a239c13676@poster.kultureouest.fr
+DTSTAMP:20260621T090000Z
+DTSTART;TZID=Europe/Paris:20260621T110000
+DTEND;TZID=Europe/Paris:20260621T113000
+SUMMARY:✅ Publié : Never 2L8 x La Belle du Gabut — nuit House
+DESCRIPTION:🪩🎶 NUIT HOUSE à La Belle du Gabut — dimanche 21 juin\, 21h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:da946ec512325ad1db4133d298a1e998@poster.kultureouest.fr
+DTSTAMP:20260622T190000Z
+DTSTART;TZID=Europe/Paris:20260622T210000
+DTEND;TZID=Europe/Paris:20260622T213000
+SUMMARY:✅ Publié : The Giaccomo — séance du mardi 23 juin
+DESCRIPTION:❄️🎬 AU FRAIS AU CINÉ — « The Giaccomo » à l'Apollo Ciné 8 de Rochefort\, mardi 23 juin (séance unique à 15h50) !
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7dd6dbaa7f68f72994612718cdd992@poster.kultureouest.fr
+DTSTAMP:20260624T050000Z
+DTSTART;TZID=Europe/Paris:20260624T070000
+DTEND;TZID=Europe/Paris:20260624T073000
+SUMMARY:✅ Publié : Canicule : 6 centres aquatiques pour se rafraîchir en Charente-Maritime
+DESCRIPTION:🥵💦 CANICULE — 6 centres aquatiques pour se rafraîchir en Charente-Maritime !
+END:VEVENT
+BEGIN:VEVENT
+UID:733bdfc4c66d348ed348d56ba8a9aa18@poster.kultureouest.fr
+DTSTAMP:20260624T080000Z
+DTSTART;TZID=Europe/Paris:20260624T100000
+DTEND;TZID=Europe/Paris:20260624T103000
+SUMMARY:✅ Publié : Des Minions et des monstres — Apollo Ciné 8
+DESCRIPTION:🌟 CANICULE ? L’Apollo Ciné 8 de Rochefort a la solution !
+END:VEVENT
+BEGIN:VEVENT
+UID:625f390089c477b1bcf7b78dc43dc9ab@poster.kultureouest.fr
+DTSTAMP:20260624T103000Z
+DTSTART;TZID=Europe/Paris:20260624T123000
+DTEND;TZID=Europe/Paris:20260624T130000
+SUMMARY:✅ Publié : « Dansons sur le port » 2026 — Bourcefranc-le-Chapus
+DESCRIPTION:Le port de Bourcefranc s'embrase pour le grand rendez-vous dansant de l'été. 🎉
+END:VEVENT
+BEGIN:VEVENT
+UID:a7076a7d89325e44d07af8e430f0d6fb@poster.kultureouest.fr
+DTSTAMP:20260624T183000Z
+DTSTART;TZID=Europe/Paris:20260624T203000
+DTEND;TZID=Europe/Paris:20260624T210000
+SUMMARY:✅ Publié : Le Pertuis fait son Cirque – 6ᵉ édition
+DESCRIPTION:🎪 LE PERTUIS FAIT SON CIRQUE — 6ᵉ édition — 3 & 4 juillet 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:3606ff7f0374ea322e3f89b440d5d9a8@poster.kultureouest.fr
+DTSTAMP:20260625T040000Z
+DTSTART;TZID=Europe/Paris:20260625T060000
+DTEND;TZID=Europe/Paris:20260625T063000
+SUMMARY:✅ Publié : La Rochelle à la Belle Étoile – Soirée d'ouverture 2026
+DESCRIPTION:La Rochelle sort ses étoiles et invite ses habitants à vivre l’été autrement\, quartier par quartier\, à la tombée du jour
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0299d7b7d2fad450252aab08b5561e@poster.kultureouest.fr
+DTSTAMP:20260625T190000Z
+DTSTART;TZID=Europe/Paris:20260625T210000
+DTEND;TZID=Europe/Paris:20260625T213000
+SUMMARY:✅ Publié : Transe Atlantique Hors les Murs — 2120 + Family Affair
+DESCRIPTION:🎸 TRANSE ATLANTIQUE HORS LES MURS — Vendredi 26 juin à Saint-Georges-des-Coteaux
+END:VEVENT
+BEGIN:VEVENT
+UID:abf829e028be3717109e472faa4a8167@poster.kultureouest.fr
+DTSTAMP:20260626T043000Z
+DTSTART;TZID=Europe/Paris:20260626T063000
+DTEND;TZID=Europe/Paris:20260626T070000
+SUMMARY:✅ Publié : Châtel en Fête 2026 — 130 ans : un voyage dans le temps
+DESCRIPTION:🎪 CHÂTEL EN FÊTE 2026 — 130 ans : un voyage dans le temps — 26\, 27 & 28 juin à Châtelaillon-Plage
+END:VEVENT
+BEGIN:VEVENT
+UID:91f5ff5eca5d5bd69a9163c2d8f8c83d@poster.kultureouest.fr
+DTSTAMP:20260626T140000Z
+DTSTART;TZID=Europe/Paris:20260626T160000
+DTEND;TZID=Europe/Paris:20260626T163000
+SUMMARY:✅ Publié : Transports Yélo gratuits à La Rochelle (canicule)
+DESCRIPTION:🚍 TRANSPORTS GRATUITS À LA ROCHELLE !
+END:VEVENT
+BEGIN:VEVENT
+UID:653faa33b9c90fb7c4bb21f3601e351d@poster.kultureouest.fr
+DTSTAMP:20260627T050000Z
+DTSTART;TZID=Europe/Paris:20260627T070000
+DTEND;TZID=Europe/Paris:20260627T073000
+SUMMARY:✅ Publié : Piscines en Aunis Sud : Surgères\, Aigrefeuille et La Devise
+DESCRIPTION:🥵💦 CANICULE — où se rafraîchir en Aunis Sud cet été ?
+END:VEVENT
+BEGIN:VEVENT
+UID:6066238b0948dfdebe546ce889b03dde@poster.kultureouest.fr
+DTSTAMP:20260628T093000Z
+DTSTART;TZID=Europe/Paris:20260628T113000
+DTEND;TZID=Europe/Paris:20260628T120000
+SUMMARY:✅ Publié : La Traversée des Époques — Atelier Théâtre Ados de Soubise
+DESCRIPTION:⏳🎭 LA TRAVERSÉE DES ÉPOQUES — Atelier Théâtre Ados de Soubise
+END:VEVENT
+BEGIN:VEVENT
+UID:609a07ea8578fbc40fffa780a234a2e5@poster.kultureouest.fr
+DTSTAMP:20260628T183000Z
+DTSTART;TZID=Europe/Paris:20260628T203000
+DTEND;TZID=Europe/Paris:20260628T210000
+SUMMARY:✅ Publié : Salines en Fête — Port des Salines (Île d’Oléron)
+DESCRIPTION:🧂🌾 SALINES EN FÊTE — Port des Salines\, Île d’Oléron
+END:VEVENT
+BEGIN:VEVENT
+UID:d26e2cfed163c81f80d9d9247f7928ca@poster.kultureouest.fr
+DTSTAMP:20260629T043000Z
+DTSTART;TZID=Europe/Paris:20260629T063000
+DTEND;TZID=Europe/Paris:20260629T070000
+SUMMARY:✅ Publié : FEMA La Rochelle — Au programme du lundi 29 juin
+DESCRIPTION:🎬 AU PROGRAMME DU FEMA CE LUNDI 29 JUIN ! 🌟
+END:VEVENT
+BEGIN:VEVENT
+UID:c4482a08edfde7d2ea21e5065f9e2fb7@poster.kultureouest.fr
+DTSTAMP:20260629T100000Z
+DTSTART;TZID=Europe/Paris:20260629T120000
+DTEND;TZID=Europe/Paris:20260629T123000
+SUMMARY:✅ Publié : Gala des Adelantinos — Soirée Latina (Adelante Salsa)
+DESCRIPTION:💃🕺 LE GALA DES ADELANTINOS ARRIVE SUR LE PONT ! 🔥
+END:VEVENT
+BEGIN:VEVENT
+UID:a0c073e475eb2e9186412fadbc840cde@poster.kultureouest.fr
+DTSTAMP:20260629T183000Z
+DTSTART;TZID=Europe/Paris:20260629T203000
+DTEND;TZID=Europe/Paris:20260629T210000
+SUMMARY:✅ Publié : La Dictée de Chansons — 2 places pour les Francofolies à gagner
+DESCRIPTION:📝 2 PLACES POUR LES FRANCOFOLIES À GAGNER ! 🎟️
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b3d33b6b136aac5492834145380600@poster.kultureouest.fr
+DTSTAMP:20260630T054600Z
+DTSTART;TZID=Europe/Paris:20260630T074600
+DTEND;TZID=Europe/Paris:20260630T081600
+SUMMARY:✅ Publié : Marché nocturne de Port-des-Barques
+DESCRIPTION:🌅 LES SOIRÉES D’ÉTÉ COMMENCENT À PORT-DES-BARQUES ! 🦐
+END:VEVENT
+BEGIN:VEVENT
+UID:be9ced616da10ac41e8526cae0fc283f@poster.kultureouest.fr
+DTSTAMP:20260630T100000Z
+DTSTART;TZID=Europe/Paris:20260630T120000
+DTEND;TZID=Europe/Paris:20260630T123000
+SUMMARY:✅ Publié : France / Suède sur écran géant — 16e de finale (Port-des-Barques)
+DESCRIPTION:⚽🇫🇷 OÙ VIBRER POUR FRANCE / SUÈDE PRÈS DE ROCHEFORT ?
+END:VEVENT
+BEGIN:VEVENT
+UID:0c76b01eba910e7377a79c2d29d4be6b@poster.kultureouest.fr
+DTSTAMP:20260630T170500Z
+DTSTART;TZID=Europe/Paris:20260630T190500
+DTEND;TZID=Europe/Paris:20260630T193500
+SUMMARY:✅ Publié : Atelier cinéma à Saint-Palais-sur-Mer
+DESCRIPTION:🎬 Atelier cinéma à Saint-Palais-sur-Mer
+END:VEVENT
+BEGIN:VEVENT
+UID:cec6583b199959fda425507eca38b9b7@poster.kultureouest.fr
+DTSTAMP:20260701T050000Z
+DTSTART;TZID=Europe/Paris:20260701T070000
+DTEND;TZID=Europe/Paris:20260701T073000
+SUMMARY:✅ Publié : Grande Braderie d’Été — Chic On Recycle (Saint-Jean-de-Liversay)
+DESCRIPTION:🛍️♻️ GRANDE BRADERIE D’ÉTÉ — Chic On Recycle\, Saint-Jean-de-Liversay
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2605bb56428ab9e3afd9bf2e18bcdb@poster.kultureouest.fr
+DTSTAMP:20260701T103000Z
+DTSTART;TZID=Europe/Paris:20260701T123000
+DTEND;TZID=Europe/Paris:20260701T130000
+SUMMARY:✅ Publié : La Boum du Conseil Municipal des Jeunes à Bourcefranc-le-Chapus
+DESCRIPTION:🪩 Soirée fluo à Bourcefranc-le-Chapus
+END:VEVENT
+BEGIN:VEVENT
+UID:f3425227908c18af0eee855b99b38fba@poster.kultureouest.fr
+DTSTAMP:20260701T170000Z
+DTSTART;TZID=Europe/Paris:20260701T190000
+DTEND;TZID=Europe/Paris:20260701T193000
+SUMMARY:✅ Publié : Espace d'accueil de la réserve naturelle de Moëze-Oléron
+DESCRIPTION:🐦 La réserve naturelle de Moëze-Oléron\, à Saint-Froult\, c'est un balcon sauvage sur l'estuaire de la Charente\, à deux pa
+END:VEVENT
+BEGIN:VEVENT
+UID:8796b0a2948e765337f7b054838a058d@poster.kultureouest.fr
+DTSTAMP:20260702T103000Z
+DTSTART;TZID=Europe/Paris:20260702T123000
+DTEND;TZID=Europe/Paris:20260702T130000
+SUMMARY:✅ Publié : L’Heure Civique à Échillais
+DESCRIPTION:🤝 L’Heure Civique à Échillais
+END:VEVENT
+BEGIN:VEVENT
+UID:82273734eb43faa1ae962810ccf147dd@poster.kultureouest.fr
+DTSTAMP:20260702T163000Z
+DTSTART;TZID=Europe/Paris:20260702T183000
+DTEND;TZID=Europe/Paris:20260702T190000
+SUMMARY:✅ Publié : 35 ans du Shapers Club à Marennes
+DESCRIPTION:🎉 35 ans du Shapers Club à Marennes
+END:VEVENT
+BEGIN:VEVENT
+UID:15224f7d086c7923ad7c1adb5a5a0e80@poster.kultureouest.fr
+DTSTAMP:20260703T050000Z
+DTSTART;TZID=Europe/Paris:20260703T070000
+DTEND;TZID=Europe/Paris:20260703T073000
+SUMMARY:✅ Publié : Les Après Plage : la guinguette estivale de Fouras-les-Bains
+DESCRIPTION:🍻🌅 LES APRÈS PLAGE — La guinguette estivale de Fouras-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+UID:76e1043f2ff9d8041657f1f49b1147a7@poster.kultureouest.fr
+DTSTAMP:20260703T100000Z
+DTSTART;TZID=Europe/Paris:20260703T120000
+DTEND;TZID=Europe/Paris:20260703T123000
+SUMMARY:✅ Publié : La Plage Sonore — rappel 4 juillet
+DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 4 juillet à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:6d25e08542317bb36159bf3e69a3132b@poster.kultureouest.fr
+DTSTAMP:20260703T120000Z
+DTSTART;TZID=Europe/Paris:20260703T140000
+DTEND;TZID=Europe/Paris:20260703T143000
+SUMMARY:✅ Publié : L’Apéro des Bouchos à Châtelaillon-Plage
+DESCRIPTION:🌅 L’Apéro des Bouchos revient à Châtelaillon-Plage
+END:VEVENT
+BEGIN:VEVENT
+UID:b1a3ba51d97caecb560dc38f560e1aca@poster.kultureouest.fr
+DTSTAMP:20260703T163000Z
+DTSTART;TZID=Europe/Paris:20260703T183000
+DTEND;TZID=Europe/Paris:20260703T190000
+SUMMARY:✅ Publié : JBB 2026 : Joyeuse Boucle Bordélique à Rochefort
+DESCRIPTION:🎉 La JBB 2026 débarque à Rochefort
+END:VEVENT
+BEGIN:VEVENT
+UID:fc0de9a178d41bde1fc5b89e405c57bc@poster.kultureouest.fr
+DTSTAMP:20260704T050000Z
+DTSTART;TZID=Europe/Paris:20260704T070000
+DTEND;TZID=Europe/Paris:20260704T073000
+SUMMARY:✅ Publié : Marché nocturne du bassin de Bougainville — Rochefort
+DESCRIPTION:⚓🎸 MARCHÉ NOCTURNE AU BASSIN DE BOUGAINVILLE — Rochefort
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce381bbd2d12353af7ca07d317ca9a0@poster.kultureouest.fr
+DTSTAMP:20260704T093000Z
+DTSTART;TZID=Europe/Paris:20260704T113000
+DTEND;TZID=Europe/Paris:20260704T120000
+SUMMARY:✅ Publié : Flashmob géant des Gold Trotteurs — Place Colbert\, Rochefort
+DESCRIPTION:💃🕺 FLASHMOB GÉANT À ROCHEFORT — Place Colbert
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6735daed37157f89464ba3d2fdbc08@poster.kultureouest.fr
+DTSTAMP:20260704T120000Z
+DTSTART;TZID=Europe/Paris:20260704T140000
+DTEND;TZID=Europe/Paris:20260704T143000
+SUMMARY:✅ Publié : Où voir France-Paraguay ce samedi ? Nos adresses entre Rochefort et La Rochelle
+DESCRIPTION:Samedi 4 juillet à 23h (heure française)\, les Bleus affrontent le Paraguay en huitième de finale de la Coupe du monde\, à
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7c03e9c023e261de95b94cc7a10f63@poster.kultureouest.fr
+DTSTAMP:20260704T153000Z
+DTSTART;TZID=Europe/Paris:20260704T173000
+DTEND;TZID=Europe/Paris:20260704T180000
+SUMMARY:✅ Publié : Breuil en fête à Breuil-Magné
+DESCRIPTION:🎉 Breuil en fête revient aux Vieux Fours
+END:VEVENT
+BEGIN:VEVENT
+UID:bba2e736a7ce31deb435e97c15be00f4@poster.kultureouest.fr
+DTSTAMP:20260705T043000Z
+DTSTART;TZID=Europe/Paris:20260705T063000
+DTEND;TZID=Europe/Paris:20260705T070000
+SUMMARY:✅ Publié : Vide-grenier au profit de l'association Pour le bonheur de Tao – Breuillet
+DESCRIPTION:À Breuillet\, une brocante pas comme les autres réunit chineurs et grand cœur autour d'une même cause : offrir à Tao\, 4 a
+END:VEVENT
+BEGIN:VEVENT
+UID:fba8c14a7cb9f9fecc304bf1f3f55e43@poster.kultureouest.fr
+DTSTAMP:20260705T093000Z
+DTSTART;TZID=Europe/Paris:20260705T113000
+DTEND;TZID=Europe/Paris:20260705T120000
+SUMMARY:✅ Publié : Soirée Salsa & Bachata — L’Ékume\, Châtelaillon-Plage
+DESCRIPTION:💃🕺 SALSA & BACHATA FACE À L’OCÉAN — L’Ékume\, Châtelaillon-Plage 🔥
+END:VEVENT
+BEGIN:VEVENT
+UID:44e3d9efa538c3822d0ff2d11993f743@poster.kultureouest.fr
+DTSTAMP:20260705T180000Z
+DTSTART;TZID=Europe/Paris:20260705T200000
+DTEND;TZID=Europe/Paris:20260705T203000
+SUMMARY:✅ Publié : Concert d’Araëlle — Musique celtique à Courcelles
+DESCRIPTION:🎤 CONCERT D’ARAËLLE — Une parenthèse celtique envoûtante 🌿
+END:VEVENT
+BEGIN:VEVENT
+UID:2ee14ecf8ce5309e384dc9b05d9a0529@poster.kultureouest.fr
+DTSTAMP:20260706T050000Z
+DTSTART;TZID=Europe/Paris:20260706T070000
+DTEND;TZID=Europe/Paris:20260706T073000
+SUMMARY:✅ Publié : Cours de natation au centre aquatique de Châtelaillon-Plage
+DESCRIPTION:💦 Comme un poisson dans l’eau à Châtelaillon-Plage
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad711de73a656125e00e02b8246c149@poster.kultureouest.fr
+DTSTAMP:20260706T143000Z
+DTSTART;TZID=Europe/Paris:20260706T163000
+DTEND;TZID=Europe/Paris:20260706T170000
+SUMMARY:✅ Publié : Les Aquarelles d’Erwan à la médiathèque de Marennes
+DESCRIPTION:🎨 Les Aquarelles d’Erwan à Marennes
+END:VEVENT
+BEGIN:VEVENT
+UID:97ee3ef917d4e25ff95aa7b15c5d2f25@poster.kultureouest.fr
+DTSTAMP:20260706T160000Z
+DTSTART;TZID=Europe/Paris:20260706T180000
+DTEND;TZID=Europe/Paris:20260706T183000
+SUMMARY:✅ Publié : Le Tour du monde en 80 tours à la Comédie La Rochelle
+DESCRIPTION:🎩 Le Tour du monde en 80 tours à La Rochelle
+END:VEVENT
+BEGIN:VEVENT
+UID:93bb50ea4ce05a7bb32e7af1a6b4e264@poster.kultureouest.fr
+DTSTAMP:20260707T050000Z
+DTSTART;TZID=Europe/Paris:20260707T070000
+DTEND;TZID=Europe/Paris:20260707T073000
+SUMMARY:✅ Publié : Anne Roumanoff à la Comédie La Rochelle : nouvelle date
+DESCRIPTION:🚨 Nouvelle date pour Anne Roumanoff à La Rochelle
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea06b12150f93e91f1ed39f5ba07bf9@poster.kultureouest.fr
+DTSTAMP:20260707T100000Z
+DTSTART;TZID=Europe/Paris:20260707T120000
+DTEND;TZID=Europe/Paris:20260707T123000
+SUMMARY:✅ Publié : Les Mardis sur le Pont avec Adelante Salsa à Rochefort
+DESCRIPTION:🌉💃 Mardi\, on danse sur le pont à Rochefort
+END:VEVENT
+BEGIN:VEVENT
+UID:2836d92301f3ac38e09919a8fb9cb6aa@poster.kultureouest.fr
+DTSTAMP:20260707T153000Z
+DTSTART;TZID=Europe/Paris:20260707T173000
+DTEND;TZID=Europe/Paris:20260707T180000
+SUMMARY:✅ Publié : Les Jeudis Ô Quais à Tonnay-Charente
+DESCRIPTION:🎶 Les Jeudis Ô Quais reviennent à Tonnay-Charente
+END:VEVENT
+BEGIN:VEVENT
+UID:da64be8bcb12078ee87766e7a58c6d7a@poster.kultureouest.fr
+DTSTAMP:20260708T043000Z
+DTSTART;TZID=Europe/Paris:20260708T063000
+DTEND;TZID=Europe/Paris:20260708T070000
+SUMMARY:✅ Publié : Partir en Livre — Deviendras-tu un super-héros ? (Marennes)
+DESCRIPTION:🦸 DEVIENDRAS-TU UN SUPER-HÉROS ? — La médiathèque de Marennes au jardin public
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6eaf827e179bad3d5bf1762f1b09e0@poster.kultureouest.fr
+DTSTAMP:20260708T100000Z
+DTSTART;TZID=Europe/Paris:20260708T120000
+DTEND;TZID=Europe/Paris:20260708T123000
+SUMMARY:✅ Publié : Turbo Poulet Crew aux Mercredis du Clos à Rochefort
+DESCRIPTION:🐔 Turbo Poulet Crew débarque aux Mercredis du Clos
+END:VEVENT
+BEGIN:VEVENT
+UID:9a2f363fa19eaf394e84a88e9f0c1687@poster.kultureouest.fr
+DTSTAMP:20260708T160000Z
+DTSTART;TZID=Europe/Paris:20260708T180000
+DTEND;TZID=Europe/Paris:20260708T183000
+SUMMARY:✅ Publié : Feu d’artifice et marché semi-nocturne à Lussant
+DESCRIPTION:🎆 Feu d’artifice et marché semi-nocturne à Lussant
+END:VEVENT
+BEGIN:VEVENT
+UID:2605062c2dd0042d3401d4c2316db05a@poster.kultureouest.fr
+DTSTAMP:20260709T043000Z
+DTSTART;TZID=Europe/Paris:20260709T063000
+DTEND;TZID=Europe/Paris:20260709T070000
+SUMMARY:✅ Publié : Rendez-vous Électro à Champagne avec Jus de Bagarre
+DESCRIPTION:Deux soirées en plein air pour vibrer au son de l'électro\, signées Rochefort Océan !
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a2f4fb52f0755a2b1ef06b25234044@poster.kultureouest.fr
+DTSTAMP:20260709T101500Z
+DTSTART;TZID=Europe/Paris:20260709T121500
+DTEND;TZID=Europe/Paris:20260709T124500
+SUMMARY:✅ Publié : Où voir France / Maroc jeudi soir autour de Rochefort ?
+DESCRIPTION:⚽ Où voir France / Maroc jeudi soir ?
+END:VEVENT
+BEGIN:VEVENT
+UID:be735f80cca0475ba657a0f32700ba2c@poster.kultureouest.fr
+DTSTAMP:20260709T160000Z
+DTSTART;TZID=Europe/Paris:20260709T180000
+DTEND;TZID=Europe/Paris:20260709T183000
+SUMMARY:✅ Publié : Les Folies Maritimes – 1ᵉʳᵉ édition
+DESCRIPTION:🔥 FOLIES MARITIMES — 1ᵉʳᵉ édition — Samedi 11 juillet à Marennes-Hiers-Brouage
+END:VEVENT
+BEGIN:VEVENT
+UID:d87db2c5a19c19727cf3c4a557ffb6e3@poster.kultureouest.fr
+DTSTAMP:20260709T170000Z
+DTSTART;TZID=Europe/Paris:20260709T190000
+DTEND;TZID=Europe/Paris:20260709T193000
+SUMMARY:✅ Publié : Où voir France / Maroc jeudi ?
+DESCRIPTION:⚽ Où voir France / Maroc jeudi ?
+END:VEVENT
+BEGIN:VEVENT
+UID:b80e072a934d469976b0a1b12b976612@poster.kultureouest.fr
+DTSTAMP:20260710T043000Z
+DTSTART;TZID=Europe/Paris:20260710T063000
+DTEND;TZID=Europe/Paris:20260710T070000
+SUMMARY:✅ Publié : Ouverture exceptionnelle en nocturne de la boutique Emmaüs de Marennes
+DESCRIPTION:À Marennes\, la boutique Emmaüs ouvre ses portes en nocturne pour une soirée chine sous les lumières d'été.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6688c1e6e312859d343b6440302e8f@poster.kultureouest.fr
+DTSTAMP:20260710T160500Z
+DTSTART;TZID=Europe/Paris:20260710T180500
+DTEND;TZID=Europe/Paris:20260710T183500
+SUMMARY:✅ Publié : Groove District édition 001 au Délirium Café La Rochelle
+DESCRIPTION:🎧 Groove District édition 001 arrive à La Rochelle
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0b21b4bd7f4b19b96347c066412949@poster.kultureouest.fr
+DTSTAMP:20260711T040000Z
+DTSTART;TZID=Europe/Paris:20260711T060000
+DTEND;TZID=Europe/Paris:20260711T063000
+SUMMARY:✅ Publié : De l’opéra au tango à Saint-Agnant
+DESCRIPTION:🎻 De l’opéra au tango à Saint-Agnant
+END:VEVENT
+BEGIN:VEVENT
+UID:0043ee2e681714977fd92ad0732a0f69@poster.kultureouest.fr
+DTSTAMP:20260711T100000Z
+DTSTART;TZID=Europe/Paris:20260711T120000
+DTEND;TZID=Europe/Paris:20260711T123000
+SUMMARY:✅ Publié : Les bals des pompiers près de chez nous
+DESCRIPTION:🚒 Les bals des pompiers près de chez nous
+END:VEVENT
+BEGIN:VEVENT
+UID:438f3a508b50089dd187094c3773d63f@poster.kultureouest.fr
+DTSTAMP:20260712T043000Z
+DTSTART;TZID=Europe/Paris:20260712T063000
+DTEND;TZID=Europe/Paris:20260712T070000
+SUMMARY:✅ Publié : Brocante du Comité des Fêtes à Port-des-Barques
+DESCRIPTION:🧺 Brocante sur le front de mer à Port-des-Barques
+END:VEVENT
+BEGIN:VEVENT
+UID:3359bdd3a018b2bf9b7126c9a67bd586@poster.kultureouest.fr
+DTSTAMP:20260712T100000Z
+DTSTART;TZID=Europe/Paris:20260712T120000
+DTEND;TZID=Europe/Paris:20260712T123000
+SUMMARY:✅ Publié : Le Off des Francofolies à La Belle du Gabut
+DESCRIPTION:🎶 Le Off prend ses quartiers à La Belle du Gabut
+END:VEVENT
+BEGIN:VEVENT
+UID:f1cc12e1d22c245a1271f9359ca873ef@poster.kultureouest.fr
+DTSTAMP:20260712T163000Z
+DTSTART;TZID=Europe/Paris:20260712T183000
+DTEND;TZID=Europe/Paris:20260712T190000
+SUMMARY:✅ Publié : Les principaux feux d’artifice près de chez vous
+DESCRIPTION:🎆 Les principaux feux d’artifice près de chez vous
+END:VEVENT
+BEGIN:VEVENT
+UID:5b83c7c085b9d7ad29f7e83481697e6c@poster.kultureouest.fr
+DTSTAMP:20260713T100000Z
+DTSTART;TZID=Europe/Paris:20260713T120000
+DTEND;TZID=Europe/Paris:20260713T123000
+SUMMARY:✅ Publié : Fête nationale à Soubise : jeux\, foodtruck et feu d'artifice
+DESCRIPTION:À Soubise\, le 13 juillet\, la Place Robert Chatelier se transforme en cœur battant de la fête nationale\, entre jeux\, rest
+END:VEVENT
+BEGIN:VEVENT
+UID:7054fa559da664a6572ce3ee53f82182@poster.kultureouest.fr
+DTSTAMP:20260714T100000Z
+DTSTART;TZID=Europe/Paris:20260714T120000
+DTEND;TZID=Europe/Paris:20260714T123000
+SUMMARY:✅ Publié : Festival du Souffle 2026 — 17e édition à l'Abbaye Royale de Celles-sur-Belle
+DESCRIPTION:Pendant quatre jours\, les pierres de l'Abbaye Royale de Celles-sur-Belle vibrent au souffle des saxophones - et de tout 
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce43f6b8a52d8e999aa64a4eab90395@poster.kultureouest.fr
+DTSTAMP:20260714T130000Z
+DTSTART;TZID=Europe/Paris:20260714T150000
+DTEND;TZID=Europe/Paris:20260714T153000
+SUMMARY:✅ Publié : La France va gagner ! Mettez votre score en commentaire
+DESCRIPTION:🇫🇷⚽ La France va gagner ! Mettez votre score en commentaire
+END:VEVENT
+BEGIN:VEVENT
+UID:6d983eef6ed8f77672ef84613d80c0e2@poster.kultureouest.fr
+DTSTAMP:20260714T180000Z
+DTSTART;TZID=Europe/Paris:20260714T200000
+DTEND;TZID=Europe/Paris:20260714T203000
+SUMMARY:✅ Publié : Soirée guinguette à Bourcefranc-Le Chapus : concert de Papa Jive
+DESCRIPTION:Une pelouse\, des guirlandes\, un groupe qui swingue et l'odeur des food-trucks : la guinguette de Bourcefranc revient pou
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e71591f4eee17c34f282b22b973846@poster.kultureouest.fr
+DTSTAMP:20260715T043000Z
+DTSTART;TZID=Europe/Paris:20260715T063000
+DTEND;TZID=Europe/Paris:20260715T070000
+SUMMARY:✅ Publié : Soirée hantée au Château de Panloy
+DESCRIPTION:Aurez-vous le courage de découvrir Panloy une fois la nuit tombée ?
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbdd94a0b18fb8ae3b2ad6fed21ff47@poster.kultureouest.fr
+DTSTAMP:20260715T100000Z
+DTSTART;TZID=Europe/Paris:20260715T120000
+DTEND;TZID=Europe/Paris:20260715T123000
+SUMMARY:✅ Publié : Clem'n The Rock en concert au restaurant Le Flandre
+DESCRIPTION:Une salle en bois façon carène de bateau\, la forêt de pins juste derrière\, et un trio rock qui monte le son : le Flandre
+END:VEVENT
+BEGIN:VEVENT
+UID:a0dd0cf28147463d9bb261a558b3589c@poster.kultureouest.fr
+DTSTAMP:20260715T163000Z
+DTSTART;TZID=Europe/Paris:20260715T183000
+DTEND;TZID=Europe/Paris:20260715T190000
+SUMMARY:✅ Publié : Les Lundis de l’Arsenal à Rochefort
+DESCRIPTION:⚓🎭 Les Lundis de l’Arsenal sont de retour à Rochefort !
+END:VEVENT
+BEGIN:VEVENT
+UID:0f57d3ec4b7f10107dcc91dda8d4ef41@poster.kultureouest.fr
+DTSTAMP:20260716T100000Z
+DTSTART;TZID=Europe/Paris:20260716T120000
+DTEND;TZID=Europe/Paris:20260716T123000
+SUMMARY:✅ Publié : Le Roi qui n'aimait pas la musique – concert jeune public à la médiathèque de Marennes
+DESCRIPTION:Et si un roi refusait d'entendre la musique ? À la médiathèque de Marennes\, les musiciens du festival Entre Vents et Mar
+END:VEVENT
+BEGIN:VEVENT
+UID:74ff1397d0ff106c820f51ac88c827f7@poster.kultureouest.fr
+DTSTAMP:20260716T163000Z
+DTSTART;TZID=Europe/Paris:20260716T183000
+DTEND;TZID=Europe/Paris:20260716T190000
+SUMMARY:✅ Publié : Magnezik Festival : soirée électronique à La Fabuleuse Cantine
+DESCRIPTION:Le soleil se couche sur le bassin\, les basses montent : le Magnezik Festival pose ses platines à La Rochelle pour une nu
+END:VEVENT
+BEGIN:VEVENT
+UID:9c68c218ec875604151c84c11f168b92@poster.kultureouest.fr
+DTSTAMP:20260717T043000Z
+DTSTART;TZID=Europe/Paris:20260717T063000
+DTEND;TZID=Europe/Paris:20260717T070000
+SUMMARY:✅ Publié : Soirée guinguette de Bourcefranc-le-Chapus : 2e édition avec Papa Jive
+DESCRIPTION:🎪 La guinguette de Bourcefranc-le-Chapus revient pour une 2e édition !
+END:VEVENT
+BEGIN:VEVENT
+UID:e37a0126b2e65a723a240c15c3498746@poster.kultureouest.fr
+DTSTAMP:20260717T160000Z
+DTSTART;TZID=Europe/Paris:20260717T180000
+DTEND;TZID=Europe/Paris:20260717T183000
+SUMMARY:✅ Publié : L’Évasion : soirée électro à Fouras-les-Bains
+DESCRIPTION:🎧 L’Évasion débarque à Fouras-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+UID:24f1d2a37d6a3f49b8d83d96b56bf109@poster.kultureouest.fr
+DTSTAMP:20260718T043000Z
+DTSTART;TZID=Europe/Paris:20260718T063000
+DTEND;TZID=Europe/Paris:20260718T070000
+SUMMARY:✅ Publié : Soirée concert moules-frites au Bistrot Gourmand à Montendre
+DESCRIPTION:🎶 Moules-frites et soirée concert à Montendre
+END:VEVENT
+BEGIN:VEVENT
+UID:4988e2a6685e37ec4f05ad11a85d89ff@poster.kultureouest.fr
+DTSTAMP:20260719T043000Z
+DTSTART;TZID=Europe/Paris:20260719T063000
+DTEND;TZID=Europe/Paris:20260719T070000
+SUMMARY:✅ Publié : Le Fleuve en Fête à Port-d’Envaux
+DESCRIPTION:⚓🎶 Le Fleuve en Fête à Port-d’Envaux
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c4dc99bb5bbaab1854f1743c3000c9@poster.kultureouest.fr
+DTSTAMP:20260719T163000Z
+DTSTART;TZID=Europe/Paris:20260719T183000
+DTEND;TZID=Europe/Paris:20260719T190000
+SUMMARY:✅ Publié : CINÉphémère au Lac d’Enlias : Gadjo Dilo
+DESCRIPTION:🎬 CINÉphémère au Lac d’Enlias : Gadjo Dilo sous les étoiles
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3c2e8094e8dfd7b425c0f287b9b5eb@poster.kultureouest.fr
+DTSTAMP:20260720T100000Z
+DTSTART;TZID=Europe/Paris:20260720T120000
+DTEND;TZID=Europe/Paris:20260720T123000
+SUMMARY:✅ Publié : Forrest Gump en VOSTFR au CGR La Rochelle Les Minimes
+DESCRIPTION:🎬 Forrest Gump revient au cinéma à La Rochelle
+END:VEVENT
+BEGIN:VEVENT
+UID:1659bdd72f98dfe0dbe56459efaf93ca@poster.kultureouest.fr
+DTSTAMP:20260720T183000Z
+DTSTART;TZID=Europe/Paris:20260720T203000
+DTEND;TZID=Europe/Paris:20260720T210000
+SUMMARY:✅ Publié : Mercredis Jazz : Fred Dupin "Valve Trombone" à La Gripperie-Saint-Symphorien
+DESCRIPTION:Un terrain en herbe\, une petite scène à côté de l'église\, et le jazz qui s'installe pour la soirée : les Mercredis Jazz 
+END:VEVENT
+BEGIN:VEVENT
+UID:fb50eb44d09a12297609f697fedf6359@poster.kultureouest.fr
+DTSTAMP:20260721T043000Z
+DTSTART;TZID=Europe/Paris:20260721T063000
+DTEND;TZID=Europe/Paris:20260721T070000
+SUMMARY:✅ Publié : Soirée années 80 avec Laurent Damont à Saint-Martin-de-Ré
+DESCRIPTION:🪩 Une soirée 100 % années 80 sur le port de Saint-Martin-de-Ré !
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ab62b59dce81d77d0f91d2e9d6e7bf@poster.kultureouest.fr
+DTSTAMP:20260721T100000Z
+DTSTART;TZID=Europe/Paris:20260721T120000
+DTEND;TZID=Europe/Paris:20260721T123000
+SUMMARY:✅ Publié : Soirées Hantées au Château de Panloy
+DESCRIPTION:👻 Osez les Soirées Hantées au Château de Panloy
+END:VEVENT
+BEGIN:VEVENT
+UID:2d151bd9f52cc938e05dac585d9a1525@poster.kultureouest.fr
+DTSTAMP:20260721T145400Z
+DTSTART;TZID=Europe/Paris:20260721T165400
+DTEND;TZID=Europe/Paris:20260721T172400
+SUMMARY:✅ Publié : Brocante du BMX Club Saintais
+DESCRIPTION:Envie de chiner en famille un dimanche d'été ? Direction l'Espace Mendes France à Saintes pour la grande brocante organi
+END:VEVENT
+BEGIN:VEVENT
+UID:8aae8e950aa6b234723031ace3c218d3@poster.kultureouest.fr
+DTSTAMP:20260722T044000Z
+DTSTART;TZID=Europe/Paris:20260722T064000
+DTEND;TZID=Europe/Paris:20260722T071000
+SUMMARY:✅ Publié : Pique-nique du Grouin – Concert Good Vibes
+DESCRIPTION:Un coucher de soleil\, une nappe posée dans le sable et une ambiance musicale live : le pique-nique du Grouin fait son re
+END:VEVENT
+BEGIN:VEVENT
+UID:17111e717133c8c42d5569c293357422@poster.kultureouest.fr
+DTSTAMP:20260722T175000Z
+DTSTART;TZID=Europe/Paris:20260722T195000
+DTEND;TZID=Europe/Paris:20260722T202000
+SUMMARY:✅ Publié : Con Fuoco ! Concert de l'Orchestre Sortilège à La Rochelle
+DESCRIPTION:🔥🎼 Con Fuoco ! Le feu s'installe à La Rochelle pour un concert symphonique incandescent.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea60bbd3b6f359c382f2849ac57b6c8@poster.kultureouest.fr
+DTSTAMP:20260723T100000Z
+DTSTART;TZID=Europe/Paris:20260723T120000
+DTEND;TZID=Europe/Paris:20260723T123000
+SUMMARY:✅ Publié : "Je préfère qu'on reste amis" - Noctambules Théâtrales de Fouras
+DESCRIPTION:Le rideau tombe en beauté sur les Noctambules Théâtrales de Fouras avec une comédie qui promet des éclats de rire à ne p
+END:VEVENT
+BEGIN:VEVENT
+UID:08d0e2040f96b3a41a91b62e60ead419@poster.kultureouest.fr
+DTSTAMP:20260723T100000Z
+DTSTART;TZID=Europe/Paris:20260723T120000
+DTEND;TZID=Europe/Paris:20260723T123000
+SUMMARY:✅ Publié : Stereoparc Festival
+DESCRIPTION:🎶🔥 STEREOPARC FESTIVAL – Rochefort
+END:VEVENT
+BEGIN:VEVENT
+UID:6dea83973176b6da724cd402ca62403e@poster.kultureouest.fr
+DTSTAMP:20260723T123400Z
+DTSTART;TZID=Europe/Paris:20260723T143400
+DTEND;TZID=Europe/Paris:20260723T150400
+SUMMARY:✅ Publié : Surgères Brass Festival • Les 10 ans !
+DESCRIPTION:Le Parc du Château de Surgères s'apprête à vibrer trois jours durant pour célébrer les dix ans du Surgères Brass Festiva
+END:VEVENT
+BEGIN:VEVENT
+UID:bc455467896e6be38648ad3f388fbcfc@poster.kultureouest.fr
+DTSTAMP:20260723T163000Z
+DTSTART;TZID=Europe/Paris:20260723T183000
+DTEND;TZID=Europe/Paris:20260723T190000
+SUMMARY:✅ Publié : Bières en Live #4
+DESCRIPTION:On revient\, et on revient fort ! Bières en Live débarque pour sa 4e édition les 24 et 25 juillet 2026 sur l'esplanade du
+END:VEVENT
+BEGIN:VEVENT
+UID:60930dcda3b9b1d109a775afe0d546c0@poster.kultureouest.fr
+DTSTAMP:20260723T163000Z
+DTSTART;TZID=Europe/Paris:20260723T183000
+DTEND;TZID=Europe/Paris:20260723T190000
+SUMMARY:✅ Publié : Sabor Dominicano Flower Power à La Fabuleuse Cantine
+DESCRIPTION:🌺 Sabor Dominicano revient à La Rochelle !
+END:VEVENT
+BEGIN:VEVENT
+UID:4eaf3dce52c98ca3d0b2c3379e4be725@poster.kultureouest.fr
+DTSTAMP:20260724T100900Z
+DTSTART;TZID=Europe/Paris:20260724T120900
+DTEND;TZID=Europe/Paris:20260724T123900
+SUMMARY:✅ Publié : Jazz au Phare 2026 - Festival de jazz\, Île de Ré
+DESCRIPTION:Cinq soirées\, quatre scènes et l'océan en toile de fond : la 17e édition de Jazz au Phare enflamme l'Île de Ré du 26 au 
+END:VEVENT
+BEGIN:VEVENT
+UID:807efe2aa1972ef4e6ba353da7a5fdb4@poster.kultureouest.fr
+DTSTAMP:20260724T171800Z
+DTSTART;TZID=Europe/Paris:20260724T191800
+DTEND;TZID=Europe/Paris:20260724T194800
+SUMMARY:✅ Publié : Un Violon sur le Sable – Concert du 25 juillet à Royan (changement de programmation)
+DESCRIPTION:Le rendez-vous incontournable des amateurs de musique classique sur la plage de Royan se réinvente cet été avec un nouve
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1a2fd7b5fb3eb2e2e63d3a4d3c48cb@poster.kultureouest.fr
+DTSTAMP:20260725T043000Z
+DTSTART;TZID=Europe/Paris:20260725T063000
+DTEND;TZID=Europe/Paris:20260725T070000
+SUMMARY:✅ Publié : Festival Ondes Classiques : Violoncelle en Voile à Marsilly
+DESCRIPTION:⛵ Cap sur Marsilly pour le Festival Ondes Classiques !
+END:VEVENT
+BEGIN:VEVENT
+UID:ad30ada5c45eaa1e198c75ce2b8e7eab@poster.kultureouest.fr
+DTSTAMP:20260725T095400Z
+DTSTART;TZID=Europe/Paris:20260725T115400
+DTEND;TZID=Europe/Paris:20260725T122400
+SUMMARY:✅ Publié : Une Saison sous le Clocher — Concert Duo D'Âmes de Chœur
+DESCRIPTION:Une parenthèse vocale hors du temps s'annonce sous les voûtes de l'église de Saint-Nazaire-sur-Charente\, le temps d'un «
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae11953ef5fd9af6593eec1feb072ed@poster.kultureouest.fr
+DTSTAMP:20260725T153000Z
+DTSTART;TZID=Europe/Paris:20260725T173000
+DTEND;TZID=Europe/Paris:20260725T180000
+SUMMARY:✅ Publié : Concert Jazz Manouche : La Pompe Funèbre à La Colo
+DESCRIPTION:Ce samedi soir\, l'île d'Oléron vibre au son du swing manouche avec le concert de La Pompe Funèbre à La Colo\, à Dolus-d'O
+END:VEVENT
+BEGIN:VEVENT
+UID:49fd350343b33bfbce28724487abebd2@poster.kultureouest.fr
+DTSTAMP:20260726T043000Z
+DTSTART;TZID=Europe/Paris:20260726T063000
+DTEND;TZID=Europe/Paris:20260726T070000
+SUMMARY:✅ Publié : 6ème Grand Marché aux Livres de Tonnay-Charente
+DESCRIPTION:Le temps d'un dimanche d'été\, le quai de la Libération de Tonnay-Charente se transforme en un immense marché à ciel ouve
+END:VEVENT
+BEGIN:VEVENT
+UID:656cb45a9f33db48a25acee67b54d1e1@poster.kultureouest.fr
+DTSTAMP:20260726T095400Z
+DTSTART;TZID=Europe/Paris:20260726T115400
+DTEND;TZID=Europe/Paris:20260726T122400
+SUMMARY:✅ Publié : Nuit de la Chauve-Souris au Moulin des Loges
+DESCRIPTION:Quand la nuit tombe sur le marais de Saint-Just-Luzac\, un monde discret et fascinant s'éveille : celui des chauves-souri
+END:VEVENT
+BEGIN:VEVENT
+UID:fb49926c57d60e96453d27bdf88dc244@poster.kultureouest.fr
+DTSTAMP:20260726T153000Z
+DTSTART;TZID=Europe/Paris:20260726T173000
+DTEND;TZID=Europe/Paris:20260726T180000
+SUMMARY:✅ Publié : Concert aux saveurs marines : Toméléon à Oliver's Cook
+DESCRIPTION:Le temps d'une soirée d'été\, les quais du port de plaisance de Rochefort se mettent aux couleurs de la musique et des sa
+END:VEVENT
+BEGIN:VEVENT
+UID:e744b6fd752c70afb848699ec4e81b11@poster.kultureouest.fr
+DTSTAMP:20260727T043000Z
+DTSTART;TZID=Europe/Paris:20260727T063000
+DTEND;TZID=Europe/Paris:20260727T070000
+SUMMARY:✅ Publié : Soirée Quiz Musical & Karaoké Pirate à la Guinguette Korser Breizh (Aytré)
+DESCRIPTION:À travers cette soirée thématique et festive en bord de mer\, la guinguette Korser Breizh d'Aytré invite habitants\, estiv
+END:VEVENT
+BEGIN:VEVENT
+UID:d95944b7b8020f9cca0e54e37cb15d81@poster.kultureouest.fr
+DTSTAMP:20260727T100000Z
+DTSTART;TZID=Europe/Paris:20260727T120000
+DTEND;TZID=Europe/Paris:20260727T123000
+SUMMARY:✅ Publié : Pierre et le Loup – Concert Jeune Public (Festival Musique en Ré)
+DESCRIPTION:Le célèbre conte musical de Prokofiev prend vie sur l'Île de Ré pour éveiller les oreilles des plus jeunes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c72e8f19a6ef4827f319ed37d8737fee@poster.kultureouest.fr
+DTSTAMP:20260727T151100Z
+DTSTART;TZID=Europe/Paris:20260727T171100
+DTEND;TZID=Europe/Paris:20260727T174100
+SUMMARY:✅ Publié : Les Lundis de l'Arsenal - Rochefort
+DESCRIPTION:Comme chaque lundi de l'été\, l'Arsenal des Mers de Rochefort se transforme en scène à ciel ouvert pour une soirée gratui
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d464223de9121bda7fa9b310bd7303@poster.kultureouest.fr
+DTSTAMP:20260727T181500Z
+DTSTART;TZID=Europe/Paris:20260727T201500
+DTEND;TZID=Europe/Paris:20260727T204500
+SUMMARY:✅ Publié : Incendies en Gironde et dans les Landes : appel aux dons du Secours populaire
+DESCRIPTION:Alors que les flammes ravagent la Gironde et les Landes depuis plusieurs jours\, la solidarité s'organise à quelques kilo
+END:VEVENT
+BEGIN:VEVENT
+UID:a02fc83f3e3c014927f96c32fa1a3737@poster.kultureouest.fr
+DTSTAMP:20260728T041100Z
+DTSTART;TZID=Europe/Paris:20260728T061100
+DTEND;TZID=Europe/Paris:20260728T064100
+SUMMARY:✅ Publié : Les Brassées Solidaires - 6ᵉ édition
+DESCRIPTION:Le temps d'une soirée d'été\, Échillais se transforme en village festif et solidaire pour la 6ᵉ édition des Brassées Soli
+END:VEVENT
+BEGIN:VEVENT
+UID:f025c1829bd613271a9f5c9324763d75@poster.kultureouest.fr
+DTSTAMP:20260728T100000Z
+DTSTART;TZID=Europe/Paris:20260728T120000
+DTEND;TZID=Europe/Paris:20260728T123000
+SUMMARY:✅ Publié : Relais Petite Enfance : un service public pour trouver son mode de garde à Soubise
+DESCRIPTION:Devenir parent bouleverse le quotidien\, et trouver le bon mode de garde pour son enfant n'est jamais une évidence.
+END:VEVENT
+BEGIN:VEVENT
+UID:9780d3a9b775d9833becefc3c1a54a08@poster.kultureouest.fr
+DTSTAMP:20260728T153000Z
+DTSTART;TZID=Europe/Paris:20260728T173000
+DTEND;TZID=Europe/Paris:20260728T180000
+SUMMARY:✅ Publié : Festival Electro Ré 2026
+DESCRIPTION:Deux jours et deux nuits pour vivre la toute première édition d'un festival électro pensé pour l'Île de Ré.
+END:VEVENT
+BEGIN:VEVENT
+UID:00538a330ca913053f1d220fb30973a2@poster.kultureouest.fr
+DTSTAMP:20260729T043000Z
+DTSTART;TZID=Europe/Paris:20260729T063000
+DTEND;TZID=Europe/Paris:20260729T070000
+SUMMARY:✅ Publié : Tournoi jeu vidéo Karting SS 123 à la Micro-Folie de Marennes
+DESCRIPTION:Qui décrochera la pole position ? La Micro-Folie de Marennes met le turbo pour un tournoi de jeu vidéo endiablé.
+END:VEVENT
+BEGIN:VEVENT
+UID:18993d7f3d1331e125f4bf879a381ddf@poster.kultureouest.fr
+DTSTAMP:20260729T043900Z
+DTSTART;TZID=Europe/Paris:20260729T063900
+DTEND;TZID=Europe/Paris:20260729T070900
+SUMMARY:✅ Publié : Les Mercredis Jazz - Parc de la Forêt\, Rochefort
+DESCRIPTION:L'été rochefortais vibre à nouveau au rythme du jazz avec le retour des Mercredis Jazz\, rendez-vous incontournable de la
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9a3049204bb0aa5e2c9c2b26c26bfe@poster.kultureouest.fr
+DTSTAMP:20260729T093800Z
+DTSTART;TZID=Europe/Paris:20260729T113800
+DTEND;TZID=Europe/Paris:20260729T120800
+SUMMARY:✅ Publié : Exposition « Sur un air de Doisneau » à l'Office de Tourisme de La Rochelle
+DESCRIPTION:📷✨ EXPOSITION « SUR UN AIR DE DOISNEAU » – Office de Tourisme\, La Rochelle
+END:VEVENT
+BEGIN:VEVENT
+UID:9fa9fb86b82ae3bbaf392e418d3863dc@poster.kultureouest.fr
+DTSTAMP:20260729T100600Z
+DTSTART;TZID=Europe/Paris:20260729T120600
+DTEND;TZID=Europe/Paris:20260729T123600
+SUMMARY:✅ Publié : Concert Tchalaï - Les Mercredis du Clos
+DESCRIPTION:Un mercredi de juillet au bord de la Charente\, embarquez pour un voyage musical sans frontières avec le trio Tchalaï.
+END:VEVENT
+BEGIN:VEVENT
+UID:60322efcb57fbc810dbf2e1546a1aa49@poster.kultureouest.fr
+DTSTAMP:20260729T153000Z
+DTSTART;TZID=Europe/Paris:20260729T173000
+DTEND;TZID=Europe/Paris:20260729T180000
+SUMMARY:✅ Publié : Une Folle Époque Cuba Do Re — Soirée Salsa Cubaine
+DESCRIPTION:Une Folle Époque Cuba Do Re 🇨🇺
+END:VEVENT
+BEGIN:VEVENT
+UID:b4964a0304dd00ca7ce20baaa80f2b8c@poster.kultureouest.fr
+DTSTAMP:20260730T043000Z
+DTSTART;TZID=Europe/Paris:20260730T063000
+DTEND;TZID=Europe/Paris:20260730T070000
+SUMMARY:✅ Publié : Grand Déstockage Vivractif à Tonnay-Charente
+DESCRIPTION:Envie de faire de bonnes affaires avant la rentrée ? Vivractif ouvre grand ses portes pour un déstockage exceptionnel !
+END:VEVENT
+BEGIN:VEVENT
+UID:79f954a7e0a92fb4781ef3f43264b88b@poster.kultureouest.fr
+DTSTAMP:20260730T100000Z
+DTSTART;TZID=Europe/Paris:20260730T120000
+DTEND;TZID=Europe/Paris:20260730T123000
+SUMMARY:✅ Publié : Spectacle de Drones – Grande Plage de Saint-Georges-de-Didonne
+DESCRIPTION:Le ciel de Saint-Georges-de-Didonne s'embrasera dimanche soir d'un ballet lumineux hors du commun.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc52090d0611551c6b7996e6920aeb9f@poster.kultureouest.fr
+DTSTAMP:20260730T161300Z
+DTSTART;TZID=Europe/Paris:20260730T181300
+DTEND;TZID=Europe/Paris:20260730T184300
+SUMMARY:✅ Publié : Retour vers les 80's – La Tournée
+DESCRIPTION:🎤🎸 RETOUR VERS LES 80'S – Salle des Fêtes\, Charron
+END:VEVENT
+BEGIN:VEVENT
+UID:d396e47d25213849beb49469fb960522@poster.kultureouest.fr
+DTSTAMP:20260730T182300Z
+DTSTART;TZID=Europe/Paris:20260730T202300
+DTEND;TZID=Europe/Paris:20260730T205300
+SUMMARY:✅ Publié : Le Monde des Dinosaures débarque à Surgères pour un week-end géant
+DESCRIPTION:Et si le Jurassique débarquait le temps d'un week-end au cœur d'Aunis Sud ?
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4b777c83ec799677fd953c0b7aeee8@poster.kultureouest.fr
+DTSTAMP:20260731T043000Z
+DTSTART;TZID=Europe/Paris:20260731T063000
+DTEND;TZID=Europe/Paris:20260731T070000
+SUMMARY:✅ Publié : Concert de jazz au Moulin de la Platine
+DESCRIPTION:🎷 Le concert de jazz du Moulin de la Platine est de retour !
+END:VEVENT
+BEGIN:VEVENT
+UID:0999f3bd4abed26482cf6afd09c3215f@poster.kultureouest.fr
+DTSTAMP:20260731T100000Z
+DTSTART;TZID=Europe/Paris:20260731T120000
+DTEND;TZID=Europe/Paris:20260731T123000
+SUMMARY:✅ Publié : La Plage Sonore — rappel 1er août
+DESCRIPTION:🏖️🎶 LA PLAGE SONORE revient ce samedi 1er août à Port-des-Barques — dès 16h\, entrée libre !
+END:VEVENT
+BEGIN:VEVENT
+UID:f0db9475da614d4f81719a649471f01c@poster.kultureouest.fr
+DTSTAMP:20260731T120200Z
+DTSTART;TZID=Europe/Paris:20260731T140200
+DTEND;TZID=Europe/Paris:20260731T143200
+SUMMARY:✅ Publié : 12e Fête Médiévale au Château de Crazannes : chevaliers\, fauconnerie et troubadours les 1er et 2 août 2026
+DESCRIPTION:⚔️🏰 12e Fête Médiévale du Château de Crazannes
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4f9bcf7f837af128b9377df2af983d@poster.kultureouest.fr
+DTSTAMP:20260731T161300Z
+DTSTART;TZID=Europe/Paris:20260731T181300
+DTEND;TZID=Europe/Paris:20260731T184300
+SUMMARY:✅ Publié : La Plage Sonore – Port-des-Barques
+DESCRIPTION:Le temps d'un samedi\, Port-des-Barques se transforme en havre de convivialité les pieds dans le sable.
+END:VEVENT
+BEGIN:VEVENT
+UID:312f5f16283057d769536e4508445f86@poster.kultureouest.fr
+DTSTAMP:20260801T040600Z
+DTSTART;TZID=Europe/Paris:20260801T060600
+DTEND;TZID=Europe/Paris:20260801T063600
+SUMMARY:✅ Publié : Paillettes Party\, concert pop & DJ set solidaire à La Belle du Gabut
+DESCRIPTION:Le samedi 1er août\, la Friche du Gabut à La Rochelle s'illumine de paillettes pour une soirée festive et solidaire.
+END:VEVENT
+BEGIN:VEVENT
+UID:96f35fe43c9330ccbc4fbe018f7262b6@poster.kultureouest.fr
+DTSTAMP:20260801T113900Z
+DTSTART;TZID=Europe/Paris:20260801T133900
+DTEND;TZID=Europe/Paris:20260801T140900
+SUMMARY:✅ Publié : Pique-nique du Grouin – Concert Good Vibes
+DESCRIPTION:Un coucher de soleil\, une nappe posée dans le sable et une ambiance musicale live : le pique-nique du Grouin fait son re
+END:VEVENT
+BEGIN:VEVENT
+UID:742a8a4ad70b4b9ca70248fbae061646@poster.kultureouest.fr
+DTSTAMP:20260801T113900Z
+DTSTART;TZID=Europe/Paris:20260801T133900
+DTEND;TZID=Europe/Paris:20260801T140900
+SUMMARY:✅ Publié : Hommage à Mike Brant avec Claude Arena – Repas-spectacle à Soubise
+DESCRIPTION:Le temps d'un dimanche\, la voix légendaire de Mike Brant revit à Soubise pour célébrer les 50 ans de son répertoire.
+END:VEVENT
+BEGIN:VEVENT
+UID:87eca9761916e6a3788f9494c9afc8d2@poster.kultureouest.fr
+DTSTAMP:20260801T163600Z
+DTSTART;TZID=Europe/Paris:20260801T183600
+DTEND;TZID=Europe/Paris:20260801T190600
+SUMMARY:✅ Publié : Les Rendez-vous récréatifs – Soirée concerts & DJ set à Ars-en-Ré
+DESCRIPTION:Les Rendez-vous récréatifs font escale Place de l'Église à Ars-en-Ré pour une soirée gourmande et musicale mémorable.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a27526dd4c63dd7291e3a625e3c8a6a@poster.kultureouest.fr
+DTSTAMP:20260802T044700Z
+DTSTART;TZID=Europe/Paris:20260802T064700
+DTEND;TZID=Europe/Paris:20260802T071700
+SUMMARY:✅ Publié : Marché Nocturne Estival de Châtelaillon-Plage
+DESCRIPTION:Chaque dimanche soir\, la place Jean Moulin de Châtelaillon-Plage se transforme en un village éphémère dédié à l'artisana
+END:VEVENT
+BEGIN:VEVENT
+UID:2435b745a2b209e62737756126470bb4@poster.kultureouest.fr
+DTSTAMP:20260802T102500Z
+DTSTART;TZID=Europe/Paris:20260802T122500
+DTEND;TZID=Europe/Paris:20260802T125500
+SUMMARY:✅ Publié : Bal des Minimes : des années 80 à aujourd'hui
+DESCRIPTION:Le temps d'une nuit d'été\, l'esplanade du Lazaret devient un immense dancefloor face à l'océan.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d35f0b4b3393143f1e6276cd4f7abf3@poster.kultureouest.fr
+DTSTAMP:20260803T040600Z
+DTSTART;TZID=Europe/Paris:20260803T060600
+DTEND;TZID=Europe/Paris:20260803T063600
+SUMMARY:✅ Publié : Cours d'Aquagym à la Piscine de Marennes-Bourcefranc
+DESCRIPTION:Cet été\, plongez dans une bulle de fraîcheur et de dynamisme à la piscine de Marennes-Bourcefranc grâce aux séances d'aq
+END:VEVENT
+BEGIN:VEVENT
 UID:231ec1a41380334a6f73223168208715@poster.kultureouest.fr
 DTSTAMP:20260803T101100Z
 DTSTART;TZID=Europe/Paris:20260803T121100
