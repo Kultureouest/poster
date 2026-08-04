@@ -1358,6 +1358,14 @@ SUMMARY:📣 Post réseaux : Randonnée Gourmande de l'Estuaire à Port-des-Barq
 DESCRIPTION:Le temps d'une soirée d'été\, l'estuaire de la Charente se pare de ses plus belles lumières pour une randonnée pas comme 
 END:VEVENT
 BEGIN:VEVENT
+UID:bedf9375cb821d9c247d49cb5138974a@poster.kultureouest.fr
+DTSTAMP:20260903T043100Z
+DTSTART;TZID=Europe/Paris:20260903T063100
+DTEND;TZID=Europe/Paris:20260903T070100
+SUMMARY:📣 Post réseaux : Rando de l'Estuaire : balade gourmande semi-nocturne à Port-des-Barques
+DESCRIPTION:Quand le soleil plonge dans l'estuaire de la Charente\, Port-des-Barques invite à une balade pas comme les autres\, entre 
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
 DTSTAMP:20260905T045500Z
 DTSTART;TZID=Europe/Paris:20260905T065500
