@@ -1398,6 +1398,14 @@ SUMMARY:📣 Post réseaux : Randonnée Gourmande "Viv'Envaux" 2026 : 11 km et 4
 DESCRIPTION:Envie de marcher au rythme des saveurs et des paysages de la Charente ? Rendez-vous à Port-d'Envaux pour une randonnée g
 END:VEVENT
 BEGIN:VEVENT
+UID:6604f952c2ef7023adfe948ec1c46410@poster.kultureouest.fr
+DTSTAMP:20261003T053100Z
+DTSTART;TZID=Europe/Paris:20261003T073100
+DTEND;TZID=Europe/Paris:20261003T080100
+SUMMARY:📣 Post réseaux : Course Familiale d'Aytré 2026 : sport et solidarité pour Octobre Rose
+DESCRIPTION:🏃‍♀️💖 LA COURSE FAMILIALE D'AYTRÉ (AU PROFIT D'OCTOBRE ROSE)
+END:VEVENT
+BEGIN:VEVENT
 UID:22651b26d54e0932e0344d18947dbf66@poster.kultureouest.fr
 DTSTAMP:20270805T143100Z
 DTSTART;TZID=Europe/Paris:20270805T163100
