@@ -1310,6 +1310,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 17 août (clôture)
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE clôture sa saison ce lundi 17 août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:922f09b575d6e151ad0d35704528cda4@poster.kultureouest.fr
+DTSTAMP:20260817T155500Z
+DTSTART;TZID=Europe/Paris:20260817T175500
+DTEND;TZID=Europe/Paris:20260817T182500
+SUMMARY:📣 Post réseaux : L'Échappée : Les Négresses Vertes en concert gratuit à Châtelaillon-Plage
+DESCRIPTION:Le temps d'une soirée d'été\, la Plage Nord de Châtelaillon-Plage se transforme en scène à ciel ouvert pour accueillir un
+END:VEVENT
+BEGIN:VEVENT
 UID:34440c337319a97b003b8b3e1e0d8cc6@poster.kultureouest.fr
 DTSTAMP:20260819T041900Z
 DTSTART;TZID=Europe/Paris:20260819T061900
