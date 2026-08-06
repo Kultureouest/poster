@@ -1206,6 +1206,14 @@ SUMMARY:📣 Post réseaux : Exposition photo à Rochefort : 40 oiseaux célébr
 DESCRIPTION:Quarante regards d'oiseaux\, quarante histoires de sauvegarde : une escale photographique à ne pas manquer au cœur de Roc
 END:VEVENT
 BEGIN:VEVENT
+UID:2ca257ff5fdc0dd864ef276cba649fe8@poster.kultureouest.fr
+DTSTAMP:20260810T145500Z
+DTSTART;TZID=Europe/Paris:20260810T165500
+DTEND;TZID=Europe/Paris:20260810T172500
+SUMMARY:📣 Post réseaux : Nuit poétique à l'Abbaye de Trizay : poésie\, peinture et musique sous les étoiles
+DESCRIPTION:Sous un ciel étoilé\, l'Abbaye d'Art de Trizay s'anime pour une Nuit poétique inoubliable\, mêlant poésie\, peinture et mus
+END:VEVENT
+BEGIN:VEVENT
 UID:cb4a0fabeacc309139dcd4e19a6baf68@poster.kultureouest.fr
 DTSTAMP:20260811T041500Z
 DTSTART;TZID=Europe/Paris:20260811T061500
