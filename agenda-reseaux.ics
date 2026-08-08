@@ -1470,6 +1470,14 @@ SUMMARY:📣 Post réseaux : Chorale enfant à Tonnay-Charente : rejoignez l'EMD
 DESCRIPTION:🎤 Et si votre enfant découvrait le plaisir de chanter en groupe dès la rentrée ?
 END:VEVENT
 BEGIN:VEVENT
+UID:8e1d3ab037c2528fd59a14a4b857a6b5@poster.kultureouest.fr
+DTSTAMP:20260826T163200Z
+DTSTART;TZID=Europe/Paris:20260826T183200
+DTEND;TZID=Europe/Paris:20260826T190200
+SUMMARY:📣 Post réseaux : Forum des associations à La Rochelle : rendez-vous le 28 août
+DESCRIPTION:Envie de vous investir\, de bouger ou simplement de dénicher une nouvelle passion pour la rentrée ? Le Forum des associat
+END:VEVENT
+BEGIN:VEVENT
 UID:773e7a95000647619d6c31ab337a33e0@poster.kultureouest.fr
 DTSTAMP:20260827T043600Z
 DTSTART;TZID=Europe/Paris:20260827T063600
