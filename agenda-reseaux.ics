@@ -1518,6 +1518,14 @@ SUMMARY:📣 Post réseaux : Brocante de Lussant 2026 : chinez au Terrain des Fo
 DESCRIPTION:Une matinée d'automne naissant à chiner sous le soleil de Saintonge : la brocante de Lussant fait son grand retour !
 END:VEVENT
 BEGIN:VEVENT
+UID:6ffa5660ad7b48f767ed1a2809a91bf8@poster.kultureouest.fr
+DTSTAMP:20260910T043200Z
+DTSTART;TZID=Europe/Paris:20260910T063200
+DTEND;TZID=Europe/Paris:20260910T070200
+SUMMARY:📣 Post réseaux : Vide-Grenier de Clavette : chinez les bonnes affaires le 13 septembre
+DESCRIPTION:🛍️ Vide-grenier de Clavette !
+END:VEVENT
+BEGIN:VEVENT
 UID:190d71f07ad2aa1c89100b299689dbb6@poster.kultureouest.fr
 DTSTAMP:20260911T045500Z
 DTSTART;TZID=Europe/Paris:20260911T065500
