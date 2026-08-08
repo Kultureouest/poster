@@ -1462,6 +1462,14 @@ SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retr
 DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
 END:VEVENT
 BEGIN:VEVENT
+UID:c208077b3447f37228448e79daf379b1@poster.kultureouest.fr
+DTSTAMP:20260825T150000Z
+DTSTART;TZID=Europe/Paris:20260825T170000
+DTEND;TZID=Europe/Paris:20260825T173000
+SUMMARY:📣 Post réseaux : placeholder
+DESCRIPTION:placeholder
+END:VEVENT
+BEGIN:VEVENT
 UID:6961c45f43f13e99183942c5d38dd1a5@poster.kultureouest.fr
 DTSTAMP:20260826T043200Z
 DTSTART;TZID=Europe/Paris:20260826T063200
