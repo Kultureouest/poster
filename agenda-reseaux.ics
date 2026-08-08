@@ -1406,6 +1406,14 @@ SUMMARY:📣 Post réseaux : Loto des héros à Marennes-Plage : une animation f
 DESCRIPTION:Un matin d'été pas comme les autres attend les jeunes aventuriers du bassin de Marennes\, entre grilles de loto et héros 
 END:VEVENT
 BEGIN:VEVENT
+UID:5e553fbdc2698154d7b3c4c6de6fc3d6@poster.kultureouest.fr
+DTSTAMP:20260819T163200Z
+DTSTART;TZID=Europe/Paris:20260819T183200
+DTEND;TZID=Europe/Paris:20260819T190200
+SUMMARY:📣 Post réseaux : Soirée Tropicale à La Rochelle : concert de Washaa et DJ set à la Belle du Gabut
+DESCRIPTION:🌴 Le temps d'une soirée d'été\, La Belle du Gabut vous emmène sous les tropiques\, en plein cœur de La Rochelle.
+END:VEVENT
+BEGIN:VEVENT
 UID:de1b59138b3aa8224c16dc6c8ef9b53f@poster.kultureouest.fr
 DTSTAMP:20260820T043600Z
 DTSTART;TZID=Europe/Paris:20260820T063600
