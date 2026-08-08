@@ -1390,6 +1390,14 @@ SUMMARY:📣 Post réseaux : Concert Jazz à Jonzac : le Hot Swing Sextet enflam
 DESCRIPTION:Le swing des années folles s'invite dans la pierre séculaire du Cloître des Carmes\, le temps d'une soirée d'été électriq
 END:VEVENT
 BEGIN:VEVENT
+UID:5ee5f85b9e6230fc86a3e595344c0694@poster.kultureouest.fr
+DTSTAMP:20260818T163000Z
+DTSTART;TZID=Europe/Paris:20260818T183000
+DTEND;TZID=Europe/Paris:20260818T190000
+SUMMARY:📣 Post réseaux : Festival Transe Atlantique 2026 à Saintes : la 5e édition franco-québécoise
+DESCRIPTION:Le Festival Transe Atlantique souffle ses cinq bougies à Saintes avec une programmation franco-québécoise plus explosive
+END:VEVENT
+BEGIN:VEVENT
 UID:34440c337319a97b003b8b3e1e0d8cc6@poster.kultureouest.fr
 DTSTAMP:20260819T041900Z
 DTSTART;TZID=Europe/Paris:20260819T061900
