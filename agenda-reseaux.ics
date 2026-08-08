@@ -1502,6 +1502,14 @@ SUMMARY:📣 Post réseaux : Rando de l'Estuaire : balade gourmande semi-nocturn
 DESCRIPTION:Quand le soleil plonge dans l'estuaire de la Charente\, Port-des-Barques invite à une balade pas comme les autres\, entre 
 END:VEVENT
 BEGIN:VEVENT
+UID:9788cf430574f0a5dc1e49cf90f9b902@poster.kultureouest.fr
+DTSTAMP:20260904T043200Z
+DTSTART;TZID=Europe/Paris:20260904T063200
+DTEND;TZID=Europe/Paris:20260904T070200
+SUMMARY:📣 Post réseaux : Forum des Associations d'Échillais : le rendez-vous de la rentrée
+DESCRIPTION:La rentrée rime avec bonnes résolutions : direction la Place d'Uettingen pour faire le plein d'idées d'activités !
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
 DTSTAMP:20260905T045500Z
 DTSTART;TZID=Europe/Paris:20260905T065500
