@@ -1350,6 +1350,14 @@ SUMMARY:📣 Post réseaux : Concert Reggae à La Rochelle : Lee Roy King enflam
 DESCRIPTION:À l'occasion du 15 août\, La Canopée met le cap sur les Caraïbes pour une soirée reggae avec Lee Roy King.
 END:VEVENT
 BEGIN:VEVENT
+UID:4c6c2ae6e732ebf5fb3001d79830abd5@poster.kultureouest.fr
+DTSTAMP:20260815T103200Z
+DTSTART;TZID=Europe/Paris:20260815T123200
+DTEND;TZID=Europe/Paris:20260815T130200
+SUMMARY:📣 Post réseaux : Marché des Arts à Meschers : plus de 30 artistes exposent le 16 août
+DESCRIPTION:🎨🖌️ MARCHÉ DES ARTS À MESCHERS !
+END:VEVENT
+BEGIN:VEVENT
 UID:744e51c9ced52d3936791885c59b691c@poster.kultureouest.fr
 DTSTAMP:20260816T100000Z
 DTSTART;TZID=Europe/Paris:20260816T120000
