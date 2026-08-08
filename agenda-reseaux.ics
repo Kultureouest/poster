@@ -1430,6 +1430,14 @@ SUMMARY:📣 Post réseaux : Portes Ouvertes des Pompiers de Pont-l'Abbé-d'Arno
 DESCRIPTION:🚒 Le temps d'une journée\, la caserne des Sapeurs-Pompiers de Pont-l'Abbé-d'Arnoult ouvre grand ses portes pour une fête 
 END:VEVENT
 BEGIN:VEVENT
+UID:1f08caa0f8050b111a94ff2ce478e773@poster.kultureouest.fr
+DTSTAMP:20260823T043200Z
+DTSTART;TZID=Europe/Paris:20260823T063200
+DTEND;TZID=Europe/Paris:20260823T070200
+SUMMARY:📣 Post réseaux : Soirée Guinguette à Royan : bal populaire avec Thierry Guitton et Jo Moizotti
+DESCRIPTION:💃🪗 Soirée Guinguette à la Tâche Verte de Royan !
+END:VEVENT
+BEGIN:VEVENT
 UID:6604033d9e5e600575e196dbe9f0aee8@poster.kultureouest.fr
 DTSTAMP:20260825T040500Z
 DTSTART;TZID=Europe/Paris:20260825T060500
