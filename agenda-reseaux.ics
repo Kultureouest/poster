@@ -1558,6 +1558,14 @@ SUMMARY:📣 Post réseaux : Randonnée Gourmande "Viv'Envaux" 2026 : 11 km et 4
 DESCRIPTION:Envie de marcher au rythme des saveurs et des paysages de la Charente ? Rendez-vous à Port-d'Envaux pour une randonnée g
 END:VEVENT
 BEGIN:VEVENT
+UID:327f09804fe8ee9b7a2b31366c09602a@poster.kultureouest.fr
+DTSTAMP:20260922T043200Z
+DTSTART;TZID=Europe/Paris:20260922T063200
+DTEND;TZID=Europe/Paris:20260922T070200
+SUMMARY:📣 Post réseaux : Color Run Color'Elles : une course solidaire haute en couleur à Oléron
+DESCRIPTION:Le 27 septembre\, l'Île d'Oléron s'embrase de couleurs pour une bonne cause : la Color Run Color'Elles débarque à Grand-V
+END:VEVENT
+BEGIN:VEVENT
 UID:6604f952c2ef7023adfe948ec1c46410@poster.kultureouest.fr
 DTSTAMP:20261003T053100Z
 DTSTART;TZID=Europe/Paris:20261003T073100
