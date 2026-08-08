@@ -1438,6 +1438,14 @@ SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retr
 DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
 END:VEVENT
 BEGIN:VEVENT
+UID:6961c45f43f13e99183942c5d38dd1a5@poster.kultureouest.fr
+DTSTAMP:20260826T043200Z
+DTSTART;TZID=Europe/Paris:20260826T063200
+DTEND;TZID=Europe/Paris:20260826T070200
+SUMMARY:📣 Post réseaux : Chorale enfant à Tonnay-Charente : rejoignez l'EMD dès la rentrée
+DESCRIPTION:🎤 Et si votre enfant découvrait le plaisir de chanter en groupe dès la rentrée ?
+END:VEVENT
+BEGIN:VEVENT
 UID:773e7a95000647619d6c31ab337a33e0@poster.kultureouest.fr
 DTSTAMP:20260827T043600Z
 DTSTART;TZID=Europe/Paris:20260827T063600
