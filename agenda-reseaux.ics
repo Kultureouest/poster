@@ -1574,12 +1574,12 @@ SUMMARY:📣 Post réseaux : Forum des Associations d'Échillais : le rendez-vou
 DESCRIPTION:La rentrée rime avec bonnes résolutions : direction la Place d'Uettingen pour faire le plein d'idées d'activités !
 END:VEVENT
 BEGIN:VEVENT
-UID:14dfadc886e0f9ed878bd3478b3de8db@poster.kultureouest.fr
+UID:a8d7be066d094847d670bf286d3dacff@poster.kultureouest.fr
 DTSTAMP:20260904T103300Z
 DTSTART;TZID=Europe/Paris:20260904T123300
 DTEND;TZID=Europe/Paris:20260904T130300
-SUMMARY:📣 Post réseaux : placeholder
-DESCRIPTION:placeholder
+SUMMARY:📣 Post réseaux : Rochefort : Forum des Associations et Feu d'Artifice pour la Rentrée 2026
+DESCRIPTION:Rochefort met les petits plats dans les grands pour la rentrée : une journée dédiée aux associations\, suivie d'un concer
 END:VEVENT
 BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
