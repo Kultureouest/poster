@@ -1510,6 +1510,14 @@ SUMMARY:📣 Post réseaux : Chorale enfant à Tonnay-Charente : rejoignez l'EMD
 DESCRIPTION:🎤 Et si votre enfant découvrait le plaisir de chanter en groupe dès la rentrée ?
 END:VEVENT
 BEGIN:VEVENT
+UID:e962f7cb81a35ccc8a26ebf7401d0930@poster.kultureouest.fr
+DTSTAMP:20260826T043200Z
+DTSTART;TZID=Europe/Paris:20260826T063200
+DTEND;TZID=Europe/Paris:20260826T070200
+SUMMARY:📣 Post réseaux : Concert New Soul Mates au Clos à Rochefort : soirée Soul & Rock vintage
+DESCRIPTION:🎙️ Une soirée Soul\, Pop et Rock vintage au Clos à Rochefort !
+END:VEVENT
+BEGIN:VEVENT
 UID:8e1d3ab037c2528fd59a14a4b857a6b5@poster.kultureouest.fr
 DTSTAMP:20260826T163200Z
 DTSTART;TZID=Europe/Paris:20260826T183200
