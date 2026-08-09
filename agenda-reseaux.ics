@@ -1574,6 +1574,14 @@ SUMMARY:📣 Post réseaux : Forum des Associations d'Échillais : le rendez-vou
 DESCRIPTION:La rentrée rime avec bonnes résolutions : direction la Place d'Uettingen pour faire le plein d'idées d'activités !
 END:VEVENT
 BEGIN:VEVENT
+UID:14dfadc886e0f9ed878bd3478b3de8db@poster.kultureouest.fr
+DTSTAMP:20260904T103300Z
+DTSTART;TZID=Europe/Paris:20260904T123300
+DTEND;TZID=Europe/Paris:20260904T130300
+SUMMARY:📣 Post réseaux : placeholder
+DESCRIPTION:placeholder
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
 DTSTAMP:20260905T045500Z
 DTSTART;TZID=Europe/Paris:20260905T065500
