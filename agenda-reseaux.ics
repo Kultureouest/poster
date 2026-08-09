@@ -1366,6 +1366,14 @@ SUMMARY:📣 Post réseaux : Marché des Arts à Meschers : plus de 30 artistes 
 DESCRIPTION:🎨🖌️ MARCHÉ DES ARTS À MESCHERS !
 END:VEVENT
 BEGIN:VEVENT
+UID:922cd125d84c56d0e198f2bce3b60898@poster.kultureouest.fr
+DTSTAMP:20260816T042900Z
+DTSTART;TZID=Europe/Paris:20260816T062900
+DTEND;TZID=Europe/Paris:20260816T065900
+SUMMARY:📣 Post réseaux : House of Brass en concert à Saint-Palais-sur-Mer pour les Concerts du Concié
+DESCRIPTION:🎺🎧 Un dimanche soir électro-jazz face à l'océan : les Concerts du Concié invitent House of Brass à faire vibrer l'esplan
+END:VEVENT
+BEGIN:VEVENT
 UID:744e51c9ced52d3936791885c59b691c@poster.kultureouest.fr
 DTSTAMP:20260816T100000Z
 DTSTART;TZID=Europe/Paris:20260816T120000
