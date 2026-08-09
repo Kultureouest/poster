@@ -1374,6 +1374,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 17 août (clôture)
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE clôture sa saison ce lundi 17 août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:bfdef305f45a51c8a8ca54394bc969da@poster.kultureouest.fr
+DTSTAMP:20260817T102900Z
+DTSTART;TZID=Europe/Paris:20260817T122900
+DTEND;TZID=Europe/Paris:20260817T125900
+SUMMARY:📣 Post réseaux : Concert rock à Rochefort : Dîner de Famille au Clos
+DESCRIPTION:Rock garage psychédélique au Clos à Rochefort !
+END:VEVENT
+BEGIN:VEVENT
 UID:922f09b575d6e151ad0d35704528cda4@poster.kultureouest.fr
 DTSTAMP:20260817T155500Z
 DTSTART;TZID=Europe/Paris:20260817T175500
