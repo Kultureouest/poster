@@ -1494,12 +1494,12 @@ SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retr
 DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
 END:VEVENT
 BEGIN:VEVENT
-UID:c208077b3447f37228448e79daf379b1@poster.kultureouest.fr
+UID:87fd4394acb7ea3f06154fc71c0ea8a9@poster.kultureouest.fr
 DTSTAMP:20260825T150000Z
 DTSTART;TZID=Europe/Paris:20260825T170000
 DTEND;TZID=Europe/Paris:20260825T173000
-SUMMARY:📣 Post réseaux : placeholder
-DESCRIPTION:placeholder
+SUMMARY:📣 Post réseaux : Soirée Cinéma & Chant : Mamma Mia ! au CGR Les Minimes
+DESCRIPTION:Envie de faire le plein de soleil\, de bonne humeur et de chanter à tue-tête sur les plus grands tubes d'ABBA ? Le Cinéma
 END:VEVENT
 BEGIN:VEVENT
 UID:6961c45f43f13e99183942c5d38dd1a5@poster.kultureouest.fr
