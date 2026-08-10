@@ -1486,6 +1486,14 @@ SUMMARY:📣 Post réseaux : Vide-grenier de la Saint-Louis à Corme-Royal : chi
 DESCRIPTION:Chineurs et curieux\, préparez votre matinée : le stade municipal de Corme-Royal se transforme en immense marché aux trés
 END:VEVENT
 BEGIN:VEVENT
+UID:1e43d3f3e83a612f003f9e1b55d44673@poster.kultureouest.fr
+DTSTAMP:20260822T103200Z
+DTSTART;TZID=Europe/Paris:20260822T123200
+DTEND;TZID=Europe/Paris:20260822T130200
+SUMMARY:📣 Post réseaux : Havana Noche à La Cox : une soirée 100% Latino le 22 août à Saint-Sulpice-d'Arnoult
+DESCRIPTION:💃 CALIENTE ! LA HAVANA NOCHE DÉBARQUE À LA COX ! 🕺
+END:VEVENT
+BEGIN:VEVENT
 UID:1f08caa0f8050b111a94ff2ce478e773@poster.kultureouest.fr
 DTSTAMP:20260823T043200Z
 DTSTART;TZID=Europe/Paris:20260823T063200
