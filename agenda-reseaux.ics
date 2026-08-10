@@ -1614,6 +1614,14 @@ SUMMARY:📣 Post réseaux : Festival Kissycol 2026 : le street art investit la 
 DESCRIPTION:Le street art envahit le cœur historique de La Rochelle le temps d'une journée hors norme.
 END:VEVENT
 BEGIN:VEVENT
+UID:6d098104d0cd173187859d3e36a45efc@poster.kultureouest.fr
+DTSTAMP:20260828T160000Z
+DTSTART;TZID=Europe/Paris:20260828T180000
+DTEND;TZID=Europe/Paris:20260828T183000
+SUMMARY:📣 Post réseaux : Festival Kissycol 2026 : le street art envahit le quartier Saint-Nicolas à La Rochelle
+DESCRIPTION:Le temps d'une journée\, les murs et ruelles du quartier Saint-Nicolas se transforment en galerie à ciel ouvert pour la t
+END:VEVENT
+BEGIN:VEVENT
 UID:1063964801a759be95413c5e9e2a3b14@poster.kultureouest.fr
 DTSTAMP:20260831T100500Z
 DTSTART;TZID=Europe/Paris:20260831T120500
