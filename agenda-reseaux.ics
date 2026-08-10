@@ -1470,6 +1470,14 @@ SUMMARY:📣 Post réseaux : Portes Ouvertes des Pompiers de Pont-l'Abbé-d'Arno
 DESCRIPTION:🚒 Le temps d'une journée\, la caserne des Sapeurs-Pompiers de Pont-l'Abbé-d'Arnoult ouvre grand ses portes pour une fête 
 END:VEVENT
 BEGIN:VEVENT
+UID:4333f6c7fbba81ef76f83a3a9b32dbbd@poster.kultureouest.fr
+DTSTAMP:20260822T043200Z
+DTSTART;TZID=Europe/Paris:20260822T063200
+DTEND;TZID=Europe/Paris:20260822T070200
+SUMMARY:📣 Post réseaux : Vide-grenier de la Saint-Louis à Corme-Royal : chinez au stade municipal le 23 août
+DESCRIPTION:Chineurs et curieux\, préparez votre matinée : le stade municipal de Corme-Royal se transforme en immense marché aux trés
+END:VEVENT
+BEGIN:VEVENT
 UID:1f08caa0f8050b111a94ff2ce478e773@poster.kultureouest.fr
 DTSTAMP:20260823T043200Z
 DTSTART;TZID=Europe/Paris:20260823T063200
