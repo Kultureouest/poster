@@ -1614,6 +1614,14 @@ SUMMARY:📣 Post réseaux : Vide-Grenier à Dolus d'Oléron : Défi pour Elles 
 DESCRIPTION:🛍️ Grand vide-grenier de l'association Défi pour Elles à Dolus d'Oléron !
 END:VEVENT
 BEGIN:VEVENT
+UID:934857e4a92a79e74e8bb1623338ac64@poster.kultureouest.fr
+DTSTAMP:20260909T043200Z
+DTSTART;TZID=Europe/Paris:20260909T063200
+DTEND;TZID=Europe/Paris:20260909T070200
+SUMMARY:📣 Post réseaux : Rentrée des ateliers Batuk Nagô'cean : la batucada reprend ses droits
+DESCRIPTION:Envie de vibrer au rythme de la batucada pour bien démarrer la rentrée ?
+END:VEVENT
+BEGIN:VEVENT
 UID:6ffa5660ad7b48f767ed1a2809a91bf8@poster.kultureouest.fr
 DTSTAMP:20260910T043200Z
 DTSTART;TZID=Europe/Paris:20260910T063200
