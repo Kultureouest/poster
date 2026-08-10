@@ -1382,6 +1382,14 @@ SUMMARY:📣 Post réseaux : La Plage Sonore — rappel 17 août (clôture)
 DESCRIPTION:🏖️🎶 LA PLAGE SONORE clôture sa saison ce lundi 17 août à Port-des-Barques — dès 16h\, entrée libre !
 END:VEVENT
 BEGIN:VEVENT
+UID:219f484392158b492bb90811cc35a337@poster.kultureouest.fr
+DTSTAMP:20260817T041000Z
+DTSTART;TZID=Europe/Paris:20260817T061000
+DTEND;TZID=Europe/Paris:20260817T064000
+SUMMARY:📣 Post réseaux : Estiv'Art : la balade estivale artisanale et locale illumine le Port de L'Éguille
+DESCRIPTION:Une soirée d'été où l'on flâne entre échoppes d'artisans et étals gourmands\, les pieds presque dans l'eau du port.
+END:VEVENT
+BEGIN:VEVENT
 UID:bfdef305f45a51c8a8ca54394bc969da@poster.kultureouest.fr
 DTSTAMP:20260817T102900Z
 DTSTART;TZID=Europe/Paris:20260817T122900
