@@ -1234,7 +1234,7 @@ UID:cb4a0fabeacc309139dcd4e19a6baf68@poster.kultureouest.fr
 DTSTAMP:20260811T041500Z
 DTSTART;TZID=Europe/Paris:20260811T061500
 DTEND;TZID=Europe/Paris:20260811T064500
-SUMMARY:📣 Post réseaux : test
+SUMMARY:✅ Publié : test
 DESCRIPTION:Le 12 août\, offrir une heure de son temps peut sauver une vie : rendez-vous à la salle Le Sémaphore de Bourcefrand-le-Ch
 END:VEVENT
 BEGIN:VEVENT
