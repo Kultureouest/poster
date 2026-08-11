@@ -1566,6 +1566,14 @@ SUMMARY:📣 Post réseaux : La Nuit illuminée des Carrelets 2026 à Fouras-les
 DESCRIPTION:✨🎆 La Nuit des Carrelets à Fouras-les-Bains !
 END:VEVENT
 BEGIN:VEVENT
+UID:b80aefd5a0e9d8d918cac73136d49043@poster.kultureouest.fr
+DTSTAMP:20260824T094400Z
+DTSTART;TZID=Europe/Paris:20260824T114400
+DTEND;TZID=Europe/Paris:20260824T121400
+SUMMARY:📣 Post réseaux : Château Fort de la Fée Mélusine : une immersion médiévale à Saint-Jean-d'Angle
+DESCRIPTION:🏰 Et si le temps d'une journée\, vous plongiez véritablement au cœur du Moyen Âge ?
+END:VEVENT
+BEGIN:VEVENT
 UID:6604033d9e5e600575e196dbe9f0aee8@poster.kultureouest.fr
 DTSTAMP:20260825T040500Z
 DTSTART;TZID=Europe/Paris:20260825T060500
