@@ -1430,6 +1430,14 @@ SUMMARY:📣 Post réseaux : Concert de Joseph Chédid au Bus Stop à Saint-Pier
 DESCRIPTION:🎸 Le temps d'une soirée d'été\, l'île d'Oléron accueille l'une des voix les plus attachantes de la nouvelle chanson franç
 END:VEVENT
 BEGIN:VEVENT
+UID:1a43ed26d8ca37760fa97048898830c0@poster.kultureouest.fr
+DTSTAMP:20260818T080000Z
+DTSTART;TZID=Europe/Paris:20260818T100000
+DTEND;TZID=Europe/Paris:20260818T103000
+SUMMARY:📣 Post réseaux : Vide-greniers et brocante d'Ars-en-Ré : rendez-vous le 19 août
+DESCRIPTION:Envie de chiner au pied d'un des plus beaux villages de France ? Rendez-vous à Ars-en-Ré pour une journée de brocante et
+END:VEVENT
+BEGIN:VEVENT
 UID:c3d2d17d3f0e952ae905f9302e44b14f@poster.kultureouest.fr
 DTSTAMP:20260818T101800Z
 DTSTART;TZID=Europe/Paris:20260818T121800
