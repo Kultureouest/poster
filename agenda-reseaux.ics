@@ -1718,6 +1718,14 @@ SUMMARY:📣 Post réseaux : Saison 2026/27 du Théâtre de la Coupe d'Or : rend
 DESCRIPTION:🎭 Envie de préparer vos soirées théâtre à l'avance ? Le Théâtre de la Coupe d'Or de Rochefort lève le voile sur sa nouve
 END:VEVENT
 BEGIN:VEVENT
+UID:b5b07abae30493f98393fb88ea5000c3@poster.kultureouest.fr
+DTSTAMP:20260904T041900Z
+DTSTART;TZID=Europe/Paris:20260904T061900
+DTEND;TZID=Europe/Paris:20260904T064900
+SUMMARY:📣 Post réseaux : Tournoi de Fléchettes au Bar Sekhmet à Rochefort
+DESCRIPTION:🎯 Amateurs de précision et de bonne ambiance\, le Bar Sekhmet vous attend pour un grand tournoi de fléchettes en doublett
+END:VEVENT
+BEGIN:VEVENT
 UID:9788cf430574f0a5dc1e49cf90f9b902@poster.kultureouest.fr
 DTSTAMP:20260904T043200Z
 DTSTART;TZID=Europe/Paris:20260904T063200
