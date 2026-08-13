@@ -1598,6 +1598,14 @@ SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retr
 DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
 END:VEVENT
 BEGIN:VEVENT
+UID:d5d8277135ad23d52e2e5daf4f4471ad@poster.kultureouest.fr
+DTSTAMP:20260825T103300Z
+DTSTART;TZID=Europe/Paris:20260825T123300
+DTEND;TZID=Europe/Paris:20260825T130300
+SUMMARY:📣 Post réseaux : Ouverture de la billetterie : la saison culturelle 2026-2027 de Beauséjour fête ses 20 ans
+DESCRIPTION:Beauséjour souffle ses 20 bougies et ouvre grand les portes de sa nouvelle saison culturelle !
+END:VEVENT
+BEGIN:VEVENT
 UID:87fd4394acb7ea3f06154fc71c0ea8a9@poster.kultureouest.fr
 DTSTAMP:20260825T150000Z
 DTSTART;TZID=Europe/Paris:20260825T170000
