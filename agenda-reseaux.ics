@@ -1414,6 +1414,14 @@ SUMMARY:📣 Post réseaux : Estiv'Art : la balade estivale artisanale et locale
 DESCRIPTION:Une soirée d'été où l'on flâne entre échoppes d'artisans et étals gourmands\, les pieds presque dans l'eau du port.
 END:VEVENT
 BEGIN:VEVENT
+UID:2db67248a600a318e7092e12e73c7ad4@poster.kultureouest.fr
+DTSTAMP:20260817T080000Z
+DTSTART;TZID=Europe/Paris:20260817T100000
+DTEND;TZID=Europe/Paris:20260817T103000
+SUMMARY:📣 Post réseaux : Le Quart d'Écu raconte Puy du Lac : spectacle son et lumière à ne pas manquer
+DESCRIPTION:✨ L'histoire prend vie au spectacle son et lumière du Quart d'Écu !
+END:VEVENT
+BEGIN:VEVENT
 UID:bfdef305f45a51c8a8ca54394bc969da@poster.kultureouest.fr
 DTSTAMP:20260817T102900Z
 DTSTART;TZID=Europe/Paris:20260817T122900
