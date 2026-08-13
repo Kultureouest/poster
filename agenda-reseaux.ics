@@ -1702,6 +1702,14 @@ SUMMARY:📣 Post réseaux : Bourse de Fouras 2026 : le rendez-vous des passionn
 DESCRIPTION:Amateurs de belles carrosseries et de pièces rares\, rendez-vous au bord de l'océan pour un week-end qui sent bon l'essen
 END:VEVENT
 BEGIN:VEVENT
+UID:9fc3fc82fdea40c4ed852de5e833f662@poster.kultureouest.fr
+DTSTAMP:20260903T163300Z
+DTSTART;TZID=Europe/Paris:20260903T183300
+DTEND;TZID=Europe/Paris:20260903T190300
+SUMMARY:📣 Post réseaux : Saison 2026/27 du Théâtre de la Coupe d'Or : rendez-vous à Rochefort
+DESCRIPTION:🎭 Envie de préparer vos soirées théâtre à l'avance ? Le Théâtre de la Coupe d'Or de Rochefort lève le voile sur sa nouve
+END:VEVENT
+BEGIN:VEVENT
 UID:9788cf430574f0a5dc1e49cf90f9b902@poster.kultureouest.fr
 DTSTAMP:20260904T043200Z
 DTSTART;TZID=Europe/Paris:20260904T063200
