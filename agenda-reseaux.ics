@@ -1710,6 +1710,14 @@ SUMMARY:📣 Post réseaux : Nuit de la Chauve-Souris à Soubise : balade noctur
 DESCRIPTION:🦇 Et si vous partiez à la rencontre des créatures les plus discrètes de la nuit ?
 END:VEVENT
 BEGIN:VEVENT
+UID:2d75256521159afae172c090802eb3c1@poster.kultureouest.fr
+DTSTAMP:20260902T101500Z
+DTSTART;TZID=Europe/Paris:20260902T121500
+DTEND;TZID=Europe/Paris:20260902T124500
+SUMMARY:📣 Post réseaux : Forum des Associations de Soubise : rendez-vous le 5 septembre 2026
+DESCRIPTION:La rentrée approche et Soubise réunit tout son tissu associatif en une seule journée !
+END:VEVENT
+BEGIN:VEVENT
 UID:bedf9375cb821d9c247d49cb5138974a@poster.kultureouest.fr
 DTSTAMP:20260903T043100Z
 DTSTART;TZID=Europe/Paris:20260903T063100
