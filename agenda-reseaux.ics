@@ -1322,7 +1322,7 @@ UID:ea31163a9338c6f68e2796fe22444a67@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
 DTEND;TZID=Europe/Paris:20260814T070000
-SUMMARY:📣 Post réseaux : La Fête de l’Oie à Courcoury
+SUMMARY:✅ Publié : La Fête de l’Oie à Courcoury
 DESCRIPTION:🪿 La Fête de l’Oie revient à Courcoury !
 END:VEVENT
 BEGIN:VEVENT
@@ -1330,7 +1330,7 @@ UID:d413117925ba50292be3d38d711e7dc0@poster.kultureouest.fr
 DTSTAMP:20260814T043000Z
 DTSTART;TZID=Europe/Paris:20260814T063000
 DTEND;TZID=Europe/Paris:20260814T070000
-SUMMARY:📣 Post réseaux : Fête de l'Huître 2026 à Fouras
+SUMMARY:✅ Publié : Fête de l'Huître 2026 à Fouras
 DESCRIPTION:Deux jours durant\, la prairie du Casino de Fouras sent l'iode\, le citron et la friture : la Fête de l'Huître revient\, et
 END:VEVENT
 BEGIN:VEVENT
