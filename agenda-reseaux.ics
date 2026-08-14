@@ -1494,6 +1494,14 @@ SUMMARY:📣 Post réseaux : DJ Set & Brasero à Marennes : Les Sables Électron
 DESCRIPTION:Une soirée où les platines rencontrent le brasero\, pour une escale électro-gourmande unique à Marennes.
 END:VEVENT
 BEGIN:VEVENT
+UID:d172e393a1337be123af3dce3158fc6a@poster.kultureouest.fr
+DTSTAMP:20260819T080000Z
+DTSTART;TZID=Europe/Paris:20260819T100000
+DTEND;TZID=Europe/Paris:20260819T103000
+SUMMARY:📣 Post réseaux : Soirée Feria à La Rochelle : rendez-vous au Colette du Marché
+DESCRIPTION:🎉 Le centre-ville de La Rochelle s'embrase le temps d'une soirée aux couleurs de la feria !
+END:VEVENT
+BEGIN:VEVENT
 UID:acf737be3d2c3e294462d9dbd375c1be@poster.kultureouest.fr
 DTSTAMP:20260819T100800Z
 DTSTART;TZID=Europe/Paris:20260819T120800
