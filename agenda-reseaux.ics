@@ -1702,6 +1702,14 @@ SUMMARY:📣 Post réseaux : Randonnée Gourmande de l'Estuaire à Port-des-Barq
 DESCRIPTION:Le temps d'une soirée d'été\, l'estuaire de la Charente se pare de ses plus belles lumières pour une randonnée pas comme 
 END:VEVENT
 BEGIN:VEVENT
+UID:935de7fa1f75418b85fbcc432108cc73@poster.kultureouest.fr
+DTSTAMP:20260902T043000Z
+DTSTART;TZID=Europe/Paris:20260902T063000
+DTEND;TZID=Europe/Paris:20260902T070000
+SUMMARY:📣 Post réseaux : Nuit de la Chauve-Souris à Soubise : balade nocturne
+DESCRIPTION:🦇 Et si vous partiez à la rencontre des créatures les plus discrètes de la nuit ?
+END:VEVENT
+BEGIN:VEVENT
 UID:bedf9375cb821d9c247d49cb5138974a@poster.kultureouest.fr
 DTSTAMP:20260903T043100Z
 DTSTART;TZID=Europe/Paris:20260903T063100
