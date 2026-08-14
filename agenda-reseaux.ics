@@ -1558,6 +1558,14 @@ SUMMARY:📣 Post réseaux : Concert caritatif à Châtelaillon-Plage : l'Harmon
 DESCRIPTION:🎷 UN CONCERT DE CHARITÉ EN PLEIN AIR À CHÂTELAILLON-PLAGE ! 🎵
 END:VEVENT
 BEGIN:VEVENT
+UID:45d9ddf950d369d233fd4a4bcf7df15c@poster.kultureouest.fr
+DTSTAMP:20260821T130000Z
+DTSTART;TZID=Europe/Paris:20260821T150000
+DTEND;TZID=Europe/Paris:20260821T153000
+SUMMARY:📣 Post réseaux : Concert blues du groupe Devil's Trip à La Canopée\, La Jarne
+DESCRIPTION:🎸 Le blues s'invite sous les frondaisons de La Canopée pour une soirée aussi vibrante que conviviale.
+END:VEVENT
+BEGIN:VEVENT
 UID:d2a03b138d54575868a52b39a4a8d443@poster.kultureouest.fr
 DTSTAMP:20260821T170000Z
 DTSTART;TZID=Europe/Paris:20260821T190000
