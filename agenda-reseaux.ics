@@ -1878,6 +1878,14 @@ SUMMARY:📣 Post réseaux : Bataille d'échecs à Rochefort : une soirée jeu o
 DESCRIPTION:👑 Bataille d'échecs au Bar Sekhmet à Rochefort ! ♟️
 END:VEVENT
 BEGIN:VEVENT
+UID:3e3592de702bd8777febb477ffc4e3fa@poster.kultureouest.fr
+DTSTAMP:20260908T043000Z
+DTSTART;TZID=Europe/Paris:20260908T063000
+DTEND;TZID=Europe/Paris:20260908T070000
+SUMMARY:📣 Post réseaux : Soirée tricot\, crochet et couture au salon Ô Fait Main à Rochefort
+DESCRIPTION:Envie d'une pause fil et aiguilles dans une ambiance cosy ? Le salon Ô Fait Main à Rochefort ouvre ses soirées créatives
+END:VEVENT
+BEGIN:VEVENT
 UID:934857e4a92a79e74e8bb1623338ac64@poster.kultureouest.fr
 DTSTAMP:20260909T043200Z
 DTSTART;TZID=Europe/Paris:20260909T063200
