@@ -1550,6 +1550,14 @@ SUMMARY:📣 Post réseaux : Rencontre & dédicace avec Coline Chevis à l'Espac
 DESCRIPTION:Le temps d'une rencontre\, embarquez pour un voyage entre plumes et aquarelle en compagnie de Coline Chevis\, autrice-illu
 END:VEVENT
 BEGIN:VEVENT
+UID:f63b9725aebd8e5ec7fd33ccb0655db2@poster.kultureouest.fr
+DTSTAMP:20260820T184900Z
+DTSTART;TZID=Europe/Paris:20260820T204900
+DTEND;TZID=Europe/Paris:20260820T211900
+SUMMARY:📣 Post réseaux : Festival Belle Époque Royan 2026
+DESCRIPTION:Le temps d'un dimanche\, Royan enfile ses habits d'antan et invite le public à remonter le temps jusqu'aux Années Folles.
+END:VEVENT
+BEGIN:VEVENT
 UID:a3ee172d04ee5d5787c587878205ae03@poster.kultureouest.fr
 DTSTAMP:20260821T034100Z
 DTSTART;TZID=Europe/Paris:20260821T054100
