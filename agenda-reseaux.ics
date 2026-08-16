@@ -1534,6 +1534,14 @@ SUMMARY:📣 Post réseaux : Fête du Village à Geay
 DESCRIPTION:🎪 Le temps d'une journée\, tout Geay se retrouve pour vivre l'un des rendez-vous les plus attendus de l'été charentais-ma
 END:VEVENT
 BEGIN:VEVENT
+UID:b226b66e07a63f0ba988bfdf05fe29fb@poster.kultureouest.fr
+DTSTAMP:20260820T080000Z
+DTSTART;TZID=Europe/Paris:20260820T100000
+DTEND;TZID=Europe/Paris:20260820T103000
+SUMMARY:📣 Post réseaux : Fêtes de Saujon 2026 : la ville en jaune et noir pour sa première grande fête
+DESCRIPTION:🎉 Saujon enfile son plus bel habit jaune et noir pour une grande première festive au bord de la Seudre !
+END:VEVENT
+BEGIN:VEVENT
 UID:288d915fbbba9609e456abeafe3c2c0c@poster.kultureouest.fr
 DTSTAMP:20260820T103200Z
 DTSTART;TZID=Europe/Paris:20260820T123200
