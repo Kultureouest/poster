@@ -1934,6 +1934,14 @@ SUMMARY:📣 Post réseaux : Vide-greniers de Nuaillé d'Aunis : chinez le 27 se
 DESCRIPTION:🛍️ Envie de dénicher une pépite au détour d'un stand ? Le vide-greniers de Nuaillé d'Aunis vous attend pour une journée 
 END:VEVENT
 BEGIN:VEVENT
+UID:2b82eac7a440f5ae283eab588662145d@poster.kultureouest.fr
+DTSTAMP:20261001T040000Z
+DTSTART;TZID=Europe/Paris:20261001T060000
+DTEND;TZID=Europe/Paris:20261001T063000
+SUMMARY:📣 Post réseaux : Marché de créateurs Saintes 2026 : spécial Octobre Rose à l'Abbaye aux Dames
+DESCRIPTION:Samedi 24 octobre\, l'Abbaye aux Dames de Saintes se pare de rose le temps d'une journée pour accueillir un marché de cré
+END:VEVENT
+BEGIN:VEVENT
 UID:6604f952c2ef7023adfe948ec1c46410@poster.kultureouest.fr
 DTSTAMP:20261003T053100Z
 DTSTART;TZID=Europe/Paris:20261003T073100
