@@ -1654,6 +1654,14 @@ SUMMARY:📣 Post réseaux : Château Fort de la Fée Mélusine : une immersion 
 DESCRIPTION:🏰 Et si le temps d'une journée\, vous plongiez véritablement au cœur du Moyen Âge ?
 END:VEVENT
 BEGIN:VEVENT
+UID:7518d433d764fa01ceccbf708a4b2e2a@poster.kultureouest.fr
+DTSTAMP:20260824T160000Z
+DTSTART;TZID=Europe/Paris:20260824T180000
+DTEND;TZID=Europe/Paris:20260824T183000
+SUMMARY:📣 Post réseaux : Exposition "Autour de Gil KD" à la Galerie de Pontaillac (Royan)
+DESCRIPTION:🎨 Cet été\, la Galerie de Pontaillac transforme ses cimaises en un véritable dialogue d'artistes\, à deux pas des plages d
+END:VEVENT
+BEGIN:VEVENT
 UID:6604033d9e5e600575e196dbe9f0aee8@poster.kultureouest.fr
 DTSTAMP:20260825T040500Z
 DTSTART;TZID=Europe/Paris:20260825T060500
