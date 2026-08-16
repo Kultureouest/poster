@@ -1566,6 +1566,14 @@ SUMMARY:📣 Post réseaux : Portes Ouvertes des Pompiers de Pont-l'Abbé-d'Arno
 DESCRIPTION:🚒 Le temps d'une journée\, la caserne des Sapeurs-Pompiers de Pont-l'Abbé-d'Arnoult ouvre grand ses portes pour une fête 
 END:VEVENT
 BEGIN:VEVENT
+UID:51115218efcbbb33f2732bced4b3ddd9@poster.kultureouest.fr
+DTSTAMP:20260821T074900Z
+DTSTART;TZID=Europe/Paris:20260821T094900
+DTEND;TZID=Europe/Paris:20260821T101900
+SUMMARY:📣 Post réseaux : Soirée dansante Années 80 - Port des Barques
+DESCRIPTION:🪩 Ce samedi\, le front de mer de Port-des-Barques se transforme en piste de danse à ciel ouvert pour un grand retour aux 
+END:VEVENT
+BEGIN:VEVENT
 UID:3f076e65e612b43cc28f622726ff5a18@poster.kultureouest.fr
 DTSTAMP:20260821T103200Z
 DTSTART;TZID=Europe/Paris:20260821T123200
