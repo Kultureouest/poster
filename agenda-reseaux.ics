@@ -1846,6 +1846,14 @@ SUMMARY:📣 Post réseaux : Vide-Grenier à Dolus d'Oléron : Défi pour Elles 
 DESCRIPTION:🛍️ Grand vide-grenier de l'association Défi pour Elles à Dolus d'Oléron !
 END:VEVENT
 BEGIN:VEVENT
+UID:539f6322680480d79cdc8b897b93828d@poster.kultureouest.fr
+DTSTAMP:20260907T100000Z
+DTSTART;TZID=Europe/Paris:20260907T120000
+DTEND;TZID=Europe/Paris:20260907T123000
+SUMMARY:📣 Post réseaux : Bataille d'échecs à Rochefort : une soirée jeu ouverte à tous au Bar Sekhmet
+DESCRIPTION:👑 Bataille d'échecs au Bar Sekhmet à Rochefort ! ♟️
+END:VEVENT
+BEGIN:VEVENT
 UID:934857e4a92a79e74e8bb1623338ac64@poster.kultureouest.fr
 DTSTAMP:20260909T043200Z
 DTSTART;TZID=Europe/Paris:20260909T063200
