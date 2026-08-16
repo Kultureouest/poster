@@ -1766,6 +1766,14 @@ SUMMARY:📣 Post réseaux : Brocante\, Vide-dressing et Vide-grenier à Saint-A
 DESCRIPTION:🛍️ Envie de dénicher la perle rare un dimanche de septembre ? Rendez-vous à Saint-Agnant pour une grande journée de chin
 END:VEVENT
 BEGIN:VEVENT
+UID:71f42c6dfa1cd36c098dede2e573c29d@poster.kultureouest.fr
+DTSTAMP:20260901T163000Z
+DTSTART;TZID=Europe/Paris:20260901T183000
+DTEND;TZID=Europe/Paris:20260901T190000
+SUMMARY:📣 Post réseaux : Forum des associations de Saint-Agnant 2026 : une rentrée festive et solidaire
+DESCRIPTION:La rentrée se fête à Saint-Agnant avec une journée conviviale placée sous le signe du sport\, des loisirs et de la solida
+END:VEVENT
+BEGIN:VEVENT
 UID:935de7fa1f75418b85fbcc432108cc73@poster.kultureouest.fr
 DTSTAMP:20260902T043000Z
 DTSTART;TZID=Europe/Paris:20260902T063000
