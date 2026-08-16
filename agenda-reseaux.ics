@@ -1494,6 +1494,14 @@ SUMMARY:📣 Post réseaux : Festival Transe Atlantique 2026 à Saintes : la 5e 
 DESCRIPTION:Le Festival Transe Atlantique souffle ses cinq bougies à Saintes avec une programmation franco-québécoise plus explosive
 END:VEVENT
 BEGIN:VEVENT
+UID:9f1bbb1b4c64791606434728888fa6f4@poster.kultureouest.fr
+DTSTAMP:20260818T193000Z
+DTSTART;TZID=Europe/Paris:20260818T213000
+DTEND;TZID=Europe/Paris:20260818T220000
+SUMMARY:📣 Post réseaux : Pique-nique musical Bourcefranc 2026 : concert pop/rock au Parc Ranson
+DESCRIPTION:🎶 Pique-nique musical au Parc Ranson - Bourcefranc-le-Chapus
+END:VEVENT
+BEGIN:VEVENT
 UID:34440c337319a97b003b8b3e1e0d8cc6@poster.kultureouest.fr
 DTSTAMP:20260819T041900Z
 DTSTART;TZID=Europe/Paris:20260819T061900
