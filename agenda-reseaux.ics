@@ -1734,6 +1734,14 @@ SUMMARY:📣 Post réseaux : Concert solidaire à Saint-Froult : le quatuor Boca
 DESCRIPTION:🎷🎶 Le temps d'une soirée d'été\, l'église de Saint-Froult se transforme en écrin de générosité et de musique.
 END:VEVENT
 BEGIN:VEVENT
+UID:f18b443d1d83dcfddbabdf3815e25656@poster.kultureouest.fr
+DTSTAMP:20260827T163000Z
+DTSTART;TZID=Europe/Paris:20260827T183000
+DTEND;TZID=Europe/Paris:20260827T190000
+SUMMARY:📣 Post réseaux : Foire aux puces de Saint-Palais-sur-Mer : chine et bonnes affaires au bord du lac
+DESCRIPTION:Envie de dénicher la perle rare avant la fin de l'été ? Direction Saint-Palais-sur-Mer\, où le Parc Raymond Vignes se tra
+END:VEVENT
+BEGIN:VEVENT
 UID:e2c8db47e77d23bf02b5632a86cc2a49@poster.kultureouest.fr
 DTSTAMP:20260828T043000Z
 DTSTART;TZID=Europe/Paris:20260828T063000
