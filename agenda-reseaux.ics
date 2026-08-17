@@ -1734,6 +1734,14 @@ SUMMARY:📣 Post réseaux : Concert solidaire à Saint-Froult : le quatuor Boca
 DESCRIPTION:🎷🎶 Le temps d'une soirée d'été\, l'église de Saint-Froult se transforme en écrin de générosité et de musique.
 END:VEVENT
 BEGIN:VEVENT
+UID:e2c8db47e77d23bf02b5632a86cc2a49@poster.kultureouest.fr
+DTSTAMP:20260828T043000Z
+DTSTART;TZID=Europe/Paris:20260828T063000
+DTEND;TZID=Europe/Paris:20260828T070000
+SUMMARY:📣 Post réseaux : Montée Historique de Fouras : voitures anciennes en démonstration le 30 août 2026
+DESCRIPTION:🏎️ La Montée Historique débarque à Fouras !
+END:VEVENT
+BEGIN:VEVENT
 UID:4bf67210c7c157921d7991c271cf57aa@poster.kultureouest.fr
 DTSTAMP:20260828T043200Z
 DTSTART;TZID=Europe/Paris:20260828T063200
