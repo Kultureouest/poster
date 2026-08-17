@@ -1822,6 +1822,14 @@ SUMMARY:📣 Post réseaux : Jumbo Run 17 - 3ème édition : une balade moto sol
 DESCRIPTION:🏍️ Jumbo Run 17 : quand la passion moto rime avec partage et inclusion !
 END:VEVENT
 BEGIN:VEVENT
+UID:327241b57a71fa11ced0254c93976ded@poster.kultureouest.fr
+DTSTAMP:20260830T100900Z
+DTSTART;TZID=Europe/Paris:20260830T120900
+DTEND;TZID=Europe/Paris:20260830T123900
+SUMMARY:📣 Post réseaux : Concours de dessin : tentez de remporter le Prix Bulles d'Océan à Rochefort
+DESCRIPTION:Envie de dessiner votre vision de la bande dessinée et de décrocher un accès privilégié aux nouveautés BD ? Le Réseau de
+END:VEVENT
+BEGIN:VEVENT
 UID:c6535fc5ab4e2eeba727ee1a49e372e3@poster.kultureouest.fr
 DTSTAMP:20260831T043000Z
 DTSTART;TZID=Europe/Paris:20260831T063000
