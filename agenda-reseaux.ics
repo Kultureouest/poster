@@ -1710,6 +1710,14 @@ SUMMARY:📣 Post réseaux : Concert New Soul Mates au Clos à Rochefort : soir�
 DESCRIPTION:🎙️ Une soirée Soul\, Pop et Rock vintage au Clos à Rochefort !
 END:VEVENT
 BEGIN:VEVENT
+UID:14794114fbb80c78d548c5ec918d47a2@poster.kultureouest.fr
+DTSTAMP:20260826T103000Z
+DTSTART;TZID=Europe/Paris:20260826T123000
+DTEND;TZID=Europe/Paris:20260826T130000
+SUMMARY:📣 Post réseaux : Initiation gratuite au skate et à la trottinette à Bourcefranc-le-Chapus
+DESCRIPTION:🛹 Casque vissé\, planche en main : le skatepark de Bourcefranc-le-Chapus va vibrer vendredi 28 août !
+END:VEVENT
+BEGIN:VEVENT
 UID:8e1d3ab037c2528fd59a14a4b857a6b5@poster.kultureouest.fr
 DTSTAMP:20260826T163200Z
 DTSTART;TZID=Europe/Paris:20260826T183200
