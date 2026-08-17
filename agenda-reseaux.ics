@@ -1646,6 +1646,14 @@ SUMMARY:📣 Post réseaux : Fête de la Saint-Louis à Bourcefranc-le-Chapus : 
 DESCRIPTION:🚴‍♂️ SPORT\, GASTRONOMIE ET KARAOKÉ GÉANT POUR LA SAINT-LOUIS À BOURCEFRANC !
 END:VEVENT
 BEGIN:VEVENT
+UID:6d5d5595cc73dd223830a41f5e3bba45@poster.kultureouest.fr
+DTSTAMP:20260823T163000Z
+DTSTART;TZID=Europe/Paris:20260823T183000
+DTEND;TZID=Europe/Paris:20260823T190000
+SUMMARY:📣 Post réseaux : Feu d'artifice à Saint-Palais-sur-Mer : la journée « Lumière sur l'Atlantique » le 26 août 2026
+DESCRIPTION:🎆 Le mercredi 26 août\, l'Atlantique s'illumine à Saint-Palais-sur-Mer pour une journée entière dédiée à la fête\, de la f
+END:VEVENT
+BEGIN:VEVENT
 UID:ee10aa8778903e73a7433a03704fc9ad@poster.kultureouest.fr
 DTSTAMP:20260824T043000Z
 DTSTART;TZID=Europe/Paris:20260824T063000
