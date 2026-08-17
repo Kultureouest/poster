@@ -1814,6 +1814,14 @@ SUMMARY:📣 Post réseaux : Randonnée Gourmande de l'Estuaire à Port-des-Barq
 DESCRIPTION:Le temps d'une soirée d'été\, l'estuaire de la Charente se pare de ses plus belles lumières pour une randonnée pas comme 
 END:VEVENT
 BEGIN:VEVENT
+UID:5d54da8f6bdf803e9707aee24c47f9dd@poster.kultureouest.fr
+DTSTAMP:20260901T103000Z
+DTSTART;TZID=Europe/Paris:20260901T123000
+DTEND;TZID=Europe/Paris:20260901T130000
+SUMMARY:📣 Post réseaux : Festival Boire La Tasse 2026 : trois jours de musique à l'entrée de l'Île de Ré
+DESCRIPTION:🌊 Le vent tourne à l'entrée de l'Île de Ré : le festival Boire La Tasse transforme Sablanceaux en piste de danse à ciel 
+END:VEVENT
+BEGIN:VEVENT
 UID:c60d53e7873b3db6a4d6706f49eccbf6@poster.kultureouest.fr
 DTSTAMP:20260901T160000Z
 DTSTART;TZID=Europe/Paris:20260901T180000
