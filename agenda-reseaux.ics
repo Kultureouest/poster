@@ -1426,7 +1426,7 @@ UID:2db67248a600a318e7092e12e73c7ad4@poster.kultureouest.fr
 DTSTAMP:20260817T080000Z
 DTSTART;TZID=Europe/Paris:20260817T100000
 DTEND;TZID=Europe/Paris:20260817T103000
-SUMMARY:📣 Post réseaux : Le Quart d'Écu raconte Puy du Lac : spectacle son et lumière à ne pas manquer
+SUMMARY:✅ Publié : Le Quart d'Écu raconte Puy du Lac : spectacle son et lumière à ne pas manquer
 DESCRIPTION:✨ L'histoire prend vie au spectacle son et lumière du Quart d'Écu !
 END:VEVENT
 BEGIN:VEVENT
@@ -1828,6 +1828,14 @@ DTSTART;TZID=Europe/Paris:20260902T121500
 DTEND;TZID=Europe/Paris:20260902T124500
 SUMMARY:📣 Post réseaux : Forum des Associations de Soubise : rendez-vous le 5 septembre 2026
 DESCRIPTION:La rentrée approche et Soubise réunit tout son tissu associatif en une seule journée !
+END:VEVENT
+BEGIN:VEVENT
+UID:5999057e0ffb239e961393fc7283ffd3@poster.kultureouest.fr
+DTSTAMP:20260902T163000Z
+DTSTART;TZID=Europe/Paris:20260902T183000
+DTEND;TZID=Europe/Paris:20260902T190000
+SUMMARY:📣 Post réseaux : Palm Fest 2026 à La Palmyre : rock\, électro et coucher de soleil sur la Côte Sauvage
+DESCRIPTION:Le temps d'un dernier week-end d'été\, la Côte Sauvage vibre au rythme du Palm Fest.
 END:VEVENT
 BEGIN:VEVENT
 UID:bedf9375cb821d9c247d49cb5138974a@poster.kultureouest.fr
