@@ -1998,6 +1998,14 @@ SUMMARY:📣 Post réseaux : Vide-Grenier de Clavette : chinez les bonnes affair
 DESCRIPTION:🛍️ Vide-grenier de Clavette !
 END:VEVENT
 BEGIN:VEVENT
+UID:fc125d686f23a9caf6ddda2c6e70413f@poster.kultureouest.fr
+DTSTAMP:20260910T100900Z
+DTSTART;TZID=Europe/Paris:20260910T120900
+DTEND;TZID=Europe/Paris:20260910T123900
+SUMMARY:📣 Post réseaux : Forum des Associations à Ars-en-Ré : le rendez-vous de la rentrée
+DESCRIPTION:📣 Forum des Associations à Ars-en-Ré !
+END:VEVENT
+BEGIN:VEVENT
 UID:190d71f07ad2aa1c89100b299689dbb6@poster.kultureouest.fr
 DTSTAMP:20260911T045500Z
 DTSTART;TZID=Europe/Paris:20260911T065500
