@@ -1070,6 +1070,14 @@ SUMMARY:✅ Publié : Salon Créateur d'Art Polynésien – Rochefort 2026
 DESCRIPTION:🌺 Le temps d'un week-end\, Rochefort met le cap sur le Pacifique !
 END:VEVENT
 BEGIN:VEVENT
+UID:61a49bc5156cf9523a4f24b5b9253a85@poster.kultureouest.fr
+DTSTAMP:20260806T050900Z
+DTSTART;TZID=Europe/Paris:20260806T070900
+DTEND;TZID=Europe/Paris:20260806T073900
+SUMMARY:✅ Publié : Les Estivales de la Côti : le marché nocturne incontournable de La Cotinière
+DESCRIPTION:⛵ Chaque mardi d'été\, le port de La Cotinière troque son ambiance de pêche contre des airs de fête pour Les Estivales de
+END:VEVENT
+BEGIN:VEVENT
 UID:5944bcf0dd05b680ea2ccb3a00ae7eac@poster.kultureouest.fr
 DTSTAMP:20260806T071100Z
 DTSTART;TZID=Europe/Paris:20260806T091100
