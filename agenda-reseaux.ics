@@ -1806,6 +1806,14 @@ SUMMARY:📣 Post réseaux : Jumbo Run 17 - 3ème édition : une balade moto sol
 DESCRIPTION:🏍️ Jumbo Run 17 : quand la passion moto rime avec partage et inclusion !
 END:VEVENT
 BEGIN:VEVENT
+UID:c6535fc5ab4e2eeba727ee1a49e372e3@poster.kultureouest.fr
+DTSTAMP:20260831T043000Z
+DTSTART;TZID=Europe/Paris:20260831T063000
+DTEND;TZID=Europe/Paris:20260831T070000
+SUMMARY:📣 Post réseaux : Portes ouvertes Bachata à Aytré : cours d'essai gratuits tout le mois de septembre 2026
+DESCRIPTION:La rentrée se fête en dansant : Swenny et Mélanie ouvrent grand les portes de leurs cours de bachata pour un mois de sep
+END:VEVENT
+BEGIN:VEVENT
 UID:1063964801a759be95413c5e9e2a3b14@poster.kultureouest.fr
 DTSTAMP:20260831T100500Z
 DTSTART;TZID=Europe/Paris:20260831T120500
