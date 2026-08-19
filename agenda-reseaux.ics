@@ -1846,6 +1846,14 @@ SUMMARY:📣 Post réseaux : Jour de Fête à Échillais : repas dansant et retr
 DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
 END:VEVENT
 BEGIN:VEVENT
+UID:bb253010c553db8e296eb6febc3ac073@poster.kultureouest.fr
+DTSTAMP:20260831T155300Z
+DTSTART;TZID=Europe/Paris:20260831T175300
+DTEND;TZID=Europe/Paris:20260831T182300
+SUMMARY:📣 Post réseaux : Déstockage solidaire au Temple de Marennes-Hiers-Brouage
+DESCRIPTION:🛍️ Envie de repartir avec un sac plein de trésors vestimentaires sans vider son porte-monnaie ? Rendez-vous au Temple de
+END:VEVENT
+BEGIN:VEVENT
 UID:e74dfd9556efc5011622d9e0f9a99d47@poster.kultureouest.fr
 DTSTAMP:20260901T040900Z
 DTSTART;TZID=Europe/Paris:20260901T060900
