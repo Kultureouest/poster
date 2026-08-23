@@ -2102,6 +2102,14 @@ SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vou
 DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
 END:VEVENT
 BEGIN:VEVENT
+UID:501e452c825a115c05c9942cd09b59f7@poster.kultureouest.fr
+DTSTAMP:20260916T103200Z
+DTSTART;TZID=Europe/Paris:20260916T123200
+DTEND;TZID=Europe/Paris:20260916T130200
+SUMMARY:📣 Post réseaux : Journées européennes du patrimoine 2026 à Rochefort Océan et en Charente-Maritime
+DESCRIPTION:🏛️✨ Un week-end entier pour pousser les portes qui restent habituellement closes : les Journées européennes du patrimoin
+END:VEVENT
+BEGIN:VEVENT
 UID:e7bb702e68f8d07ad487bdc8c2faed86@poster.kultureouest.fr
 DTSTAMP:20260917T042100Z
 DTSTART;TZID=Europe/Paris:20260917T062100
