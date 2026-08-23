@@ -2022,6 +2022,14 @@ SUMMARY:📣 Post réseaux : La Noche Caliente : soirée dansante à La Minda d'
 DESCRIPTION:🔥 La rentrée s'annonce chaude à Échillais : La Minda enflamme son dancefloor le temps d'une soirée 100% caliente.
 END:VEVENT
 BEGIN:VEVENT
+UID:a7e1099f3907d5ee9778feb5247826c9@poster.kultureouest.fr
+DTSTAMP:20260904T183200Z
+DTSTART;TZID=Europe/Paris:20260904T203200
+DTEND;TZID=Europe/Paris:20260904T210200
+SUMMARY:📣 Post réseaux : Journée de la Vie Associative à Saint-Palais-sur-Mer
+DESCRIPTION:La rentrée rime avec nouvelles envies : direction le Parc Raymond Vignes pour découvrir en une seule après-midi tout ce 
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
 DTSTAMP:20260905T045500Z
 DTSTART;TZID=Europe/Paris:20260905T065500
