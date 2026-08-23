@@ -2182,6 +2182,14 @@ SUMMARY:📣 Post réseaux : Color Run Color'Elles : une course solidaire haute 
 DESCRIPTION:Le 27 septembre\, l'Île d'Oléron s'embrase de couleurs pour une bonne cause : la Color Run Color'Elles débarque à Grand-V
 END:VEVENT
 BEGIN:VEVENT
+UID:bab5e1207fbfd0bd3dc021d31c70bbba@poster.kultureouest.fr
+DTSTAMP:20260924T043200Z
+DTSTART;TZID=Europe/Paris:20260924T063200
+DTEND;TZID=Europe/Paris:20260924T070200
+SUMMARY:📣 Post réseaux : Fort Boyard Défi Va'a : Fouras vibre au rythme de la Polynésie
+DESCRIPTION:🌺 Le temps d'un week-end\, la Grande Plage de Fouras troque ses galets contre le sable fin du Fenua et vibre au rythme de
+END:VEVENT
+BEGIN:VEVENT
 UID:04e4352a371fd577476120e37955a421@poster.kultureouest.fr
 DTSTAMP:20260925T043200Z
 DTSTART;TZID=Europe/Paris:20260925T063200
