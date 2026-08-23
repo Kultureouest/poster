@@ -2182,6 +2182,14 @@ SUMMARY:📣 Post réseaux : Color Run Color'Elles : une course solidaire haute 
 DESCRIPTION:Le 27 septembre\, l'Île d'Oléron s'embrase de couleurs pour une bonne cause : la Color Run Color'Elles débarque à Grand-V
 END:VEVENT
 BEGIN:VEVENT
+UID:04e4352a371fd577476120e37955a421@poster.kultureouest.fr
+DTSTAMP:20260925T043200Z
+DTSTART;TZID=Europe/Paris:20260925T063200
+DTEND;TZID=Europe/Paris:20260925T070200
+SUMMARY:📣 Post réseaux : Portes ouvertes à la pépinière Greffes et Graines : arbres fruitiers et agrumes à l'honneur
+DESCRIPTION:🌱 Envie de préparer votre jardin pour l'automne\, entre arbres fruitiers savoureux et agrumes parfumés ? Rendez-vous à La
+END:VEVENT
+BEGIN:VEVENT
 UID:c9de146afd8d12131b8cc9e37ec06f45@poster.kultureouest.fr
 DTSTAMP:20260925T094600Z
 DTSTART;TZID=Europe/Paris:20260925T114600
