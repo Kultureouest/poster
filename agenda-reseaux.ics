@@ -1766,6 +1766,14 @@ SUMMARY:📣 Post réseaux : Forum des associations à La Rochelle : rendez-vous
 DESCRIPTION:Envie de vous investir\, de bouger ou simplement de dénicher une nouvelle passion pour la rentrée ? Le Forum des associat
 END:VEVENT
 BEGIN:VEVENT
+UID:38c19a0e70d50f46d2fa3823e553cdf3@poster.kultureouest.fr
+DTSTAMP:20260826T183200Z
+DTSTART;TZID=Europe/Paris:20260826T203200
+DTEND;TZID=Europe/Paris:20260826T210200
+SUMMARY:📣 Post réseaux : La Route des Carrelets
+DESCRIPTION:🌌 Quand la nuit tombe sur les carrelets de Fouras\, la magie opère : lumières\, musique et poésie transforment la Pointe d
+END:VEVENT
+BEGIN:VEVENT
 UID:773e7a95000647619d6c31ab337a33e0@poster.kultureouest.fr
 DTSTAMP:20260827T043600Z
 DTSTART;TZID=Europe/Paris:20260827T063600
