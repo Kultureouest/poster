@@ -2150,6 +2150,14 @@ SUMMARY:📣 Post réseaux : Randonnée Gourmande "Viv'Envaux" 2026 : 11 km et 4
 DESCRIPTION:Envie de marcher au rythme des saveurs et des paysages de la Charente ? Rendez-vous à Port-d'Envaux pour une randonnée g
 END:VEVENT
 BEGIN:VEVENT
+UID:75fa73be3122e1b9f714f57e05bdf71b@poster.kultureouest.fr
+DTSTAMP:20260919T043200Z
+DTSTART;TZID=Europe/Paris:20260919T063200
+DTEND;TZID=Europe/Paris:20260919T070200
+SUMMARY:📣 Post réseaux : World Cleanup Day à Ronce-les-Bains : nettoyage citoyen entre terre et mer
+DESCRIPTION:🌍 Et si cette fin d'été rimait avec plage impeccable ? Direction Ronce-les-Bains pour une grande mobilisation citoyenne.
+END:VEVENT
+BEGIN:VEVENT
 UID:327f09804fe8ee9b7a2b31366c09602a@poster.kultureouest.fr
 DTSTAMP:20260922T043200Z
 DTSTART;TZID=Europe/Paris:20260922T063200
