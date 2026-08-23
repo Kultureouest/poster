@@ -1982,6 +1982,14 @@ SUMMARY:📣 Post réseaux : Rochefort : Forum des Associations et Feu d'Artific
 DESCRIPTION:Rochefort met les petits plats dans les grands pour la rentrée : une journée dédiée aux associations\, suivie d'un concer
 END:VEVENT
 BEGIN:VEVENT
+UID:43105df854987a99b5323176bdd29551@poster.kultureouest.fr
+DTSTAMP:20260904T163200Z
+DTSTART;TZID=Europe/Paris:20260904T183200
+DTEND;TZID=Europe/Paris:20260904T190200
+SUMMARY:📣 Post réseaux : La Noche Caliente : soirée dansante à La Minda d'Échillais
+DESCRIPTION:🔥 La rentrée s'annonce chaude à Échillais : La Minda enflamme son dancefloor le temps d'une soirée 100% caliente.
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0fb6403a62829005eb54a88f138d07@poster.kultureouest.fr
 DTSTAMP:20260905T045500Z
 DTSTART;TZID=Europe/Paris:20260905T065500
