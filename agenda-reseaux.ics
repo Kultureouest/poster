@@ -1702,6 +1702,14 @@ SUMMARY:📣 Post réseaux : Exposition "Autour de Gil KD" à la Galerie de Pont
 DESCRIPTION:🎨 Cet été\, la Galerie de Pontaillac transforme ses cimaises en un véritable dialogue d'artistes\, à deux pas des plages d
 END:VEVENT
 BEGIN:VEVENT
+UID:e4ccdb40967f75d57e32be7b3d6e3312@poster.kultureouest.fr
+DTSTAMP:20260824T193200Z
+DTSTART;TZID=Europe/Paris:20260824T213200
+DTEND;TZID=Europe/Paris:20260824T220200
+SUMMARY:📣 Post réseaux : Le Bal des Oiseaux à Meschers-sur-Gironde : une soirée costumée pour dire adieu à l'été
+DESCRIPTION:Le temps d'une soirée\, Meschers-sur-Gironde se transforme en jungle exotique pour dire adieu à l'été en dansant.
+END:VEVENT
+BEGIN:VEVENT
 UID:6604033d9e5e600575e196dbe9f0aee8@poster.kultureouest.fr
 DTSTAMP:20260825T040500Z
 DTSTART;TZID=Europe/Paris:20260825T060500
