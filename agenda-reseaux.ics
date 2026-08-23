@@ -2086,6 +2086,14 @@ SUMMARY:📣 Post réseaux : Bataille d'échecs à Rochefort : une soirée jeu o
 DESCRIPTION:👑 Bataille d'échecs au Bar Sekhmet à Rochefort ! ♟️
 END:VEVENT
 BEGIN:VEVENT
+UID:f29be3d83ed4ae10a176c7a809a94b73@poster.kultureouest.fr
+DTSTAMP:20260907T151500Z
+DTSTART;TZID=Europe/Paris:20260907T171500
+DTEND;TZID=Europe/Paris:20260907T174500
+SUMMARY:📣 Post réseaux : Trail de la Presqu'île 2026 : 3ᵉ édition à l'assaut des forts
+DESCRIPTION:Courir entre terre et mer\, jusqu'aux forts qui gardent l'estuaire : le Trail de la Presqu'île revient pour une 3ᵉ éditio
+END:VEVENT
+BEGIN:VEVENT
 UID:3e3592de702bd8777febb477ffc4e3fa@poster.kultureouest.fr
 DTSTAMP:20260908T043000Z
 DTSTART;TZID=Europe/Paris:20260908T063000
