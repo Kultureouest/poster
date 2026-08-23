@@ -2070,6 +2070,14 @@ SUMMARY:📣 Post réseaux : Rentrée des ateliers Batuk Nagô'cean : la batucad
 DESCRIPTION:Envie de vibrer au rythme de la batucada pour bien démarrer la rentrée ?
 END:VEVENT
 BEGIN:VEVENT
+UID:5d725c7abfb46d851fea7ab2fff2641e@poster.kultureouest.fr
+DTSTAMP:20260909T103200Z
+DTSTART;TZID=Europe/Paris:20260909T123200
+DTEND;TZID=Europe/Paris:20260909T130200
+SUMMARY:📣 Post réseaux : Festival 1\, 2\, 3 Solos : le cirque et le clown à l'honneur à Périgny
+DESCRIPTION:🎪 Le mois de septembre s'ouvre en fanfare à Périgny\, entre rires\, poésie et prouesses circassiennes !
+END:VEVENT
+BEGIN:VEVENT
 UID:6ffa5660ad7b48f767ed1a2809a91bf8@poster.kultureouest.fr
 DTSTAMP:20260910T043200Z
 DTSTART;TZID=Europe/Paris:20260910T063200
