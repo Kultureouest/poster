@@ -2166,6 +2166,14 @@ SUMMARY:📣 Post réseaux : Le CAP fête ses 50 ans à Tonnay-Charente : une jo
 DESCRIPTION:Un demi-siècle de sourires\, de jeux et de solidarité\, ça se fête en grand : le CAP de Tonnay-Charente souffle ses 50 bou
 END:VEVENT
 BEGIN:VEVENT
+UID:80e537836b2c4fb6c4a0aebbbc8ed235@poster.kultureouest.fr
+DTSTAMP:20260925T163200Z
+DTSTART;TZID=Europe/Paris:20260925T183200
+DTEND;TZID=Europe/Paris:20260925T190200
+SUMMARY:📣 Post réseaux : Vide-Grenier Festif - 50 ans du CAP
+DESCRIPTION:🛍️ Chineurs et amateurs de bonnes affaires ont rendez-vous à Tonnay-Charente pour une journée qui s'annonce aussi festiv
+END:VEVENT
+BEGIN:VEVENT
 UID:1970f01f411dcf91bd980ceb9c9fb013@poster.kultureouest.fr
 DTSTAMP:20260926T103200Z
 DTSTART;TZID=Europe/Paris:20260926T123200
