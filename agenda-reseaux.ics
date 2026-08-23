@@ -1734,6 +1734,14 @@ SUMMARY:📣 Post réseaux : Soirée Cinéma & Chant : Mamma Mia ! au CGR Les Mi
 DESCRIPTION:Envie de faire le plein de soleil\, de bonne humeur et de chanter à tue-tête sur les plus grands tubes d'ABBA ? Le Cinéma
 END:VEVENT
 BEGIN:VEVENT
+UID:341b3bad5d8dc0511b3c2a3c3b1b0d77@poster.kultureouest.fr
+DTSTAMP:20260825T193200Z
+DTSTART;TZID=Europe/Paris:20260825T213200
+DTEND;TZID=Europe/Paris:20260825T220200
+SUMMARY:📣 Post réseaux : Exposition "Les Copinettes" à Rochefort : l'artisanat d'art au féminin
+DESCRIPTION:🎨 Rochefort se pare de couleurs et de matières le temps de deux semaines\, avec une exposition collective portée par des 
+END:VEVENT
+BEGIN:VEVENT
 UID:6961c45f43f13e99183942c5d38dd1a5@poster.kultureouest.fr
 DTSTAMP:20260826T043200Z
 DTSTART;TZID=Europe/Paris:20260826T063200
