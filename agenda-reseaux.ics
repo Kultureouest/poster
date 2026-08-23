@@ -1838,6 +1838,14 @@ SUMMARY:📣 Post réseaux : Concours de dessin : tentez de remporter le Prix Bu
 DESCRIPTION:Envie de dessiner votre vision de la bande dessinée et de décrocher un accès privilégié aux nouveautés BD ? Le Réseau de
 END:VEVENT
 BEGIN:VEVENT
+UID:13c676ad5be6c5404090a6d990d3e7c0@poster.kultureouest.fr
+DTSTAMP:20260830T163200Z
+DTSTART;TZID=Europe/Paris:20260830T183200
+DTEND;TZID=Europe/Paris:20260830T190200
+SUMMARY:📣 Post réseaux : Juste une illusion en avant-première à l'Espace Créa de Saint-Georges-de-Didonne
+DESCRIPTION:🎬 Avant-première à ne pas manquer sur la Côte de Beauté : le nouveau film d'Olivier Nakache et Éric Toledano débarque au
+END:VEVENT
+BEGIN:VEVENT
 UID:c6535fc5ab4e2eeba727ee1a49e372e3@poster.kultureouest.fr
 DTSTAMP:20260831T043000Z
 DTSTART;TZID=Europe/Paris:20260831T063000
