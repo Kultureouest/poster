@@ -2198,6 +2198,14 @@ SUMMARY:📣 Post réseaux : World Cleanup Day à Ronce-les-Bains : nettoyage ci
 DESCRIPTION:🌍 Et si cette fin d'été rimait avec plage impeccable ? Direction Ronce-les-Bains pour une grande mobilisation citoyenne.
 END:VEVENT
 BEGIN:VEVENT
+UID:08df9dcdb240962fea67c5e4aaebe6ae@poster.kultureouest.fr
+DTSTAMP:20260919T102600Z
+DTSTART;TZID=Europe/Paris:20260919T122600
+DTEND;TZID=Europe/Paris:20260919T125600
+SUMMARY:📣 Post réseaux : Journées Européennes du Patrimoine à Soubise 2026
+DESCRIPTION:🏰 Et si dimanche prochain\, vous partiez remonter le temps entre estuaire et clocher à Soubise ?
+END:VEVENT
+BEGIN:VEVENT
 UID:327f09804fe8ee9b7a2b31366c09602a@poster.kultureouest.fr
 DTSTAMP:20260922T043200Z
 DTSTART;TZID=Europe/Paris:20260922T063200
