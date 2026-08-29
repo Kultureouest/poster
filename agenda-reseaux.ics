@@ -1854,6 +1854,14 @@ SUMMARY:📣 Post réseaux : Exposition « À pas feutrés » d'Emma Schnellbach
 DESCRIPTION:🖼️ Jusqu'à la fin de l'été\, la Citadelle de Brouage se pare de douceur et de poésie avec l'exposition « À pas feutrés ».
 END:VEVENT
 BEGIN:VEVENT
+UID:33bbf6883e7be79c92a2fc1b472553dc@poster.kultureouest.fr
+DTSTAMP:20260829T160000Z
+DTSTART;TZID=Europe/Paris:20260829T180000
+DTEND;TZID=Europe/Paris:20260829T183000
+SUMMARY:📣 Post réseaux : Exposition Arts en Partage à la Citadelle du Château-d'Oléron
+DESCRIPTION:Le temps d'un mois\, la Citadelle du Château-d'Oléron se transforme en écrin pour cinq regards d'artistes qui dialoguent 
+END:VEVENT
+BEGIN:VEVENT
 UID:327241b57a71fa11ced0254c93976ded@poster.kultureouest.fr
 DTSTAMP:20260830T100900Z
 DTSTART;TZID=Europe/Paris:20260830T120900
