@@ -2270,6 +2270,14 @@ SUMMARY:📣 Post réseaux : Vide-greniers de Nuaillé d'Aunis : chinez le 27 se
 DESCRIPTION:🛍️ Envie de dénicher une pépite au détour d'un stand ? Le vide-greniers de Nuaillé d'Aunis vous attend pour une journée 
 END:VEVENT
 BEGIN:VEVENT
+UID:8ee234d608ec13f682b95e3b25d94f8e@poster.kultureouest.fr
+DTSTAMP:20260926T164600Z
+DTSTART;TZID=Europe/Paris:20260926T184600
+DTEND;TZID=Europe/Paris:20260926T191600
+SUMMARY:📣 Post réseaux : Fête du Végétal 2026 : 60 exposants investissent l'Abbaye de Trizay
+DESCRIPTION:Le temps d'une journée\, l'Abbaye de Trizay se pare de vert et de mille couleurs pour la 9ᵉ édition de la Fête du Végétal
+END:VEVENT
+BEGIN:VEVENT
 UID:2b82eac7a440f5ae283eab588662145d@poster.kultureouest.fr
 DTSTAMP:20261001T040000Z
 DTSTART;TZID=Europe/Paris:20261001T060000
