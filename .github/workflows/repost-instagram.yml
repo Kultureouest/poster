@@ -1,0 +1,51 @@
+name: Repost Instagram (manuel)
+
+on:
+  workflow_dispatch:
+    inputs:
+      fichier:
+        description: "Nom du fichier dans failed/ (ex: 20260830-164532_juste-une-illusion...json)"
+        required: true
+
+permissions:
+  contents: write
+
+# Meme groupe de concurrence que poster.yml : evite qu'un run planifie
+# (toutes les 15 min) et ce repost manuel ne touchent le depot en meme
+# temps et ne recreent le conflit git deja corrige le 23 aout.
+concurrency:
+  group: poster
+  cancel-in-progress: false
+
+jobs:
+  repost:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install requests pillow
+
+      - name: Republier sur Instagram uniquement
+        env:
+          IG_TOKEN:       ${{ secrets.IG_TOKEN }}
+          IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
+        run: python repost_instagram_seul.py "failed/${{ github.event.inputs.fichier }}" --yes
+
+      - name: Archiver le deplacement vers done/
+        if: always()
+        run: |
+          git config user.name  "kulture-ouest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Repost IG manuel : ${{ github.event.inputs.fichier }} [skip ci]"
+            git pull --rebase --autostash origin main || true
+            git push
+          else
+            echo "Rien a committer."
+          fi
