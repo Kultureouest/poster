@@ -2190,6 +2190,14 @@ SUMMARY:📣 Post réseaux : Olympiades et 10 ans de l'association Échillais-Ue
 DESCRIPTION:Le terrain de football d'Échillais se transforme le temps d'une journée en arène de jeux et de rires pour célébrer un an
 END:VEVENT
 BEGIN:VEVENT
+UID:2a090a4697cefb20a3b4fe5a0a9c2cd7@poster.kultureouest.fr
+DTSTAMP:20260915T103800Z
+DTSTART;TZID=Europe/Paris:20260915T123800
+DTEND;TZID=Europe/Paris:20260915T130800
+SUMMARY:📣 Post réseaux : Sens'Action - Journée de prévention sensorielle pour les séniors
+DESCRIPTION:Et si prendre soin de ses cinq sens devenait un moment de partage et de bonne humeur ?
+END:VEVENT
+BEGIN:VEVENT
 UID:585b62f74d1537502f8aaab689c46a7b@poster.kultureouest.fr
 DTSTAMP:20260916T044600Z
 DTSTART;TZID=Europe/Paris:20260916T064600
