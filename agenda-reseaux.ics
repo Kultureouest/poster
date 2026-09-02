@@ -2102,6 +2102,14 @@ SUMMARY:📣 Post réseaux : Vide-Grenier à Dolus d'Oléron : Défi pour Elles 
 DESCRIPTION:🛍️ Grand vide-grenier de l'association Défi pour Elles à Dolus d'Oléron !
 END:VEVENT
 BEGIN:VEVENT
+UID:d2670395f665ffe9471f542fec5ae3ea@poster.kultureouest.fr
+DTSTAMP:20260907T043800Z
+DTSTART;TZID=Europe/Paris:20260907T063800
+DTEND;TZID=Europe/Paris:20260907T070800
+SUMMARY:📣 Post réseaux : Randonnée semi-nocturne gourmande à Tonnay-Charente
+DESCRIPTION:🥾 Envie de marcher sous les étoiles en se régalant à chaque étape ? La RATC vous donne rendez-vous pour une randonnée se
+END:VEVENT
+BEGIN:VEVENT
 UID:539f6322680480d79cdc8b897b93828d@poster.kultureouest.fr
 DTSTAMP:20260907T100000Z
 DTSTART;TZID=Europe/Paris:20260907T120000
