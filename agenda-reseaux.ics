@@ -2270,6 +2270,14 @@ SUMMARY:📣 Post réseaux : Color Run Color'Elles : une course solidaire haute 
 DESCRIPTION:Le 27 septembre\, l'Île d'Oléron s'embrase de couleurs pour une bonne cause : la Color Run Color'Elles débarque à Grand-V
 END:VEVENT
 BEGIN:VEVENT
+UID:d9df8f885abbd7b9bc55a1766266a332@poster.kultureouest.fr
+DTSTAMP:20260923T043800Z
+DTSTART;TZID=Europe/Paris:20260923T063800
+DTEND;TZID=Europe/Paris:20260923T070800
+SUMMARY:📣 Post réseaux : Brocante & Vide-grenier de Bourcefranc-Le Chapus
+DESCRIPTION:🛍️ Dimanche 27 septembre\, direction Bourcefranc-Le Chapus pour une journée entière consacrée à la chine et aux bonnes af
+END:VEVENT
+BEGIN:VEVENT
 UID:bab5e1207fbfd0bd3dc021d31c70bbba@poster.kultureouest.fr
 DTSTAMP:20260924T043200Z
 DTSTART;TZID=Europe/Paris:20260924T063200
