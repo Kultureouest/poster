@@ -2286,6 +2286,14 @@ SUMMARY:📣 Post réseaux : Fort Boyard Défi Va'a : Fouras vibre au rythme de 
 DESCRIPTION:🌺 Le temps d'un week-end\, la Grande Plage de Fouras troque ses galets contre le sable fin du Fenua et vibre au rythme de
 END:VEVENT
 BEGIN:VEVENT
+UID:8bc27a014206f0c931d7ed6b5937d920@poster.kultureouest.fr
+DTSTAMP:20260924T103800Z
+DTSTART;TZID=Europe/Paris:20260924T123800
+DTEND;TZID=Europe/Paris:20260924T130800
+SUMMARY:📣 Post réseaux : Brocante Fenioux 2026
+DESCRIPTION:Envie de chiner sous le soleil de septembre ? Direction Fenioux pour une brocante pleine de trésors à dénicher.
+END:VEVENT
+BEGIN:VEVENT
 UID:04e4352a371fd577476120e37955a421@poster.kultureouest.fr
 DTSTAMP:20260925T043200Z
 DTSTART;TZID=Europe/Paris:20260925T063200
