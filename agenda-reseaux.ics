@@ -2182,6 +2182,14 @@ SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vou
 DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
 END:VEVENT
 BEGIN:VEVENT
+UID:af51364982b9863d034633218ce3a086@poster.kultureouest.fr
+DTSTAMP:20260915T043800Z
+DTSTART;TZID=Europe/Paris:20260915T063800
+DTEND;TZID=Europe/Paris:20260915T070800
+SUMMARY:📣 Post réseaux : Olympiades et 10 ans de l'association Échillais-Uettingen 77
+DESCRIPTION:Le terrain de football d'Échillais se transforme le temps d'une journée en arène de jeux et de rires pour célébrer un an
+END:VEVENT
+BEGIN:VEVENT
 UID:585b62f74d1537502f8aaab689c46a7b@poster.kultureouest.fr
 DTSTAMP:20260916T044600Z
 DTSTART;TZID=Europe/Paris:20260916T064600
