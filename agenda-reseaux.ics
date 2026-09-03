@@ -2038,6 +2038,14 @@ SUMMARY:📣 Post réseaux : Forum des Associations d'Échillais : le rendez-vou
 DESCRIPTION:La rentrée rime avec bonnes résolutions : direction la Place d'Uettingen pour faire le plein d'idées d'activités !
 END:VEVENT
 BEGIN:VEVENT
+UID:2af78c82b539bb5cf0c304d8b1e783d8@poster.kultureouest.fr
+DTSTAMP:20260904T081000Z
+DTSTART;TZID=Europe/Paris:20260904T101000
+DTEND;TZID=Europe/Paris:20260904T104000
+SUMMARY:📣 Post réseaux : Forum des associations de Cozes : la rentrée associative en fête
+DESCRIPTION:🏆 Forum des associations à Cozes !
+END:VEVENT
+BEGIN:VEVENT
 UID:a8d7be066d094847d670bf286d3dacff@poster.kultureouest.fr
 DTSTAMP:20260904T103300Z
 DTSTART;TZID=Europe/Paris:20260904T123300
