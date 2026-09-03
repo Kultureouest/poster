@@ -2206,6 +2206,14 @@ SUMMARY:📣 Post réseaux : Journées du Patrimoine au Château fort de Mélusi
 DESCRIPTION:🏰 Le temps d'une journée\, les remparts du Château fort de Mélusine s'ouvrent aux chevaliers en herbe et aux amateurs d'h
 END:VEVENT
 BEGIN:VEVENT
+UID:b91b2b6c990896dc231fa126a8bdcb87@poster.kultureouest.fr
+DTSTAMP:20260914T102900Z
+DTSTART;TZID=Europe/Paris:20260914T122900
+DTEND;TZID=Europe/Paris:20260914T125900
+SUMMARY:📣 Post réseaux : Journée solidaire pour les pompiers à Saint-Sulpice-de-Royan
+DESCRIPTION:🔥 Le 16 septembre\, Saint-Sulpice-de-Royan se met aux couleurs des soldats du feu pour une journée aussi gourmande que so
+END:VEVENT
+BEGIN:VEVENT
 UID:af51364982b9863d034633218ce3a086@poster.kultureouest.fr
 DTSTAMP:20260915T043800Z
 DTSTART;TZID=Europe/Paris:20260915T063800
