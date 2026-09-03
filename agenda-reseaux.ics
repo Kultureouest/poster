@@ -2054,6 +2054,14 @@ SUMMARY:📣 Post réseaux : Rochefort : Forum des Associations et Feu d'Artific
 DESCRIPTION:Rochefort met les petits plats dans les grands pour la rentrée : une journée dédiée aux associations\, suivie d'un concer
 END:VEVENT
 BEGIN:VEVENT
+UID:bc15f95f181e8b71fcf31e5af7de9157@poster.kultureouest.fr
+DTSTAMP:20260904T130000Z
+DTSTART;TZID=Europe/Paris:20260904T150000
+DTEND;TZID=Europe/Paris:20260904T153000
+SUMMARY:📣 Post réseaux : Forum des associations à Breuil-Magné : la rentrée associative en fête
+DESCRIPTION:🌳 La rentrée se fait en musique associative à Breuil-Magné\, où bénévoles et curieux se donnent rendez-vous pour un après
+END:VEVENT
+BEGIN:VEVENT
 UID:43105df854987a99b5323176bdd29551@poster.kultureouest.fr
 DTSTAMP:20260904T163200Z
 DTSTART;TZID=Europe/Paris:20260904T183200
