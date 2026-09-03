@@ -2382,6 +2382,14 @@ SUMMARY:📣 Post réseaux : Fête du Végétal 2026 : 60 exposants investissent
 DESCRIPTION:Le temps d'une journée\, l'Abbaye de Trizay se pare de vert et de mille couleurs pour la 9ᵉ édition de la Fête du Végétal
 END:VEVENT
 BEGIN:VEVENT
+UID:a6c63f135c669173332c0f1f559ac065@poster.kultureouest.fr
+DTSTAMP:20260930T044200Z
+DTSTART;TZID=Europe/Paris:20260930T064200
+DTEND;TZID=Europe/Paris:20260930T071200
+SUMMARY:📣 Post réseaux : Course pédestre solidaire à Saint-Ouen-d'Aunis : sport et partage au programme
+DESCRIPTION:Le dimanche 4 octobre\, Saint-Ouen-d'Aunis se transforme en terrain de jeu sportif pour une course pédestre ouverte à tou
+END:VEVENT
+BEGIN:VEVENT
 UID:2b82eac7a440f5ae283eab588662145d@poster.kultureouest.fr
 DTSTAMP:20261001T040000Z
 DTSTART;TZID=Europe/Paris:20261001T060000
