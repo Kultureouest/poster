@@ -2294,6 +2294,14 @@ SUMMARY:📣 Post réseaux : Color Run Color'Elles : une course solidaire haute 
 DESCRIPTION:Le 27 septembre\, l'Île d'Oléron s'embrase de couleurs pour une bonne cause : la Color Run Color'Elles débarque à Grand-V
 END:VEVENT
 BEGIN:VEVENT
+UID:be038e59095cf20b3097c262f6d48714@poster.kultureouest.fr
+DTSTAMP:20260922T102900Z
+DTSTART;TZID=Europe/Paris:20260922T122900
+DTEND;TZID=Europe/Paris:20260922T125900
+SUMMARY:📣 Post réseaux : Spectacle automobile à Cabariot : 3ème course du championnat des Fadas
+DESCRIPTION:🏁 Ça va sentir la gomme chaude à Cabariot : la troisième manche du championnat des Fadas promet une journée à fond les m
+END:VEVENT
+BEGIN:VEVENT
 UID:d9df8f885abbd7b9bc55a1766266a332@poster.kultureouest.fr
 DTSTAMP:20260923T043800Z
 DTSTART;TZID=Europe/Paris:20260923T063800
