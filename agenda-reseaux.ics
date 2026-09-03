@@ -2198,6 +2198,14 @@ SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vou
 DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
 END:VEVENT
 BEGIN:VEVENT
+UID:f83093ce17ac2662e22eef32d29003d9@poster.kultureouest.fr
+DTSTAMP:20260914T042900Z
+DTSTART;TZID=Europe/Paris:20260914T062900
+DTEND;TZID=Europe/Paris:20260914T065900
+SUMMARY:📣 Post réseaux : Journées du Patrimoine au Château fort de Mélusine
+DESCRIPTION:🏰 Le temps d'une journée\, les remparts du Château fort de Mélusine s'ouvrent aux chevaliers en herbe et aux amateurs d'h
+END:VEVENT
+BEGIN:VEVENT
 UID:af51364982b9863d034633218ce3a086@poster.kultureouest.fr
 DTSTAMP:20260915T043800Z
 DTSTART;TZID=Europe/Paris:20260915T063800
