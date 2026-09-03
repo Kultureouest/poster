@@ -1986,7 +1986,7 @@ UID:bedf9375cb821d9c247d49cb5138974a@poster.kultureouest.fr
 DTSTAMP:20260903T043100Z
 DTSTART;TZID=Europe/Paris:20260903T063100
 DTEND;TZID=Europe/Paris:20260903T070100
-SUMMARY:📣 Post réseaux : Rando de l'Estuaire : balade gourmande semi-nocturne à Port-des-Barques
+SUMMARY:✅ Publié : Rando de l'Estuaire : balade gourmande semi-nocturne à Port-des-Barques
 DESCRIPTION:Quand le soleil plonge dans l'estuaire de la Charente\, Port-des-Barques invite à une balade pas comme les autres\, entre 
 END:VEVENT
 BEGIN:VEVENT
@@ -2132,6 +2132,14 @@ DTSTART;TZID=Europe/Paris:20260908T063000
 DTEND;TZID=Europe/Paris:20260908T070000
 SUMMARY:📣 Post réseaux : Soirée tricot\, crochet et couture au salon Ô Fait Main à Rochefort
 DESCRIPTION:Envie d'une pause fil et aiguilles dans une ambiance cosy ? Le salon Ô Fait Main à Rochefort ouvre ses soirées créatives
+END:VEVENT
+BEGIN:VEVENT
+UID:884b999aa8bc53eef9d6fb2f8372b4b2@poster.kultureouest.fr
+DTSTAMP:20260908T102900Z
+DTSTART;TZID=Europe/Paris:20260908T122900
+DTEND;TZID=Europe/Paris:20260908T125900
+SUMMARY:📣 Post réseaux : Course de Cagouilles à Saint-Jean-d'Angély : une journée pour l'éloge de la lenteur
+DESCRIPTION:À Saint-Jean-d'Angély\, la lenteur devient un sport et les escargots des champions\, le temps d'une journée hors du temps.
 END:VEVENT
 BEGIN:VEVENT
 UID:934857e4a92a79e74e8bb1623338ac64@poster.kultureouest.fr
