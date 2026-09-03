@@ -2150,6 +2150,14 @@ SUMMARY:📣 Post réseaux : Course de Cagouilles à Saint-Jean-d'Angély : une 
 DESCRIPTION:À Saint-Jean-d'Angély\, la lenteur devient un sport et les escargots des champions\, le temps d'une journée hors du temps.
 END:VEVENT
 BEGIN:VEVENT
+UID:65b3325a0976e8cb3e931fa33fc27fe0@poster.kultureouest.fr
+DTSTAMP:20260908T161000Z
+DTSTART;TZID=Europe/Paris:20260908T181000
+DTEND;TZID=Europe/Paris:20260908T184000
+SUMMARY:📣 Post réseaux : Forum des Associations de Port-des-Barques
+DESCRIPTION:🎏 FORUM DES ASSOCIATIONS À PORT-DES-BARQUES !
+END:VEVENT
+BEGIN:VEVENT
 UID:934857e4a92a79e74e8bb1623338ac64@poster.kultureouest.fr
 DTSTAMP:20260909T043200Z
 DTSTART;TZID=Europe/Paris:20260909T063200
