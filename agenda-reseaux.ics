@@ -2390,6 +2390,14 @@ SUMMARY:📣 Post réseaux : Brocante & Vide-grenier de Bourcefranc-Le Chapus
 DESCRIPTION:🛍️ Dimanche 27 septembre\, direction Bourcefranc-Le Chapus pour une journée entière consacrée à la chine et aux bonnes af
 END:VEVENT
 BEGIN:VEVENT
+UID:77fa7ef9ba231754ae4b4157d439fc62@poster.kultureouest.fr
+DTSTAMP:20260923T100800Z
+DTSTART;TZID=Europe/Paris:20260923T120800
+DTEND;TZID=Europe/Paris:20260923T123800
+SUMMARY:📣 Post réseaux : Une Journée Au Verger : le rendez-vous des amoureux des pommes anciennes à Cabariot
+DESCRIPTION:🍎 Le temps d'une journée\, Cabariot se transforme en capitale du fruit d'antan pour un grand rendez-vous convivial au ver
+END:VEVENT
+BEGIN:VEVENT
 UID:bab5e1207fbfd0bd3dc021d31c70bbba@poster.kultureouest.fr
 DTSTAMP:20260924T043200Z
 DTSTART;TZID=Europe/Paris:20260924T063200
