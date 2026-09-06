@@ -2246,6 +2246,14 @@ SUMMARY:📣 Post réseaux : Fête du Village de Plassay 2026 : brocante\, cours
 DESCRIPTION:🎆🧺 Le 15 août 2026\, Plassay se pare de guirlandes pour sa fête du village : brocante géante\, course cycliste et feu d'ar
 END:VEVENT
 BEGIN:VEVENT
+UID:3f2c2b2e46dc07d4406a7dba0a153c24@poster.kultureouest.fr
+DTSTAMP:20260911T160800Z
+DTSTART;TZID=Europe/Paris:20260911T180800
+DTEND;TZID=Europe/Paris:20260911T183800
+SUMMARY:📣 Post réseaux : Forum des associations et vide-grenier à Saint-Nazaire-sur-Charente : le rendez-vous de la rentrée
+DESCRIPTION:Ce dimanche\, Saint-Nazaire-sur-Charente double la mise avec un forum des associations installé au cœur de son grand vide
+END:VEVENT
+BEGIN:VEVENT
 UID:b281481b7192477e180f3fdbcd2a3cfa@poster.kultureouest.fr
 DTSTAMP:20260912T041100Z
 DTSTART;TZID=Europe/Paris:20260912T061100
