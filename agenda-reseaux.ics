@@ -2398,6 +2398,14 @@ SUMMARY:📣 Post réseaux : Une Journée Au Verger : le rendez-vous des amoureu
 DESCRIPTION:🍎 Le temps d'une journée\, Cabariot se transforme en capitale du fruit d'antan pour un grand rendez-vous convivial au ver
 END:VEVENT
 BEGIN:VEVENT
+UID:3846099139933dc29d3d78f3ec156a1f@poster.kultureouest.fr
+DTSTAMP:20260923T160800Z
+DTSTART;TZID=Europe/Paris:20260923T180800
+DTEND;TZID=Europe/Paris:20260923T183800
+SUMMARY:📣 Post réseaux : Soirée Slam & Scène Ouverte à Rochefort pour la Journée Nationale du Slam
+DESCRIPTION:🎤 Les mots vont électriser le port de Rochefort le temps d'une soirée pas comme les autres !
+END:VEVENT
+BEGIN:VEVENT
 UID:bab5e1207fbfd0bd3dc021d31c70bbba@poster.kultureouest.fr
 DTSTAMP:20260924T043200Z
 DTSTART;TZID=Europe/Paris:20260924T063200
