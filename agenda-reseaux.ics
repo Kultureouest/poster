@@ -2302,6 +2302,14 @@ SUMMARY:📣 Post réseaux : Journées européennes du patrimoine 2026 à Rochef
 DESCRIPTION:🏛️✨ Un week-end entier pour pousser les portes qui restent habituellement closes : les Journées européennes du patrimoin
 END:VEVENT
 BEGIN:VEVENT
+UID:a60d119f5768c5ca9938992da3c41404@poster.kultureouest.fr
+DTSTAMP:20260916T160800Z
+DTSTART;TZID=Europe/Paris:20260916T180800
+DTEND;TZID=Europe/Paris:20260916T183800
+SUMMARY:📣 Post réseaux : Semaine du Climat sur l'Île d'Oléron : le programme complet
+DESCRIPTION:🌍 La première Semaine du Climat arrive sur l'Île d'Oléron !
+END:VEVENT
+BEGIN:VEVENT
 UID:e7bb702e68f8d07ad487bdc8c2faed86@poster.kultureouest.fr
 DTSTAMP:20260917T042100Z
 DTSTART;TZID=Europe/Paris:20260917T062100
