@@ -2294,6 +2294,14 @@ SUMMARY:📣 Post réseaux : Sens'Action - Journée de prévention sensorielle p
 DESCRIPTION:Et si prendre soin de ses cinq sens devenait un moment de partage et de bonne humeur ?
 END:VEVENT
 BEGIN:VEVENT
+UID:89c29a078a7b0b3496ad6d2ea7acf424@poster.kultureouest.fr
+DTSTAMP:20260915T160800Z
+DTSTART;TZID=Europe/Paris:20260915T180800
+DTEND;TZID=Europe/Paris:20260915T183800
+SUMMARY:📣 Post réseaux : Spectacle-concert « Les femmes et l'écologie » au Moulin de La Brée
+DESCRIPTION:Pour clore en beauté les Journées Européennes du Patrimoine\, le Moulin de La Brée s'offre le temps d'une soirée aux voix
+END:VEVENT
+BEGIN:VEVENT
 UID:585b62f74d1537502f8aaab689c46a7b@poster.kultureouest.fr
 DTSTAMP:20260916T044600Z
 DTSTART;TZID=Europe/Paris:20260916T064600
