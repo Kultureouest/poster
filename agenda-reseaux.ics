@@ -2222,6 +2222,14 @@ SUMMARY:📣 Post réseaux : Forum des Associations à Ars-en-Ré : le rendez-vo
 DESCRIPTION:📣 Forum des Associations à Ars-en-Ré !
 END:VEVENT
 BEGIN:VEVENT
+UID:8bd0fbcaa9eb47589c2189fedaa237bc@poster.kultureouest.fr
+DTSTAMP:20260910T160800Z
+DTSTART;TZID=Europe/Paris:20260910T180800
+DTEND;TZID=Europe/Paris:20260910T183800
+SUMMARY:📣 Post réseaux : La Belle Brocante du Gabut
+DESCRIPTION:Chaque deuxième dimanche du mois\, les quais du Gabut se transforment en un véritable musée à ciel ouvert pour les amateu
+END:VEVENT
+BEGIN:VEVENT
 UID:190d71f07ad2aa1c89100b299689dbb6@poster.kultureouest.fr
 DTSTAMP:20260911T045500Z
 DTSTART;TZID=Europe/Paris:20260911T065500
