@@ -2270,6 +2270,14 @@ SUMMARY:📣 Post réseaux : Longe côte gratuit à Marennes Plage : le rendez-v
 DESCRIPTION:🌊 Après le travail\, direction la mer pour décompresser les pieds dans l'eau : le CCAS de Marennes-Hiers-Brouage lance de
 END:VEVENT
 BEGIN:VEVENT
+UID:bf268c4fbac3847e075b8e612455353b@poster.kultureouest.fr
+DTSTAMP:20260913T104500Z
+DTSTART;TZID=Europe/Paris:20260913T124500
+DTEND;TZID=Europe/Paris:20260913T131500
+SUMMARY:📣 Post réseaux : Hommage à Raymond Devos avec « M. Raymond » à Breuil-Magné
+DESCRIPTION:🎭 Et si le rire pouvait jongler avec les mots\, les notes et la malice d'un des plus grands artistes du langage français 
+END:VEVENT
+BEGIN:VEVENT
 UID:f83093ce17ac2662e22eef32d29003d9@poster.kultureouest.fr
 DTSTAMP:20260914T042900Z
 DTSTART;TZID=Europe/Paris:20260914T062900
