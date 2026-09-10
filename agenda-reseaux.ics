@@ -2278,6 +2278,14 @@ SUMMARY:📣 Post réseaux : Journée solidaire pour les pompiers à Saint-Sulpi
 DESCRIPTION:🔥 Le 16 septembre\, Saint-Sulpice-de-Royan se met aux couleurs des soldats du feu pour une journée aussi gourmande que so
 END:VEVENT
 BEGIN:VEVENT
+UID:a115ee26793bc53182a75aadf6d32399@poster.kultureouest.fr
+DTSTAMP:20260914T154500Z
+DTSTART;TZID=Europe/Paris:20260914T174500
+DTEND;TZID=Europe/Paris:20260914T181500
+SUMMARY:📣 Post réseaux : Comédie "OUI !" au profit du Téléthon à Saint-Palais-sur-Mer
+DESCRIPTION:Dimanche 20 septembre\, Saint-Palais-sur-Mer troque le rire contre des dons pour le Téléthon.
+END:VEVENT
+BEGIN:VEVENT
 UID:af51364982b9863d034633218ce3a086@poster.kultureouest.fr
 DTSTAMP:20260915T043800Z
 DTSTART;TZID=Europe/Paris:20260915T063800
