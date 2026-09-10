@@ -2390,6 +2390,14 @@ SUMMARY:📣 Post réseaux : Écopôle en fête à Dolus-d'Oléron pour les 30 a
 DESCRIPTION:Pour ses 30 ans\, la Communauté de communes de l'île d'Oléron transforme l'Écopôle en un grand terrain de jeu écologique 
 END:VEVENT
 BEGIN:VEVENT
+UID:2c4dce7701546cd674fdb51570709207@poster.kultureouest.fr
+DTSTAMP:20260917T154500Z
+DTSTART;TZID=Europe/Paris:20260917T174500
+DTEND;TZID=Europe/Paris:20260917T181500
+SUMMARY:📣 Post réseaux : Balade de l'estuaire à Soubise : une randonnée commentée pour les Journées du Patrimoine
+DESCRIPTION:Ce dimanche\, l'estuaire de la Charente se dévoile à pied depuis le cœur de Soubise\, le temps d'une balade commentée entr
+END:VEVENT
+BEGIN:VEVENT
 UID:5c6338825955d2e76ded5d00304427d2@poster.kultureouest.fr
 DTSTAMP:20260918T042300Z
 DTSTART;TZID=Europe/Paris:20260918T062300
