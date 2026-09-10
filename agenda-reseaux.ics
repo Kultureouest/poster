@@ -2262,6 +2262,14 @@ SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vou
 DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
 END:VEVENT
 BEGIN:VEVENT
+UID:24e3ad3443acdcd5f5795ee86050d815@poster.kultureouest.fr
+DTSTAMP:20260912T094500Z
+DTSTART;TZID=Europe/Paris:20260912T114500
+DTEND;TZID=Europe/Paris:20260912T121500
+SUMMARY:📣 Post réseaux : Kermesse annuelle de la Résidence le Vigé à Soubise
+DESCRIPTION:Dimanche prochain\, Soubise se pare de couleurs et de rires pour l'événement familial de la rentrée !
+END:VEVENT
+BEGIN:VEVENT
 UID:d8a0ae90b96910efdc6d5ea67d909d11@poster.kultureouest.fr
 DTSTAMP:20260913T044500Z
 DTSTART;TZID=Europe/Paris:20260913T064500
