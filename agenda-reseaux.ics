@@ -2262,6 +2262,14 @@ SUMMARY:📣 Post réseaux : Brocante à Saint-Nazaire-sur-Charente : rendez-vou
 DESCRIPTION:Chineurs et curieux\, direction Saint-Nazaire-sur-Charente pour une grande brocante estivale placée sous le signe de la c
 END:VEVENT
 BEGIN:VEVENT
+UID:d8a0ae90b96910efdc6d5ea67d909d11@poster.kultureouest.fr
+DTSTAMP:20260913T044500Z
+DTSTART;TZID=Europe/Paris:20260913T064500
+DTEND;TZID=Europe/Paris:20260913T071500
+SUMMARY:📣 Post réseaux : Longe côte gratuit à Marennes Plage : le rendez-vous hebdomadaire du CCAS
+DESCRIPTION:🌊 Après le travail\, direction la mer pour décompresser les pieds dans l'eau : le CCAS de Marennes-Hiers-Brouage lance de
+END:VEVENT
+BEGIN:VEVENT
 UID:f83093ce17ac2662e22eef32d29003d9@poster.kultureouest.fr
 DTSTAMP:20260914T042900Z
 DTSTART;TZID=Europe/Paris:20260914T062900
