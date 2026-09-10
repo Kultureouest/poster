@@ -2366,6 +2366,14 @@ SUMMARY:📣 Post réseaux : Baptêmes de voile à La Rochelle : Les Plates en f
 DESCRIPTION:⛵️☀️ Les Plates en fête à la Base Nautique de Port Neuf ! 🌊
 END:VEVENT
 BEGIN:VEVENT
+UID:11a390c5f97336bc1003e57950b0c22c@poster.kultureouest.fr
+DTSTAMP:20260917T104500Z
+DTSTART;TZID=Europe/Paris:20260917T124500
+DTEND;TZID=Europe/Paris:20260917T131500
+SUMMARY:📣 Post réseaux : Écopôle en fête à Dolus-d'Oléron pour les 30 ans de la CDC
+DESCRIPTION:Pour ses 30 ans\, la Communauté de communes de l'île d'Oléron transforme l'Écopôle en un grand terrain de jeu écologique 
+END:VEVENT
+BEGIN:VEVENT
 UID:5c6338825955d2e76ded5d00304427d2@poster.kultureouest.fr
 DTSTAMP:20260918T042300Z
 DTSTART;TZID=Europe/Paris:20260918T062300
