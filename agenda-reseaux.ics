@@ -2270,6 +2270,14 @@ SUMMARY:📣 Post réseaux : Kermesse annuelle de la Résidence le Vigé à Soub
 DESCRIPTION:Dimanche prochain\, Soubise se pare de couleurs et de rires pour l'événement familial de la rentrée !
 END:VEVENT
 BEGIN:VEVENT
+UID:e2b9ed52eda7bc8cc48249cbce77b90f@poster.kultureouest.fr
+DTSTAMP:20260912T160400Z
+DTSTART;TZID=Europe/Paris:20260912T180400
+DTEND;TZID=Europe/Paris:20260912T183400
+SUMMARY:📣 Post réseaux : Exposition Othoniel à Rochefort : Le Petit Théâtre de Peau d'Âne au Musée Hèbre
+DESCRIPTION:À Rochefort\, un rêve d'enfance vieux de plus d'un siècle prend enfin vie sous une verrière monumentale signée Jean-Miche
+END:VEVENT
+BEGIN:VEVENT
 UID:d8a0ae90b96910efdc6d5ea67d909d11@poster.kultureouest.fr
 DTSTAMP:20260913T044500Z
 DTSTART;TZID=Europe/Paris:20260913T064500
