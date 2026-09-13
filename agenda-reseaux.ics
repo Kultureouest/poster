@@ -2590,6 +2590,14 @@ SUMMARY:📣 Post réseaux : Vide-grenier et brocante à Rochefort : rendez-vous
 DESCRIPTION:Chineurs et curieux\, direction l'avenue Gambetta pour la traditionnelle brocante des commerçants rochefortais !
 END:VEVENT
 BEGIN:VEVENT
+UID:f5ac62af47720ac19e1f8dbe804d1571@poster.kultureouest.fr
+DTSTAMP:20261015T095800Z
+DTSTART;TZID=Europe/Paris:20261015T115800
+DTEND;TZID=Europe/Paris:20261015T122800
+SUMMARY:📣 Post réseaux : Loto des Restos du Cœur du 17 à Soubise : un scooter électrique à gagner
+DESCRIPTION:Tentez de décrocher le gros lot lors du grand loto organisé par les Restos du Cœur du 17 à Soubise !
+END:VEVENT
+BEGIN:VEVENT
 UID:22651b26d54e0932e0344d18947dbf66@poster.kultureouest.fr
 DTSTAMP:20270805T143100Z
 DTSTART;TZID=Europe/Paris:20270805T163100
