@@ -2422,6 +2422,14 @@ SUMMARY:📣 Post réseaux : Feu d'artifice de Soubise
 DESCRIPTION:Un ciel qui s'embrase au-dessus de l'eau\, le samedi soir venu illuminer Soubise : voilà le rendez-vous que la ville donn
 END:VEVENT
 BEGIN:VEVENT
+UID:7d30449202bb0d56feff29da31241a4b@poster.kultureouest.fr
+DTSTAMP:20260918T155800Z
+DTSTART;TZID=Europe/Paris:20260918T175800
+DTEND;TZID=Europe/Paris:20260918T182800
+SUMMARY:📣 Post réseaux : Concert TWICE Caribbean Soul à Surgères 2026
+DESCRIPTION:🔥 Un vent de reggae et de soul va souffler sur les Halles de Surgères le temps d'une soirée électrique et gratuite.
+END:VEVENT
+BEGIN:VEVENT
 UID:75fa73be3122e1b9f714f57e05bdf71b@poster.kultureouest.fr
 DTSTAMP:20260919T043200Z
 DTSTART;TZID=Europe/Paris:20260919T063200
