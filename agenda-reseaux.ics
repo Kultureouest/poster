@@ -2510,6 +2510,14 @@ SUMMARY:📣 Post réseaux : Brocante Fenioux 2026
 DESCRIPTION:Envie de chiner sous le soleil de septembre ? Direction Fenioux pour une brocante pleine de trésors à dénicher.
 END:VEVENT
 BEGIN:VEVENT
+UID:3e29faf1a38427b7c06d65ec8487676b@poster.kultureouest.fr
+DTSTAMP:20260924T153000Z
+DTSTART;TZID=Europe/Paris:20260924T173000
+DTEND;TZID=Europe/Paris:20260924T180000
+SUMMARY:📣 Post réseaux : Trophée West Coast de BMX à Breuillet
+DESCRIPTION:TROPHÉE WEST COAST DE BMX À BREUILLET !
+END:VEVENT
+BEGIN:VEVENT
 UID:04e4352a371fd577476120e37955a421@poster.kultureouest.fr
 DTSTAMP:20260925T043200Z
 DTSTART;TZID=Europe/Paris:20260925T063200
