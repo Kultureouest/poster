@@ -2638,6 +2638,14 @@ SUMMARY:📣 Post réseaux : La Zumba reprend à Échillais - Cours d'essai grat
 DESCRIPTION:💃 COURS D'ESSAI ZUMBA GRATUIT AVEC FORM'AUNIS À ÉCHILLAIS !
 END:VEVENT
 BEGIN:VEVENT
+UID:46f42794d17e6ab298e967959dda542f@poster.kultureouest.fr
+DTSTAMP:20261109T053000Z
+DTSTART;TZID=Europe/Paris:20261109T063000
+DTEND;TZID=Europe/Paris:20261109T070000
+SUMMARY:📣 Post réseaux : Foire à tout de Moëze : bonnes affaires à la Salle Polyvalente
+DESCRIPTION:Envie de dénicher une pépite ou de vider vos placards avant l'hiver ? Rendez-vous à Moëze pour la grande Foire à tout or
+END:VEVENT
+BEGIN:VEVENT
 UID:22651b26d54e0932e0344d18947dbf66@poster.kultureouest.fr
 DTSTAMP:20270805T143100Z
 DTSTART;TZID=Europe/Paris:20270805T163100
