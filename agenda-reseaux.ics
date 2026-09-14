@@ -2598,6 +2598,14 @@ SUMMARY:📣 Post réseaux : Marché de créateurs Saintes 2026 : spécial Octob
 DESCRIPTION:Samedi 24 octobre\, l'Abbaye aux Dames de Saintes se pare de rose le temps d'une journée pour accueillir un marché de cré
 END:VEVENT
 BEGIN:VEVENT
+UID:18fdd504aa4ed92a3c1f396ac2515d9e@poster.kultureouest.fr
+DTSTAMP:20261001T103000Z
+DTSTART;TZID=Europe/Paris:20261001T123000
+DTEND;TZID=Europe/Paris:20261001T130000
+SUMMARY:📣 Post réseaux : La Course des Demoiselles fait son retour à Rochefort pour Octobre Rose
+DESCRIPTION:Le rose envahit la Place Colbert le temps d'un après-midi solidaire !
+END:VEVENT
+BEGIN:VEVENT
 UID:6604f952c2ef7023adfe948ec1c46410@poster.kultureouest.fr
 DTSTAMP:20261003T053100Z
 DTSTART;TZID=Europe/Paris:20261003T073100
