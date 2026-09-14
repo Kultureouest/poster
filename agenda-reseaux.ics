@@ -2446,6 +2446,14 @@ SUMMARY:📣 Post réseaux : Journées Européennes du Patrimoine à Soubise 202
 DESCRIPTION:🏰 Et si dimanche prochain\, vous partiez remonter le temps entre estuaire et clocher à Soubise ?
 END:VEVENT
 BEGIN:VEVENT
+UID:b1a4b8dca557bd0421f78febcc540cc6@poster.kultureouest.fr
+DTSTAMP:20260921T153000Z
+DTSTART;TZID=Europe/Paris:20260921T173000
+DTEND;TZID=Europe/Paris:20260921T180000
+SUMMARY:📣 Post réseaux : 50 ans de la Maison de Quartier de Port-Neuf : une journée festive face à la mer
+DESCRIPTION:Un demi-siècle de vie de quartier se fête en musique et en couleurs\, les pieds dans le sable\, face à l'océan.
+END:VEVENT
+BEGIN:VEVENT
 UID:327f09804fe8ee9b7a2b31366c09602a@poster.kultureouest.fr
 DTSTAMP:20260922T043200Z
 DTSTART;TZID=Europe/Paris:20260922T063200
