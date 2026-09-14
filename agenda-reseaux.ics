@@ -2598,6 +2598,14 @@ SUMMARY:📣 Post réseaux : Loto des Restos du Cœur du 17 à Soubise : un scoo
 DESCRIPTION:Tentez de décrocher le gros lot lors du grand loto organisé par les Restos du Cœur du 17 à Soubise !
 END:VEVENT
 BEGIN:VEVENT
+UID:3449c90c0245b8566aeb1a438e6a241f@poster.kultureouest.fr
+DTSTAMP:20261016T125800Z
+DTSTART;TZID=Europe/Paris:20261016T145800
+DTEND;TZID=Europe/Paris:20261016T152800
+SUMMARY:📣 Post réseaux : La Zumba reprend à Échillais - Cours d'essai gratuit
+DESCRIPTION:💃 COURS D'ESSAI ZUMBA GRATUIT AVEC FORM'AUNIS À ÉCHILLAIS !
+END:VEVENT
+BEGIN:VEVENT
 UID:22651b26d54e0932e0344d18947dbf66@poster.kultureouest.fr
 DTSTAMP:20270805T143100Z
 DTSTART;TZID=Europe/Paris:20270805T163100
