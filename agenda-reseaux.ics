@@ -2582,6 +2582,14 @@ SUMMARY:📣 Post réseaux : Course Familiale d'Aytré 2026 : sport et solidarit
 DESCRIPTION:🏃‍♀️💖 LA COURSE FAMILIALE D'AYTRÉ (AU PROFIT D'OCTOBRE ROSE)
 END:VEVENT
 BEGIN:VEVENT
+UID:2820074ee7693c139d112cb834c11f91@poster.kultureouest.fr
+DTSTAMP:20261005T043000Z
+DTSTART;TZID=Europe/Paris:20261005T063000
+DTEND;TZID=Europe/Paris:20261005T070000
+SUMMARY:📣 Post réseaux : Loto des Sapeurs-Pompiers de Châtelaillon-Plage
+DESCRIPTION:Tentez votre chance et repartez peut-être avec 3 250 € de lots lors du grand loto organisé par les Sapeurs-Pompiers de C
+END:VEVENT
+BEGIN:VEVENT
 UID:c443a13a4aefb08cc6af9636354880a2@poster.kultureouest.fr
 DTSTAMP:20261010T145500Z
 DTSTART;TZID=Europe/Paris:20261010T165500
