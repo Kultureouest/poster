@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eb660df701d6631f6279f82671e64908@poster.kultureouest.fr
-DTSTAMP:20260619T165000Z
-DTSTART;TZID=Europe/Paris:20260619T185000
-DTEND;TZID=Europe/Paris:20260619T192000
-SUMMARY:✅ Publié : Les Monstres ont pour prénoms Médiocre et Prodige
-DESCRIPTION:🎨 EXPO — « Les Monstres ont pour prénoms Médiocre et Prodige » à l'Atelier Bletterie (La Rochelle)\, jusqu'au 28 juin !
-END:VEVENT
-BEGIN:VEVENT
 UID:6a6182878d2480a12a65ee54187d52f3@poster.kultureouest.fr
 DTSTAMP:20260620T030000Z
 DTSTART;TZID=Europe/Paris:20260620T050000
