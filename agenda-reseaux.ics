@@ -2614,6 +2614,14 @@ SUMMARY:📣 Post réseaux : Loto des Sapeurs-Pompiers de Châtelaillon-Plage
 DESCRIPTION:Tentez votre chance et repartez peut-être avec 3 250 € de lots lors du grand loto organisé par les Sapeurs-Pompiers de C
 END:VEVENT
 BEGIN:VEVENT
+UID:259e9540f1f3f3dde6b5a34dbd4aee12@poster.kultureouest.fr
+DTSTAMP:20261006T100100Z
+DTSTART;TZID=Europe/Paris:20261006T120100
+DTEND;TZID=Europe/Paris:20261006T123100
+SUMMARY:📣 Post réseaux : Concert pour la Vue à La Rochelle : soirée jazz solidaire avec Samiade Jazz
+DESCRIPTION:Une soirée où jazz et solidarité se donnent rendez-vous : voici le Concert pour la Vue\, à La Rochelle.
+END:VEVENT
+BEGIN:VEVENT
 UID:e47f4ba998790fd182e18703d91d1b94@poster.kultureouest.fr
 DTSTAMP:20261008T050100Z
 DTSTART;TZID=Europe/Paris:20261008T070100
