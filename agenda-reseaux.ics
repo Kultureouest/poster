@@ -2614,6 +2614,14 @@ SUMMARY:📣 Post réseaux : Loto des Sapeurs-Pompiers de Châtelaillon-Plage
 DESCRIPTION:Tentez votre chance et repartez peut-être avec 3 250 € de lots lors du grand loto organisé par les Sapeurs-Pompiers de C
 END:VEVENT
 BEGIN:VEVENT
+UID:e47f4ba998790fd182e18703d91d1b94@poster.kultureouest.fr
+DTSTAMP:20261008T050100Z
+DTSTART;TZID=Europe/Paris:20261008T070100
+DTEND;TZID=Europe/Paris:20261008T073100
+SUMMARY:📣 Post réseaux : Vente fripes automne-hiver à Saint-Agnant : la Communauté Emmaüs ouvre ses portes
+DESCRIPTION:🍂 L'été s'éloigne\, l'automne s'installe : direction Saint-Agnant pour renouveler sa garde-robe autrement.
+END:VEVENT
+BEGIN:VEVENT
 UID:c443a13a4aefb08cc6af9636354880a2@poster.kultureouest.fr
 DTSTAMP:20261010T145500Z
 DTSTART;TZID=Europe/Paris:20261010T165500
