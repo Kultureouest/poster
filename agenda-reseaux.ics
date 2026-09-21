@@ -2622,6 +2622,14 @@ SUMMARY:📣 Post réseaux : Concert pour la Vue à La Rochelle : soirée jazz s
 DESCRIPTION:Une soirée où jazz et solidarité se donnent rendez-vous : voici le Concert pour la Vue\, à La Rochelle.
 END:VEVENT
 BEGIN:VEVENT
+UID:3e29667da21341a5bfee9ec88b3adcb6@poster.kultureouest.fr
+DTSTAMP:20261006T160100Z
+DTSTART;TZID=Europe/Paris:20261006T180100
+DTEND;TZID=Europe/Paris:20261006T183100
+SUMMARY:📣 Post réseaux : Sortie en mer avec la LPO : vivez le Festival de la Migration à Saint-Denis-d'Oléron
+DESCRIPTION:Embarquez pour une expédition ornithologique unique au large d'Oléron\, entre ciel et mer\, à la rencontre des oiseaux mig
+END:VEVENT
+BEGIN:VEVENT
 UID:e47f4ba998790fd182e18703d91d1b94@poster.kultureouest.fr
 DTSTAMP:20261008T050100Z
 DTSTART;TZID=Europe/Paris:20261008T070100
