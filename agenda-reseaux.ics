@@ -2534,6 +2534,14 @@ SUMMARY:📣 Post réseaux : Fête du Végétal 2026 : 60 exposants investissent
 DESCRIPTION:Le temps d'une journée\, l'Abbaye de Trizay se pare de vert et de mille couleurs pour la 9ᵉ édition de la Fête du Végétal
 END:VEVENT
 BEGIN:VEVENT
+UID:243d15484973fdc04323a2ea9e7887f5@poster.kultureouest.fr
+DTSTAMP:20260927T100700Z
+DTSTART;TZID=Europe/Paris:20260927T120700
+DTEND;TZID=Europe/Paris:20260927T123700
+SUMMARY:📣 Post réseaux : Bricole-moi une histoire : Parés au décollage !
+DESCRIPTION:Et si vos enfants embarquaient pour un voyage imaginaire au cœur des livres ?
+END:VEVENT
+BEGIN:VEVENT
 UID:31c1e94196cd832203f9317af1c81808@poster.kultureouest.fr
 DTSTAMP:20260928T043000Z
 DTSTART;TZID=Europe/Paris:20260928T063000
