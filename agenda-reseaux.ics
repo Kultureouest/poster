@@ -2430,6 +2430,14 @@ SUMMARY:📣 Post réseaux : Spectacle automobile à Cabariot : 3ème course du 
 DESCRIPTION:🏁 Ça va sentir la gomme chaude à Cabariot : la troisième manche du championnat des Fadas promet une journée à fond les m
 END:VEVENT
 BEGIN:VEVENT
+UID:6bc01f47dcda711fdcadd6f0a759d5ce@poster.kultureouest.fr
+DTSTAMP:20260922T150700Z
+DTSTART;TZID=Europe/Paris:20260922T170700
+DTEND;TZID=Europe/Paris:20260922T173700
+SUMMARY:📣 Post réseaux : Concert jazz à Saint-Xandre : Antoine Hervier Trio invite Costel Nitescu
+DESCRIPTION:Le jazz s'invite à Saint-Xandre pour une soirée qui promet des étincelles !
+END:VEVENT
+BEGIN:VEVENT
 UID:d9df8f885abbd7b9bc55a1766266a332@poster.kultureouest.fr
 DTSTAMP:20260923T043800Z
 DTSTART;TZID=Europe/Paris:20260923T063800
