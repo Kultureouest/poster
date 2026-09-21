@@ -2558,6 +2558,14 @@ SUMMARY:📣 Post réseaux : Loto & Bingo à Soubise : soirée solidaire avec l'
 DESCRIPTION:Et si le vendredi soir rimait avec cartons pleins et cagnotte généreuse ? Direction Soubise pour une grande soirée Loto 
 END:VEVENT
 BEGIN:VEVENT
+UID:8340d1fb80232f3b43814b4f3de5c14c@poster.kultureouest.fr
+DTSTAMP:20260928T050100Z
+DTSTART;TZID=Europe/Paris:20260928T070100
+DTEND;TZID=Europe/Paris:20260928T073100
+SUMMARY:📣 Post réseaux : Soirée Multidanses spéciale rentrée à Médis avec Royan Latino Swing
+DESCRIPTION:Envie de démarrer la rentrée sur un tempo endiablé ? Royan Latino Swing lance sa nouvelle saison avec une soirée multida
+END:VEVENT
+BEGIN:VEVENT
 UID:c6dd64a4c6538cd1e3682365234518e7@poster.kultureouest.fr
 DTSTAMP:20260928T105800Z
 DTSTART;TZID=Europe/Paris:20260928T125800
