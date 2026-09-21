@@ -2534,6 +2534,14 @@ SUMMARY:📣 Post réseaux : Fête du Végétal 2026 : 60 exposants investissent
 DESCRIPTION:Le temps d'une journée\, l'Abbaye de Trizay se pare de vert et de mille couleurs pour la 9ᵉ édition de la Fête du Végétal
 END:VEVENT
 BEGIN:VEVENT
+UID:62de4708e7db259ddbb20f18fc92563c@poster.kultureouest.fr
+DTSTAMP:20260927T050100Z
+DTSTART;TZID=Europe/Paris:20260927T070100
+DTEND;TZID=Europe/Paris:20260927T073100
+SUMMARY:📣 Post réseaux : Village Rose d'Échillais : une journée solidaire pour Octobre Rose
+DESCRIPTION:Le 4 octobre\, Échillais se pare de rose pour soutenir la lutte contre le cancer du sein.
+END:VEVENT
+BEGIN:VEVENT
 UID:243d15484973fdc04323a2ea9e7887f5@poster.kultureouest.fr
 DTSTAMP:20260927T100700Z
 DTSTART;TZID=Europe/Paris:20260927T120700
