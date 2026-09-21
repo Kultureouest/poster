@@ -2406,6 +2406,14 @@ SUMMARY:✅ Publié : Journées Européennes du Patrimoine à Soubise 2026
 DESCRIPTION:🏰 Et si dimanche prochain\, vous partiez remonter le temps entre estuaire et clocher à Soubise ?
 END:VEVENT
 BEGIN:VEVENT
+UID:f6d27e5b0b4f02c6423fbc35e0a5b245@poster.kultureouest.fr
+DTSTAMP:20260921T100700Z
+DTSTART;TZID=Europe/Paris:20260921T120700
+DTEND;TZID=Europe/Paris:20260921T123700
+SUMMARY:📣 Post réseaux : Vide-Grenier du Comité de Jumelage de Rochefort
+DESCRIPTION:Envie de dénicher la perle rare un dimanche matin ? Rendez-vous sur l'Esplanade Jean-Louis Frot pour le grand Vide-Greni
+END:VEVENT
+BEGIN:VEVENT
 UID:b1a4b8dca557bd0421f78febcc540cc6@poster.kultureouest.fr
 DTSTAMP:20260921T153000Z
 DTSTART;TZID=Europe/Paris:20260921T173000
