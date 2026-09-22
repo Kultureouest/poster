@@ -2406,14 +2406,6 @@ SUMMARY:✅ Publié : Journées Européennes du Patrimoine à Soubise 2026
 DESCRIPTION:🏰 Et si dimanche prochain\, vous partiez remonter le temps entre estuaire et clocher à Soubise ?
 END:VEVENT
 BEGIN:VEVENT
-UID:327f09804fe8ee9b7a2b31366c09602a@poster.kultureouest.fr
-DTSTAMP:20260922T043200Z
-DTSTART;TZID=Europe/Paris:20260922T063200
-DTEND;TZID=Europe/Paris:20260922T070200
-SUMMARY:📣 Post réseaux : Color Run Color'Elles : une course solidaire haute en couleur à Oléron
-DESCRIPTION:Le 27 septembre\, l'Île d'Oléron s'embrase de couleurs pour une bonne cause : la Color Run Color'Elles débarque à Grand-V
-END:VEVENT
-BEGIN:VEVENT
 UID:be038e59095cf20b3097c262f6d48714@poster.kultureouest.fr
 DTSTAMP:20260922T102900Z
 DTSTART;TZID=Europe/Paris:20260922T122900
