@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:625f390089c477b1bcf7b78dc43dc9ab@poster.kultureouest.fr
-DTSTAMP:20260624T103000Z
-DTSTART;TZID=Europe/Paris:20260624T123000
-DTEND;TZID=Europe/Paris:20260624T130000
-SUMMARY:✅ Publié : « Dansons sur le port » 2026 — Bourcefranc-le-Chapus
-DESCRIPTION:Le port de Bourcefranc s'embrase pour le grand rendez-vous dansant de l'été. 🎉
-END:VEVENT
-BEGIN:VEVENT
 UID:a7076a7d89325e44d07af8e430f0d6fb@poster.kultureouest.fr
 DTSTAMP:20260624T183000Z
 DTSTART;TZID=Europe/Paris:20260624T203000
