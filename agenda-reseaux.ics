@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1b7dd6dbaa7f68f72994612718cdd992@poster.kultureouest.fr
-DTSTAMP:20260624T050000Z
-DTSTART;TZID=Europe/Paris:20260624T070000
-DTEND;TZID=Europe/Paris:20260624T073000
-SUMMARY:✅ Publié : Canicule : 6 centres aquatiques pour se rafraîchir en Charente-Maritime
-DESCRIPTION:🥵💦 CANICULE — 6 centres aquatiques pour se rafraîchir en Charente-Maritime !
-END:VEVENT
-BEGIN:VEVENT
 UID:733bdfc4c66d348ed348d56ba8a9aa18@poster.kultureouest.fr
 DTSTAMP:20260624T080000Z
 DTSTART;TZID=Europe/Paris:20260624T100000
