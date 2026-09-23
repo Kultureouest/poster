@@ -2398,6 +2398,14 @@ SUMMARY:✅ Publié : Une Journée Au Verger : le rendez-vous des amoureux des p
 DESCRIPTION:🍎 Le temps d'une journée\, Cabariot se transforme en capitale du fruit d'antan pour un grand rendez-vous convivial au ver
 END:VEVENT
 BEGIN:VEVENT
+UID:c3cd7f27a9fa5a50f467cc85c0a6a4cf@poster.kultureouest.fr
+DTSTAMP:20260923T142800Z
+DTSTART;TZID=Europe/Paris:20260923T162800
+DTEND;TZID=Europe/Paris:20260923T165800
+SUMMARY:📣 Post réseaux : Fête de la Rentrée à Saint-Nazaire-sur-Charente : jeux\, goûter et convivialité
+DESCRIPTION:La rentrée se fête aussi entre voisins : à Saint-Nazaire-sur-Charente\, petits et grands sont attendus pour un après-midi
+END:VEVENT
+BEGIN:VEVENT
 UID:3846099139933dc29d3d78f3ec156a1f@poster.kultureouest.fr
 DTSTAMP:20260923T160800Z
 DTSTART;TZID=Europe/Paris:20260923T180800
