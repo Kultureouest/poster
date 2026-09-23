@@ -2614,6 +2614,14 @@ SUMMARY:📣 Post réseaux : Vente fripes automne-hiver à Saint-Agnant : la Com
 DESCRIPTION:🍂 L'été s'éloigne\, l'automne s'installe : direction Saint-Agnant pour renouveler sa garde-robe autrement.
 END:VEVENT
 BEGIN:VEVENT
+UID:9d18b1f7cfa1669ae846fec7f11801c6@poster.kultureouest.fr
+DTSTAMP:20261008T102800Z
+DTSTART;TZID=Europe/Paris:20261008T122800
+DTEND;TZID=Europe/Paris:20261008T125800
+SUMMARY:📣 Post réseaux : Après-midi dansant des Aînés à Aytré : tous en bleu le 10 octobre 2026
+DESCRIPTION:Enfilez votre plus belle tenue bleue : Aytré organise son Après-midi dansant des Ainés\, placé sous le thème « Tous en bl
+END:VEVENT
+BEGIN:VEVENT
 UID:c443a13a4aefb08cc6af9636354880a2@poster.kultureouest.fr
 DTSTAMP:20261010T145500Z
 DTSTART;TZID=Europe/Paris:20261010T165500
