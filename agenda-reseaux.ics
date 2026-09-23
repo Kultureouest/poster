@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3606ff7f0374ea322e3f89b440d5d9a8@poster.kultureouest.fr
-DTSTAMP:20260625T040000Z
-DTSTART;TZID=Europe/Paris:20260625T060000
-DTEND;TZID=Europe/Paris:20260625T063000
-SUMMARY:✅ Publié : La Rochelle à la Belle Étoile – Soirée d'ouverture 2026
-DESCRIPTION:La Rochelle sort ses étoiles et invite ses habitants à vivre l’été autrement\, quartier par quartier\, à la tombée du jour
-END:VEVENT
-BEGIN:VEVENT
 UID:dc0299d7b7d2fad450252aab08b5561e@poster.kultureouest.fr
 DTSTAMP:20260625T190000Z
 DTSTART;TZID=Europe/Paris:20260625T210000
