@@ -2558,6 +2558,14 @@ SUMMARY:📣 Post réseaux : La Course des Demoiselles fait son retour à Rochef
 DESCRIPTION:Le rose envahit la Place Colbert le temps d'un après-midi solidaire !
 END:VEVENT
 BEGIN:VEVENT
+UID:f913c0759ebf2dc274f62bf0fe18e1f0@poster.kultureouest.fr
+DTSTAMP:20261002T152800Z
+DTSTART;TZID=Europe/Paris:20261002T172800
+DTEND;TZID=Europe/Paris:20261002T175800
+SUMMARY:📣 Post réseaux : Bourse à l'enfance et vide-dressing des mamans à Saint-Agnant
+DESCRIPTION:Une journée pleine de bonnes affaires et de solidarité attend petits et grands à Saint-Agnant !
+END:VEVENT
+BEGIN:VEVENT
 UID:6604f952c2ef7023adfe948ec1c46410@poster.kultureouest.fr
 DTSTAMP:20261003T053100Z
 DTSTART;TZID=Europe/Paris:20261003T073100
