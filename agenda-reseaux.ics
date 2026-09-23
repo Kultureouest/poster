@@ -2606,6 +2606,14 @@ SUMMARY:📣 Post réseaux : Sortie en mer avec la LPO : vivez le Festival de la
 DESCRIPTION:Embarquez pour une expédition ornithologique unique au large d'Oléron\, entre ciel et mer\, à la rencontre des oiseaux mig
 END:VEVENT
 BEGIN:VEVENT
+UID:e3d5e0f51b6a3f9594448c00b727c929@poster.kultureouest.fr
+DTSTAMP:20261007T102800Z
+DTSTART;TZID=Europe/Paris:20261007T122800
+DTEND;TZID=Europe/Paris:20261007T125800
+SUMMARY:📣 Post réseaux : Soirée Dansante Vintage 50's/60's au Château d'Oléron
+DESCRIPTION:Remontez le temps le temps d'une nuit : la Citadelle du Château d'Oléron se transforme en piste de danse rétro pour une 
+END:VEVENT
+BEGIN:VEVENT
 UID:e47f4ba998790fd182e18703d91d1b94@poster.kultureouest.fr
 DTSTAMP:20261008T050100Z
 DTSTART;TZID=Europe/Paris:20261008T070100
