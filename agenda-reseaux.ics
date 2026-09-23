@@ -2622,6 +2622,14 @@ SUMMARY:📣 Post réseaux : Vide-grenier et brocante à Rochefort : rendez-vous
 DESCRIPTION:Chineurs et curieux\, direction l'avenue Gambetta pour la traditionnelle brocante des commerçants rochefortais !
 END:VEVENT
 BEGIN:VEVENT
+UID:fbb222740c24690e3b5eb5ac57fc149f@poster.kultureouest.fr
+DTSTAMP:20261012T152800Z
+DTSTART;TZID=Europe/Paris:20261012T172800
+DTEND;TZID=Europe/Paris:20261012T175800
+SUMMARY:📣 Post réseaux : Les Fêtes de l'Ostra 2026 à Marennes : une journée iodée et festive au Chenal de la Cayenne
+DESCRIPTION:Le Chenal de la Cayenne se pare de ses habits de fête pour la 3ᵉ édition des Fêtes de l'Ostra\, immersion iodée et gourma
+END:VEVENT
+BEGIN:VEVENT
 UID:98029dd8b0e8168bffaf4f996a2a14db@poster.kultureouest.fr
 DTSTAMP:20261014T042800Z
 DTSTART;TZID=Europe/Paris:20261014T062800
