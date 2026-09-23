@@ -2542,6 +2542,14 @@ SUMMARY:📣 Post réseaux : Course pédestre solidaire à Saint-Ouen-d'Aunis : 
 DESCRIPTION:Le dimanche 4 octobre\, Saint-Ouen-d'Aunis se transforme en terrain de jeu sportif pour une course pédestre ouverte à tou
 END:VEVENT
 BEGIN:VEVENT
+UID:a978332303e4311aa263dba7065de21a@poster.kultureouest.fr
+DTSTAMP:20260930T152800Z
+DTSTART;TZID=Europe/Paris:20260930T172800
+DTEND;TZID=Europe/Paris:20260930T175800
+SUMMARY:📣 Post réseaux : Marche & Vélo solidaire à Chambon pour Octobre Rose et Novembre Bleu
+DESCRIPTION:Le temps d'une matinée dominicale\, Chambon se met en mouvement pour une bonne cause : marcher\, pédaler et viser juste\, t
+END:VEVENT
+BEGIN:VEVENT
 UID:2b82eac7a440f5ae283eab588662145d@poster.kultureouest.fr
 DTSTAMP:20261001T040000Z
 DTSTART;TZID=Europe/Paris:20261001T060000
