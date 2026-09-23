@@ -2566,6 +2566,14 @@ SUMMARY:📣 Post réseaux : La Course des Demoiselles fait son retour à Rochef
 DESCRIPTION:Le rose envahit la Place Colbert le temps d'un après-midi solidaire !
 END:VEVENT
 BEGIN:VEVENT
+UID:063f3f7b24cfd3aa4cb709102a68955a@poster.kultureouest.fr
+DTSTAMP:20261002T102800Z
+DTSTART;TZID=Europe/Paris:20261002T122800
+DTEND;TZID=Europe/Paris:20261002T125800
+SUMMARY:📣 Post réseaux : Concert gratuit à Rochefort : Grandma's Ashes et Voodoo Queen au Clos Lapérouse
+DESCRIPTION:Le stoner rock s'invite au Clos Lapérouse pour une soirée électrique et gratuite qui promet de faire vibrer Rochefort.
+END:VEVENT
+BEGIN:VEVENT
 UID:f913c0759ebf2dc274f62bf0fe18e1f0@poster.kultureouest.fr
 DTSTAMP:20261002T152800Z
 DTSTART;TZID=Europe/Paris:20261002T172800
