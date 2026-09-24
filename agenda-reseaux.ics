@@ -2526,6 +2526,14 @@ SUMMARY:📣 Post réseaux : Marche contre le cancer et Octobre Rose à Breuil-M
 DESCRIPTION:🎀 Le 4 octobre\, Breuil-Magné se pare de rose le temps d'une matinée pour marcher contre le cancer.
 END:VEVENT
 BEGIN:VEVENT
+UID:ca59f98db538f5672d136f62d8199581@poster.kultureouest.fr
+DTSTAMP:20260929T095900Z
+DTSTART;TZID=Europe/Paris:20260929T115900
+DTEND;TZID=Europe/Paris:20260929T122900
+SUMMARY:📣 Post réseaux : Biodiv'Sound : la biodiversité en musique à Aigrefeuille-d'Aunis
+DESCRIPTION:Le temps d'une soirée\, la nature et la musique se donnent la main au bord de l'eau.
+END:VEVENT
+BEGIN:VEVENT
 UID:a6c63f135c669173332c0f1f559ac065@poster.kultureouest.fr
 DTSTAMP:20260930T044200Z
 DTSTART;TZID=Europe/Paris:20260930T064200
