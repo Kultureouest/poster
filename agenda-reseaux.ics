@@ -2646,6 +2646,14 @@ SUMMARY:📣 Post réseaux : Vide-grenier et brocante à Rochefort : rendez-vous
 DESCRIPTION:Chineurs et curieux\, direction l'avenue Gambetta pour la traditionnelle brocante des commerçants rochefortais !
 END:VEVENT
 BEGIN:VEVENT
+UID:df83685cdebd99a725decabc262ec174@poster.kultureouest.fr
+DTSTAMP:20261011T155900Z
+DTSTART;TZID=Europe/Paris:20261011T175900
+DTEND;TZID=Europe/Paris:20261011T182900
+SUMMARY:📣 Post réseaux : Sucettes de pomme au chocolat : un atelier gourmand pour les enfants de Marennes-Hiers-Brouage
+DESCRIPTION:Et si la Semaine du Goût® se dégustait aussi à la pointe des doigts ?
+END:VEVENT
+BEGIN:VEVENT
 UID:fbb222740c24690e3b5eb5ac57fc149f@poster.kultureouest.fr
 DTSTAMP:20261012T152800Z
 DTSTART;TZID=Europe/Paris:20261012T172800
