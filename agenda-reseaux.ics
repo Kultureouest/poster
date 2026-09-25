@@ -2630,6 +2630,14 @@ SUMMARY:📣 Post réseaux : Après-midi dansant des Aînés à Aytré : tous en
 DESCRIPTION:Enfilez votre plus belle tenue bleue : Aytré organise son Après-midi dansant des Ainés\, placé sous le thème « Tous en bl
 END:VEVENT
 BEGIN:VEVENT
+UID:10af216e25a917d60568aaa65f9c09b2@poster.kultureouest.fr
+DTSTAMP:20261010T043400Z
+DTSTART;TZID=Europe/Paris:20261010T063400
+DTEND;TZID=Europe/Paris:20261010T070400
+SUMMARY:📣 Post réseaux : Brocante d'automne à Saint-Sulpice-d'Arnoult : le restaurant O'Hangar ouvre ses étals
+DESCRIPTION:Envie de dénicher la perle rare un dimanche matin ? Rendez-vous à Saint-Sulpice-d'Arnoult pour la grande Brocante d'auto
+END:VEVENT
+BEGIN:VEVENT
 UID:c443a13a4aefb08cc6af9636354880a2@poster.kultureouest.fr
 DTSTAMP:20261010T145500Z
 DTSTART;TZID=Europe/Paris:20261010T165500
