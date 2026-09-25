@@ -2662,6 +2662,14 @@ SUMMARY:📣 Post réseaux : Vélo'Smoothie Marennes 2026 : pédalez pour votre 
 DESCRIPTION:Et si pédaler donnait naissance à votre boisson préférée ? Direction le marché de Marennes pour une animation gourmande 
 END:VEVENT
 BEGIN:VEVENT
+UID:24b79925b8e5fc32c97f2f0dec724fec@poster.kultureouest.fr
+DTSTAMP:20261014T103400Z
+DTSTART;TZID=Europe/Paris:20261014T123400
+DTEND;TZID=Europe/Paris:20261014T130400
+SUMMARY:📣 Post réseaux : Journée des trottinettes à Soubise : une collecte solidaire pour les enfants
+DESCRIPTION:Et si vos vieilles trottinettes retrouvaient une seconde jeunesse au service des enfants de Soubise ?
+END:VEVENT
+BEGIN:VEVENT
 UID:f5ac62af47720ac19e1f8dbe804d1571@poster.kultureouest.fr
 DTSTAMP:20261015T095800Z
 DTSTART;TZID=Europe/Paris:20261015T115800
