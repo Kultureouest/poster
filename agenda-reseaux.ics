@@ -2717,20 +2717,4 @@ DTEND;TZID=Europe/Paris:20261109T070000
 SUMMARY:📣 Post réseaux : Foire à tout de Moëze : bonnes affaires à la Salle Polyvalente
 DESCRIPTION:Envie de dénicher une pépite ou de vider vos placards avant l'hiver ? Rendez-vous à Moëze pour la grande Foire à tout or
 END:VEVENT
-BEGIN:VEVENT
-UID:22651b26d54e0932e0344d18947dbf66@poster.kultureouest.fr
-DTSTAMP:20270805T143100Z
-DTSTART;TZID=Europe/Paris:20270805T163100
-DTEND;TZID=Europe/Paris:20270805T170100
-SUMMARY:📣 Post réseaux : Marché Nocturne et Karaoké : soirée festive à Saint-Clément-des-Baleines
-DESCRIPTION:Le bourg de Saint-Clément-des-Baleines s'illumine jeudi soir pour un marché nocturne et une grande soirée karaoké.
-END:VEVENT
-BEGIN:VEVENT
-UID:3f148f3cdae1c34edc089f786e453662@poster.kultureouest.fr
-DTSTAMP:20270807T183100Z
-DTSTART;TZID=Europe/Paris:20270807T203100
-DTEND;TZID=Europe/Paris:20270807T210100
-SUMMARY:📣 Post réseaux : Fête de la Mer 2026 à La Tremblade : concerts\, balades en mer et feu d'artifice
-DESCRIPTION:Le temps d'une soirée d'été\, le Port de La Grève se pare de guirlandes marines pour la traditionnelle Fête de la Mer de 
-END:VEVENT
 END:VCALENDAR
