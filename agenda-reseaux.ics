@@ -2742,14 +2742,6 @@ SUMMARY:📣 Post réseaux : Festiv'Arts 2026 : les arts de la rue investissent 
 DESCRIPTION:Le temps d'une journée et d'une nuit\, la Citadelle du Château-d'Oléron se transforme en scène géante pour les arts de la
 END:VEVENT
 BEGIN:VEVENT
-UID:3eab01debc8db9ce5c4e21104ad75554@poster.kultureouest.fr
-DTSTAMP:20270816T043100Z
-DTSTART;TZID=Europe/Paris:20270816T063100
-DTEND;TZID=Europe/Paris:20270816T070100
-SUMMARY:📣 Post réseaux : Brocante mensuelle de Bourcefranc-Le Chapus : le rendez-vous du 16 août
-DESCRIPTION:Chineurs et curieux ont rendez-vous place de la Mairie pour une matinée dédiée aux trésors de seconde main.
-END:VEVENT
-BEGIN:VEVENT
 UID:bf4a7521ef34b31d809740dad69c49a3@poster.kultureouest.fr
 DTSTAMP:20270821T043100Z
 DTSTART;TZID=Europe/Paris:20270821T063100
