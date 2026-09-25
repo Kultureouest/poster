@@ -2654,6 +2654,14 @@ SUMMARY:📣 Post réseaux : Les Fêtes de l'Ostra 2026 à Marennes : une journ�
 DESCRIPTION:Le Chenal de la Cayenne se pare de ses habits de fête pour la 3ᵉ édition des Fêtes de l'Ostra\, immersion iodée et gourma
 END:VEVENT
 BEGIN:VEVENT
+UID:75e83324b2c6340c1a49c72f19e4329f@poster.kultureouest.fr
+DTSTAMP:20261013T103400Z
+DTSTART;TZID=Europe/Paris:20261013T123400
+DTEND;TZID=Europe/Paris:20261013T130400
+SUMMARY:📣 Post réseaux : Rocktobre Rose : 3 concerts solidaires à Sainte-Gemme
+DESCRIPTION:Sainte-Gemme va vibrer au rythme du rock le temps d'une soirée solidaire haute en couleurs\, entre riffs électriques et e
+END:VEVENT
+BEGIN:VEVENT
 UID:98029dd8b0e8168bffaf4f996a2a14db@poster.kultureouest.fr
 DTSTAMP:20261014T042800Z
 DTSTART;TZID=Europe/Paris:20261014T062800
