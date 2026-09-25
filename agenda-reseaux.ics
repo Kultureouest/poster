@@ -2478,6 +2478,14 @@ SUMMARY:📣 Post réseaux : Bricole-moi une histoire : Parés au décollage !
 DESCRIPTION:Et si vos enfants embarquaient pour un voyage imaginaire au cœur des livres ?
 END:VEVENT
 BEGIN:VEVENT
+UID:4ecbbecfe8cd7b47672710fedfb17a9a@poster.kultureouest.fr
+DTSTAMP:20260927T163400Z
+DTSTART;TZID=Europe/Paris:20260927T183400
+DTEND;TZID=Europe/Paris:20260927T190400
+SUMMARY:📣 Post réseaux : Bébé Lecteurs à Marennes-Hiers-Brouage : un éveil littéraire pour les tout-petits
+DESCRIPTION:Un rendez-vous tout en douceur pour éveiller les tout-petits au plaisir des livres.
+END:VEVENT
+BEGIN:VEVENT
 UID:31c1e94196cd832203f9317af1c81808@poster.kultureouest.fr
 DTSTAMP:20260928T043000Z
 DTSTART;TZID=Europe/Paris:20260928T063000
