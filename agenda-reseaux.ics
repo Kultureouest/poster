@@ -2486,6 +2486,14 @@ SUMMARY:📣 Post réseaux : Collecte de don de sang - Saint-Palais-sur-Mer
 DESCRIPTION:Un geste de quelques minutes qui peut changer une vie : l'EFS donne rendez-vous aux habitants de Saint-Palais-sur-Mer po
 END:VEVENT
 BEGIN:VEVENT
+UID:517fccd28bdd50a7141916f790bb4934@poster.kultureouest.fr
+DTSTAMP:20261025T163800Z
+DTSTART;TZID=Europe/Paris:20261025T173800
+DTEND;TZID=Europe/Paris:20261025T180800
+SUMMARY:📣 Post réseaux : Super Loto de l'Amicale des Sapeurs-Pompiers de Sainte-Marie-de-Ré
+DESCRIPTION:Et si une soirée de jeu pouvait aussi réchauffer les cœurs et soutenir ceux qui veillent sur notre sécurité ?
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
