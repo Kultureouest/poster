@@ -2342,6 +2342,14 @@ SUMMARY:✅ Publié : Sortie en mer avec la LPO : vivez le Festival de la Migrat
 DESCRIPTION:Embarquez pour une expédition ornithologique unique au large d'Oléron\, entre ciel et mer\, à la rencontre des oiseaux mig
 END:VEVENT
 BEGIN:VEVENT
+UID:c2638339a05d5db55db0c547f41227ae@poster.kultureouest.fr
+DTSTAMP:20261007T050000Z
+DTSTART;TZID=Europe/Paris:20261007T070000
+DTEND;TZID=Europe/Paris:20261007T073000
+SUMMARY:📣 Post réseaux : Le Petit Art Fest : une première édition créative à La Vallée
+DESCRIPTION:Une escapade créative et festive en pleine nature vous attend à La Vallée pour la toute première édition du Petit Art Fe
+END:VEVENT
+BEGIN:VEVENT
 UID:e3d5e0f51b6a3f9594448c00b727c929@poster.kultureouest.fr
 DTSTAMP:20261007T102800Z
 DTSTART;TZID=Europe/Paris:20261007T122800
