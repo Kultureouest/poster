@@ -2374,6 +2374,14 @@ SUMMARY:📣 Post réseaux : Après-midi dansant des Aînés à Aytré : tous en
 DESCRIPTION:Enfilez votre plus belle tenue bleue : Aytré organise son Après-midi dansant des Ainés\, placé sous le thème « Tous en bl
 END:VEVENT
 BEGIN:VEVENT
+UID:f4492fad8f45f1593514eec7eae4b747@poster.kultureouest.fr
+DTSTAMP:20261008T144100Z
+DTSTART;TZID=Europe/Paris:20261008T164100
+DTEND;TZID=Europe/Paris:20261008T171100
+SUMMARY:📣 Post réseaux : Journées de la Mode Responsable 2026 à La Rochelle
+DESCRIPTION:Et si réparer\, upcycler et chiner devenait le geste le plus stylé de l'automne ? La Grande Collecte invite La Rochelle à
+END:VEVENT
+BEGIN:VEVENT
 UID:10af216e25a917d60568aaa65f9c09b2@poster.kultureouest.fr
 DTSTAMP:20261010T043400Z
 DTSTART;TZID=Europe/Paris:20261010T063400
