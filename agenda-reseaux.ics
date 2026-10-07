@@ -2438,6 +2438,14 @@ SUMMARY:📣 Post réseaux : Loto des Restos du Cœur du 17 à Soubise : un scoo
 DESCRIPTION:Tentez de décrocher le gros lot lors du grand loto organisé par les Restos du Cœur du 17 à Soubise !
 END:VEVENT
 BEGIN:VEVENT
+UID:e279db75271f83cd4e8613329900bc97@poster.kultureouest.fr
+DTSTAMP:20261015T144100Z
+DTSTART;TZID=Europe/Paris:20261015T164100
+DTEND;TZID=Europe/Paris:20261015T171100
+SUMMARY:📣 Post réseaux : Exposition LEGO® et Playmobil® Legsplay à Royan
+DESCRIPTION:Rendez-vous ce week-end à Royan pour un voyage en briques et en figurines qui ravira petits et grands !
+END:VEVENT
+BEGIN:VEVENT
 UID:3449c90c0245b8566aeb1a438e6a241f@poster.kultureouest.fr
 DTSTAMP:20261016T125800Z
 DTSTART;TZID=Europe/Paris:20261016T145800
