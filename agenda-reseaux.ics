@@ -2366,6 +2366,14 @@ SUMMARY:📣 Post réseaux : Après-midi dansant des Aînés à Aytré : tous en
 DESCRIPTION:Enfilez votre plus belle tenue bleue : Aytré organise son Après-midi dansant des Ainés\, placé sous le thème « Tous en bl
 END:VEVENT
 BEGIN:VEVENT
+UID:b7f549484a2b33a690735838f2620773@poster.kultureouest.fr
+DTSTAMP:20261008T132400Z
+DTSTART;TZID=Europe/Paris:20261008T152400
+DTEND;TZID=Europe/Paris:20261008T155400
+SUMMARY:📣 Post réseaux : SORTILÈGE : l'escape game immersif qui transforme Halloween en cauchemar à Aigrefeuille d'Aunis
+DESCRIPTION:Et si cet Halloween\, vous ne vous contentiez pas de regarder la peur\, mais que vous la viviez de l'intérieur ?
+END:VEVENT
+BEGIN:VEVENT
 UID:f4492fad8f45f1593514eec7eae4b747@poster.kultureouest.fr
 DTSTAMP:20261008T144100Z
 DTSTART;TZID=Europe/Paris:20261008T164100
