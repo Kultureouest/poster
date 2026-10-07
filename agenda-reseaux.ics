@@ -2374,6 +2374,14 @@ SUMMARY:📣 Post réseaux : Journées de la Mode Responsable 2026 à La Rochell
 DESCRIPTION:Et si réparer\, upcycler et chiner devenait le geste le plus stylé de l'automne ? La Grande Collecte invite La Rochelle à
 END:VEVENT
 BEGIN:VEVENT
+UID:2ecb24f1d4863085a63c1b70c73919a5@poster.kultureouest.fr
+DTSTAMP:20261009T043800Z
+DTSTART;TZID=Europe/Paris:20261009T063800
+DTEND;TZID=Europe/Paris:20261009T070800
+SUMMARY:📣 Post réseaux : Challenge Métier Sapeur-Pompier : la caserne de Rochefort ouvre ses portes
+DESCRIPTION:Rochefort vibrera au rythme des sirènes et de l'adrénaline ce samedi\, le temps d'un défi sportif et technique mené par c
+END:VEVENT
+BEGIN:VEVENT
 UID:10af216e25a917d60568aaa65f9c09b2@poster.kultureouest.fr
 DTSTAMP:20261010T043400Z
 DTSTART;TZID=Europe/Paris:20261010T063400
