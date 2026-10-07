@@ -2502,6 +2502,14 @@ SUMMARY:📣 Post réseaux : Super Loto de l'Amicale des Sapeurs-Pompiers de Sai
 DESCRIPTION:Et si une soirée de jeu pouvait aussi réchauffer les cœurs et soutenir ceux qui veillent sur notre sécurité ?
 END:VEVENT
 BEGIN:VEVENT
+UID:2ab7717ddc855a4cc4bd6a9ad7005b3a@poster.kultureouest.fr
+DTSTAMP:20261026T113800Z
+DTSTART;TZID=Europe/Paris:20261026T123800
+DTEND;TZID=Europe/Paris:20261026T130800
+SUMMARY:📣 Post réseaux : Halloween - Marché des Créateurs à Dolus-d'Oléron
+DESCRIPTION:Entre frissons et gourmandises\, Dolus-d'Oléron se transforme le temps d'une journée en village hanté et créatif.
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
