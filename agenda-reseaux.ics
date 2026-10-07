@@ -2350,6 +2350,14 @@ SUMMARY:📣 Post réseaux : Soirée Dansante Vintage 50's/60's au Château d'Ol
 DESCRIPTION:Remontez le temps le temps d'une nuit : la Citadelle du Château d'Oléron se transforme en piste de danse rétro pour une 
 END:VEVENT
 BEGIN:VEVENT
+UID:3bc9bc59e22d642c5c71ab6850e2e39d@poster.kultureouest.fr
+DTSTAMP:20261007T144100Z
+DTSTART;TZID=Europe/Paris:20261007T164100
+DTEND;TZID=Europe/Paris:20261007T171100
+SUMMARY:📣 Post réseaux : L'Ampli coupe le jus : une soirée acoustique à Rochefort
+DESCRIPTION:Le temps d'une soirée\, la scène rochefortaise débranche tout pour se réinventer en version intimiste et acoustique.
+END:VEVENT
+BEGIN:VEVENT
 UID:e47f4ba998790fd182e18703d91d1b94@poster.kultureouest.fr
 DTSTAMP:20261008T050100Z
 DTSTART;TZID=Europe/Paris:20261008T070100
