@@ -2470,6 +2470,14 @@ SUMMARY:📣 Post réseaux : Les Aventures de Pinocchio - Conte et théâtre d'o
 DESCRIPTION:Le mannequin de bois le plus célèbre de la littérature jeunesse reprend vie en ombres chinoises et en mots\, le temps d'u
 END:VEVENT
 BEGIN:VEVENT
+UID:5fb91bf98c731974b344dedc736744fa@poster.kultureouest.fr
+DTSTAMP:20261015T045000Z
+DTSTART;TZID=Europe/Paris:20261015T065000
+DTEND;TZID=Europe/Paris:20261015T072000
+SUMMARY:📣 Post réseaux : L'automne s'invite au Château de Talmont
+DESCRIPTION:Entre pierres millénaires et légendes médiévales\, le Château de Talmont se transforme en terrain de jeu pour petits et g
+END:VEVENT
+BEGIN:VEVENT
 UID:f5ac62af47720ac19e1f8dbe804d1571@poster.kultureouest.fr
 DTSTAMP:20261015T095800Z
 DTSTART;TZID=Europe/Paris:20261015T115800
