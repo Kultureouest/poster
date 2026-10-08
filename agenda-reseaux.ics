@@ -2478,6 +2478,14 @@ SUMMARY:📣 Post réseaux : Brocante Mensuelle de Bourcefranc-Le Chapus
 DESCRIPTION:Chaque mois\, la place de la Mairie de Bourcefranc-Le Chapus se transforme en véritable caverne aux trésors pour les amat
 END:VEVENT
 BEGIN:VEVENT
+UID:cde8e26b64058cf5516ce45da049dba4@poster.kultureouest.fr
+DTSTAMP:20261018T050300Z
+DTSTART;TZID=Europe/Paris:20261018T070300
+DTEND;TZID=Europe/Paris:20261018T073300
+SUMMARY:📣 Post réseaux : Atelier "Fabrique ton robot" avec Laurent Audouin
+DESCRIPTION:Et si vos enfants repartaient de la médiathèque avec leur propre robot\, né de leur imagination ?
+END:VEVENT
+BEGIN:VEVENT
 UID:5a4b36a82cac1255b5a3bf0f1e3be8dc@poster.kultureouest.fr
 DTSTAMP:20261018T153800Z
 DTSTART;TZID=Europe/Paris:20261018T173800
