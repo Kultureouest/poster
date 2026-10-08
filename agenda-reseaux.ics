@@ -2430,6 +2430,14 @@ SUMMARY:📣 Post réseaux : Rocktobre Rose : 3 concerts solidaires à Sainte-Ge
 DESCRIPTION:Sainte-Gemme va vibrer au rythme du rock le temps d'une soirée solidaire haute en couleurs\, entre riffs électriques et e
 END:VEVENT
 BEGIN:VEVENT
+UID:ea9118c10bf4d802ae19be5f0c923c7e@poster.kultureouest.fr
+DTSTAMP:20261013T152900Z
+DTSTART;TZID=Europe/Paris:20261013T172900
+DTEND;TZID=Europe/Paris:20261013T175900
+SUMMARY:📣 Post réseaux : Impro'Clowns à La Rochelle : la Compagnie Roi de Sable aux Cabanes Urbaines
+DESCRIPTION:Vendredi soir\, les Cabanes Urbaines se transforment en piste de cirque improvisée pour une soirée où tout peut arriver.
+END:VEVENT
+BEGIN:VEVENT
 UID:98029dd8b0e8168bffaf4f996a2a14db@poster.kultureouest.fr
 DTSTAMP:20261014T042800Z
 DTSTART;TZID=Europe/Paris:20261014T062800
