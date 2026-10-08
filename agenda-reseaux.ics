@@ -2398,6 +2398,14 @@ SUMMARY:📣 Post réseaux : Vide-grenier et brocante à Rochefort : rendez-vous
 DESCRIPTION:Chineurs et curieux\, direction l'avenue Gambetta pour la traditionnelle brocante des commerçants rochefortais !
 END:VEVENT
 BEGIN:VEVENT
+UID:47d5c08ca21162828520bf83cfddaf5d@poster.kultureouest.fr
+DTSTAMP:20261010T185000Z
+DTSTART;TZID=Europe/Paris:20261010T205000
+DTEND;TZID=Europe/Paris:20261010T212000
+SUMMARY:📣 Post réseaux : Compétition de Skateboard à Bourcefranc-Le Chapus
+DESCRIPTION:Préparez vos planches : dimanche\, le Skate Park de Bourcefranc-Le Chapus se transforme en arène de glisse pour une grand
+END:VEVENT
+BEGIN:VEVENT
 UID:df83685cdebd99a725decabc262ec174@poster.kultureouest.fr
 DTSTAMP:20261011T155900Z
 DTSTART;TZID=Europe/Paris:20261011T175900
