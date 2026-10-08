@@ -2534,6 +2534,14 @@ SUMMARY:📣 Post réseaux : Grand Loto Solidaire Octobre Rose à Rochefort
 DESCRIPTION:Et si jouer au loto permettait aussi de sauver des vies ? À Rochefort\, le Grand Loto Solidaire d'Octobre Rose vous invit
 END:VEVENT
 BEGIN:VEVENT
+UID:a8afab5244bcb5e0cd3c4dcc28bd4ca4@poster.kultureouest.fr
+DTSTAMP:20261102T112900Z
+DTSTART;TZID=Europe/Paris:20261102T122900
+DTEND;TZID=Europe/Paris:20261102T125900
+SUMMARY:📣 Post réseaux : Concours de belote à Saint-Just-Luzac avec l'A.M.M.A.C
+DESCRIPTION:Les amateurs de cartes ont rendez-vous à Saint-Just-Luzac pour un après-midi de belote entre bonne humeur et convivialit
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
