@@ -2533,4 +2533,12 @@ DTEND;TZID=Europe/Paris:20261109T070000
 SUMMARY:📣 Post réseaux : Foire à tout de Moëze : bonnes affaires à la Salle Polyvalente
 DESCRIPTION:Envie de dénicher une pépite ou de vider vos placards avant l'hiver ? Rendez-vous à Moëze pour la grande Foire à tout or
 END:VEVENT
+BEGIN:VEVENT
+UID:a8e8cbb0ab46f6049dc8f3b1d76f4de8@poster.kultureouest.fr
+DTSTAMP:20261116T060300Z
+DTSTART;TZID=Europe/Paris:20261116T070300
+DTEND;TZID=Europe/Paris:20261116T073300
+SUMMARY:📣 Post réseaux : Concours de belote du Comité des Fêtes de Bords
+DESCRIPTION:Envie de taper le carton dans une ambiance conviviale ? Le Comité des Fêtes de Bords organise son concours de belote à l
+END:VEVENT
 END:VCALENDAR
