@@ -2326,14 +2326,6 @@ SUMMARY:✅ Publié : Soirée Dansante Vintage 50's/60's au Château d'Oléron
 DESCRIPTION:Remontez le temps le temps d'une nuit : la Citadelle du Château d'Oléron se transforme en piste de danse rétro pour une 
 END:VEVENT
 BEGIN:VEVENT
-UID:e47f4ba998790fd182e18703d91d1b94@poster.kultureouest.fr
-DTSTAMP:20261008T050100Z
-DTSTART;TZID=Europe/Paris:20261008T070100
-DTEND;TZID=Europe/Paris:20261008T073100
-SUMMARY:📣 Post réseaux : Vente fripes automne-hiver à Saint-Agnant : la Communauté Emmaüs ouvre ses portes
-DESCRIPTION:🍂 L'été s'éloigne\, l'automne s'installe : direction Saint-Agnant pour renouveler sa garde-robe autrement.
-END:VEVENT
-BEGIN:VEVENT
 UID:9d18b1f7cfa1669ae846fec7f11801c6@poster.kultureouest.fr
 DTSTAMP:20261008T102800Z
 DTSTART;TZID=Europe/Paris:20261008T122800
