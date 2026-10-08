@@ -2374,6 +2374,14 @@ SUMMARY:📣 Post réseaux : Brocante d'automne à Saint-Sulpice-d'Arnoult : le 
 DESCRIPTION:Envie de dénicher la perle rare un dimanche matin ? Rendez-vous à Saint-Sulpice-d'Arnoult pour la grande Brocante d'auto
 END:VEVENT
 BEGIN:VEVENT
+UID:c99abf1b73673df6931f5b4846adc377@poster.kultureouest.fr
+DTSTAMP:20261010T100300Z
+DTSTART;TZID=Europe/Paris:20261010T120300
+DTEND;TZID=Europe/Paris:20261010T123300
+SUMMARY:📣 Post réseaux : Brocante du Gabut à La Rochelle : chineurs\, à vos marques !
+DESCRIPTION:Chineurs\, amateurs d'antiquités et amoureux du beau mobilier ont rendez-vous ce dimanche sur l'une des plus belles espla
+END:VEVENT
+BEGIN:VEVENT
 UID:c443a13a4aefb08cc6af9636354880a2@poster.kultureouest.fr
 DTSTAMP:20261010T145500Z
 DTSTART;TZID=Europe/Paris:20261010T165500
