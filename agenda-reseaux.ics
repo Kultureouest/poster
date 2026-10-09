@@ -2342,6 +2342,14 @@ SUMMARY:✅ Publié : Challenge Métier Sapeur-Pompier : la caserne de Rochefort
 DESCRIPTION:Rochefort vibrera au rythme des sirènes et de l'adrénaline ce samedi\, le temps d'un défi sportif et technique mené par c
 END:VEVENT
 BEGIN:VEVENT
+UID:e674ca88d3ecbbfc4602e806f2c5445f@poster.kultureouest.fr
+DTSTAMP:20261009T083300Z
+DTSTART;TZID=Europe/Paris:20261009T103300
+DTEND;TZID=Europe/Paris:20261009T110300
+SUMMARY:📣 Post réseaux : Jour de la Nuit 2026 : Royan et Saint-Palais-sur-Mer éteignent leurs lumières
+DESCRIPTION:Et si\, le temps d'un week-end\, on redonnait sa place à la nuit ? Royan et Saint-Palais-sur-Mer participent à l'opération
+END:VEVENT
+BEGIN:VEVENT
 UID:015061823ade4ca6418937286d72df7e@poster.kultureouest.fr
 DTSTAMP:20261009T102900Z
 DTSTART;TZID=Europe/Paris:20261009T122900
