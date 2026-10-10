@@ -2350,14 +2350,6 @@ SUMMARY:✅ Publié : Brocante du Gabut à La Rochelle : chineurs\, à vos marqu
 DESCRIPTION:Chineurs\, amateurs d'antiquités et amoureux du beau mobilier ont rendez-vous ce dimanche sur l'une des plus belles espla
 END:VEVENT
 BEGIN:VEVENT
-UID:c443a13a4aefb08cc6af9636354880a2@poster.kultureouest.fr
-DTSTAMP:20261010T145500Z
-DTSTART;TZID=Europe/Paris:20261010T165500
-DTEND;TZID=Europe/Paris:20261010T172500
-SUMMARY:📣 Post réseaux : Vide-grenier et brocante à Rochefort : rendez-vous avenue Gambetta
-DESCRIPTION:Chineurs et curieux\, direction l'avenue Gambetta pour la traditionnelle brocante des commerçants rochefortais !
-END:VEVENT
-BEGIN:VEVENT
 UID:47d5c08ca21162828520bf83cfddaf5d@poster.kultureouest.fr
 DTSTAMP:20261010T185000Z
 DTSTART;TZID=Europe/Paris:20261010T205000
