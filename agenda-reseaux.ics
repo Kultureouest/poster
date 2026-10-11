@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5b83c7c085b9d7ad29f7e83481697e6c@poster.kultureouest.fr
-DTSTAMP:20260713T100000Z
-DTSTART;TZID=Europe/Paris:20260713T120000
-DTEND;TZID=Europe/Paris:20260713T123000
-SUMMARY:✅ Publié : Fête nationale à Soubise : jeux\, foodtruck et feu d'artifice
-DESCRIPTION:À Soubise\, le 13 juillet\, la Place Robert Chatelier se transforme en cœur battant de la fête nationale\, entre jeux\, rest
-END:VEVENT
-BEGIN:VEVENT
 UID:7054fa559da664a6572ce3ee53f82182@poster.kultureouest.fr
 DTSTAMP:20260714T100000Z
 DTSTART;TZID=Europe/Paris:20260714T120000
