@@ -2446,6 +2446,14 @@ SUMMARY:📣 Post réseaux : Octobre Rose à Saint-Agnant : une journée sport e
 DESCRIPTION:Le 17 octobre\, Saint-Agnant se pare de rose pour une journée qui mêle sport\, solidarité et bonne humeur.
 END:VEVENT
 BEGIN:VEVENT
+UID:7cb039127ed1ce80509f25c23bc5ae40@poster.kultureouest.fr
+DTSTAMP:20261016T044700Z
+DTSTART;TZID=Europe/Paris:20261016T064700
+DTEND;TZID=Europe/Paris:20261016T071700
+SUMMARY:📣 Post réseaux : Soirée dansante à Soubise avec l'orchestre La Rochelle Cats
+DESCRIPTION:Le temps d'un samedi\, Soubise se transforme en piste de danse géante\, entre stages d'initiation et bal endiablé jusqu'au
+END:VEVENT
+BEGIN:VEVENT
 UID:3449c90c0245b8566aeb1a438e6a241f@poster.kultureouest.fr
 DTSTAMP:20261016T125800Z
 DTSTART;TZID=Europe/Paris:20261016T145800
