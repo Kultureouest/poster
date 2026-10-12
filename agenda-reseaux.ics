@@ -2478,6 +2478,14 @@ SUMMARY:📣 Post réseaux : Soirée Cultures Urbaines à Rochefort : Hip-Hop\, 
 DESCRIPTION:Le Clos se transforme en scène vibrante le temps d'une soirée 100% cultures urbaines\, entre hip-hop et K-pop\, en plein c
 END:VEVENT
 BEGIN:VEVENT
+UID:baafebb72c3c7dbe3c46058cbe7fcbcf@poster.kultureouest.fr
+DTSTAMP:20261021T094700Z
+DTSTART;TZID=Europe/Paris:20261021T114700
+DTEND;TZID=Europe/Paris:20261021T121700
+SUMMARY:📣 Post réseaux : Loto géant à Muron : trois sessions solidaires avec Ze Nounous d'enfer
+DESCRIPTION:Entre tombola\, gros lots et solidarité\, l'association Ze Nounous d'enfer donne rendez-vous aux amateurs de cartons pour 
+END:VEVENT
+BEGIN:VEVENT
 UID:517fccd28bdd50a7141916f790bb4934@poster.kultureouest.fr
 DTSTAMP:20261025T163800Z
 DTSTART;TZID=Europe/Paris:20261025T173800
