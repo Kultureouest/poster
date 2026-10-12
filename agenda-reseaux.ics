@@ -2438,6 +2438,14 @@ SUMMARY:📣 Post réseaux : Exposition LEGO® et Playmobil® Legsplay à Royan
 DESCRIPTION:Rendez-vous ce week-end à Royan pour un voyage en briques et en figurines qui ravira petits et grands !
 END:VEVENT
 BEGIN:VEVENT
+UID:77442ec0f1174234b28992be19c46621@poster.kultureouest.fr
+DTSTAMP:20261016T044700Z
+DTSTART;TZID=Europe/Paris:20261016T064700
+DTEND;TZID=Europe/Paris:20261016T071700
+SUMMARY:📣 Post réseaux : Octobre Rose à Saint-Agnant : une journée sport et solidarité pour la féminité retrouvée
+DESCRIPTION:Le 17 octobre\, Saint-Agnant se pare de rose pour une journée qui mêle sport\, solidarité et bonne humeur.
+END:VEVENT
+BEGIN:VEVENT
 UID:3449c90c0245b8566aeb1a438e6a241f@poster.kultureouest.fr
 DTSTAMP:20261016T125800Z
 DTSTART;TZID=Europe/Paris:20261016T145800
