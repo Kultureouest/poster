@@ -2382,6 +2382,14 @@ SUMMARY:📣 Post réseaux : Impro'Clowns à La Rochelle : la Compagnie Roi de S
 DESCRIPTION:Vendredi soir\, les Cabanes Urbaines se transforment en piste de cirque improvisée pour une soirée où tout peut arriver.
 END:VEVENT
 BEGIN:VEVENT
+UID:530767b4949cdf668242ec1a83327f15@poster.kultureouest.fr
+DTSTAMP:20261013T184700Z
+DTSTART;TZID=Europe/Paris:20261013T204700
+DTEND;TZID=Europe/Paris:20261013T211700
+SUMMARY:📣 Post réseaux : Blind Test & Karaoké au Colette du Marché
+DESCRIPTION:Et si votre culture musicale devenait un jeu entre amis\, le temps d'une soirée ?
+END:VEVENT
+BEGIN:VEVENT
 UID:98029dd8b0e8168bffaf4f996a2a14db@poster.kultureouest.fr
 DTSTAMP:20261014T042800Z
 DTSTART;TZID=Europe/Paris:20261014T062800
