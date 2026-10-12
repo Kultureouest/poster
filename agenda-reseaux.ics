@@ -2510,6 +2510,14 @@ SUMMARY:📣 Post réseaux : Loto géant à Muron : trois sessions solidaires av
 DESCRIPTION:Entre tombola\, gros lots et solidarité\, l'association Ze Nounous d'enfer donne rendez-vous aux amateurs de cartons pour 
 END:VEVENT
 BEGIN:VEVENT
+UID:10813a81260a8454072a92e47acd7b38@poster.kultureouest.fr
+DTSTAMP:20261022T094700Z
+DTSTART;TZID=Europe/Paris:20261022T114700
+DTEND;TZID=Europe/Paris:20261022T121700
+SUMMARY:📣 Post réseaux : Fête de la Citrouille à Saint-Palais-sur-Mer : la 1ère édition arrive les 24 et 25 octobre 2026
+DESCRIPTION:L'automne s'installe à Saint-Palais-sur-Mer avec la toute première Fête de la Citrouille\, un week-end entier dédié à la 
+END:VEVENT
+BEGIN:VEVENT
 UID:856b6704d3c3566989a9bb5c945f073d@poster.kultureouest.fr
 DTSTAMP:20261025T114700Z
 DTSTART;TZID=Europe/Paris:20261025T124700
