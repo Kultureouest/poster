@@ -2494,6 +2494,14 @@ SUMMARY:📣 Post réseaux : Loto géant à Muron : trois sessions solidaires av
 DESCRIPTION:Entre tombola\, gros lots et solidarité\, l'association Ze Nounous d'enfer donne rendez-vous aux amateurs de cartons pour 
 END:VEVENT
 BEGIN:VEVENT
+UID:856b6704d3c3566989a9bb5c945f073d@poster.kultureouest.fr
+DTSTAMP:20261025T114700Z
+DTSTART;TZID=Europe/Paris:20261025T124700
+DTEND;TZID=Europe/Paris:20261025T131700
+SUMMARY:📣 Post réseaux : Veillée Halloween à Saint-Sauveur-d'Aunis : une enquête immersive en famille
+DESCRIPTION:Le 27 octobre prochain\, Saint-Sauveur-d'Aunis se transforme en terrain de jeu mystérieux pour une veillée d'Halloween pa
+END:VEVENT
+BEGIN:VEVENT
 UID:517fccd28bdd50a7141916f790bb4934@poster.kultureouest.fr
 DTSTAMP:20261025T163800Z
 DTSTART;TZID=Europe/Paris:20261025T173800
