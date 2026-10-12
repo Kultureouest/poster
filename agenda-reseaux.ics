@@ -2510,6 +2510,14 @@ SUMMARY:📣 Post réseaux : Grand Loto Solidaire Octobre Rose à Rochefort
 DESCRIPTION:Et si jouer au loto permettait aussi de sauver des vies ? À Rochefort\, le Grand Loto Solidaire d'Octobre Rose vous invit
 END:VEVENT
 BEGIN:VEVENT
+UID:d5225de076fc723f1b8a88d51a5f8cf2@poster.kultureouest.fr
+DTSTAMP:20261027T114700Z
+DTSTART;TZID=Europe/Paris:20261027T124700
+DTEND;TZID=Europe/Paris:20261027T131700
+SUMMARY:📣 Post réseaux : Soirée Salsa SBK au Clos à Rochefort
+DESCRIPTION:Danseurs confirmés ou simples curieux de rythmes latins\, rendez-vous le 30 octobre pour une Soirée Salsa SBK qui promet 
+END:VEVENT
+BEGIN:VEVENT
 UID:283246c440c231fd2c7a1cd6a5b70250@poster.kultureouest.fr
 DTSTAMP:20261101T054700Z
 DTSTART;TZID=Europe/Paris:20261101T064700
