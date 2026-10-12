@@ -2550,6 +2550,14 @@ SUMMARY:📣 Post réseaux : Concours de belote à Saint-Just-Luzac avec l'A.M.M
 DESCRIPTION:Les amateurs de cartes ont rendez-vous à Saint-Just-Luzac pour un après-midi de belote entre bonne humeur et convivialit
 END:VEVENT
 BEGIN:VEVENT
+UID:46d2927ea63f68e5020234991a498c95@poster.kultureouest.fr
+DTSTAMP:20261104T114700Z
+DTSTART;TZID=Europe/Paris:20261104T124700
+DTEND;TZID=Europe/Paris:20261104T131700
+SUMMARY:📣 Post réseaux : Course Colorée de Saint-Agnant : une matinée festive et solidaire
+DESCRIPTION:Dimanche 8 novembre\, Saint-Agnant se pare de mille couleurs pour une course pas comme les autres !
+END:VEVENT
+BEGIN:VEVENT
 UID:d687575c77d5a2a19d936f5759278bb5@poster.kultureouest.fr
 DTSTAMP:20261105T164700Z
 DTSTART;TZID=Europe/Paris:20261105T174700
