@@ -2526,6 +2526,14 @@ SUMMARY:📣 Post réseaux : Concours de belote à Saint-Just-Luzac avec l'A.M.M
 DESCRIPTION:Les amateurs de cartes ont rendez-vous à Saint-Just-Luzac pour un après-midi de belote entre bonne humeur et convivialit
 END:VEVENT
 BEGIN:VEVENT
+UID:d687575c77d5a2a19d936f5759278bb5@poster.kultureouest.fr
+DTSTAMP:20261105T164700Z
+DTSTART;TZID=Europe/Paris:20261105T174700
+DTEND;TZID=Europe/Paris:20261105T181700
+SUMMARY:📣 Post réseaux : 3ᵉ Festival BD de Saint-Jean-d'Angély
+DESCRIPTION:Amateurs de bulles\, de romans graphiques et d'illustrations\, un rendez-vous vous attend à Saint-Jean-d'Angély !
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
