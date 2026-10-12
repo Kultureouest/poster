@@ -2462,6 +2462,14 @@ SUMMARY:📣 Post réseaux : Collecte de don de sang - Saint-Palais-sur-Mer
 DESCRIPTION:Un geste de quelques minutes qui peut changer une vie : l'EFS donne rendez-vous aux habitants de Saint-Palais-sur-Mer po
 END:VEVENT
 BEGIN:VEVENT
+UID:47a8fd54db5d0ef52420c18cc992228d@poster.kultureouest.fr
+DTSTAMP:20261020T154700Z
+DTSTART;TZID=Europe/Paris:20261020T174700
+DTEND;TZID=Europe/Paris:20261020T181700
+SUMMARY:📣 Post réseaux : Soirée Cultures Urbaines à Rochefort : Hip-Hop\, K-pop et Battle de Danse
+DESCRIPTION:Le Clos se transforme en scène vibrante le temps d'une soirée 100% cultures urbaines\, entre hip-hop et K-pop\, en plein c
+END:VEVENT
+BEGIN:VEVENT
 UID:517fccd28bdd50a7141916f790bb4934@poster.kultureouest.fr
 DTSTAMP:20261025T163800Z
 DTSTART;TZID=Europe/Paris:20261025T173800
