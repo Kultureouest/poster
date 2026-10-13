@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3dbdd94a0b18fb8ae3b2ad6fed21ff47@poster.kultureouest.fr
-DTSTAMP:20260715T100000Z
-DTSTART;TZID=Europe/Paris:20260715T120000
-DTEND;TZID=Europe/Paris:20260715T123000
-SUMMARY:✅ Publié : Clem'n The Rock en concert au restaurant Le Flandre
-DESCRIPTION:Une salle en bois façon carène de bateau\, la forêt de pins juste derrière\, et un trio rock qui monte le son : le Flandre
-END:VEVENT
-BEGIN:VEVENT
 UID:a0dd0cf28147463d9bb261a558b3589c@poster.kultureouest.fr
 DTSTAMP:20260715T163000Z
 DTSTART;TZID=Europe/Paris:20260715T183000
