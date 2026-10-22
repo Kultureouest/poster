@@ -2334,6 +2334,14 @@ SUMMARY:✅ Publié : Fête de la Citrouille à Saint-Palais-sur-Mer : la 1ère 
 DESCRIPTION:L'automne s'installe à Saint-Palais-sur-Mer avec la toute première Fête de la Citrouille\, un week-end entier dédié à la 
 END:VEVENT
 BEGIN:VEVENT
+UID:1e22406359a0604a983e174a9cb6f792@poster.kultureouest.fr
+DTSTAMP:20261022T161700Z
+DTSTART;TZID=Europe/Paris:20261022T181700
+DTEND;TZID=Europe/Paris:20261022T184700
+SUMMARY:📣 Post réseaux : Concert du quatuor de saxophones Bocalise à Saint-Nazaire-sur-Charente
+DESCRIPTION:Une soirée tout en nuances où les saxophones se répondent et se mêlent\, entre virtuosité et convivialité : voilà ce que 
+END:VEVENT
+BEGIN:VEVENT
 UID:856b6704d3c3566989a9bb5c945f073d@poster.kultureouest.fr
 DTSTAMP:20261025T114700Z
 DTSTART;TZID=Europe/Paris:20261025T124700
