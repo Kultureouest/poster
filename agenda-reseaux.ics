@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8d1a2fd7b5fb3eb2e2e63d3a4d3c48cb@poster.kultureouest.fr
-DTSTAMP:20260725T043000Z
-DTSTART;TZID=Europe/Paris:20260725T063000
-DTEND;TZID=Europe/Paris:20260725T070000
-SUMMARY:✅ Publié : Festival Ondes Classiques : Violoncelle en Voile à Marsilly
-DESCRIPTION:⛵ Cap sur Marsilly pour le Festival Ondes Classiques !
-END:VEVENT
-BEGIN:VEVENT
 UID:ad30ada5c45eaa1e198c75ce2b8e7eab@poster.kultureouest.fr
 DTSTAMP:20260725T095400Z
 DTSTART;TZID=Europe/Paris:20260725T115400
