@@ -2342,6 +2342,14 @@ SUMMARY:📣 Post réseaux : Chasse aux bonbons d'Halloween à Breuil-Magné
 DESCRIPTION:Et si cette fin d'octobre réservait aux enfants de Breuil-Magné la plus belle chasse aux bonbons de l'année ?
 END:VEVENT
 BEGIN:VEVENT
+UID:334bf98bd00be4044c88d28be8ef0e7a@poster.kultureouest.fr
+DTSTAMP:20261023T094500Z
+DTSTART;TZID=Europe/Paris:20261023T114500
+DTEND;TZID=Europe/Paris:20261023T121500
+SUMMARY:📣 Post réseaux : Escape Game Outdoor Familial à Angoulins avec La Rochelle Aventure
+DESCRIPTION:Et si les vacances de la Toussaint devenaient le théâtre d'une véritable enquête grandeur nature ?
+END:VEVENT
+BEGIN:VEVENT
 UID:856b6704d3c3566989a9bb5c945f073d@poster.kultureouest.fr
 DTSTAMP:20261025T114700Z
 DTSTART;TZID=Europe/Paris:20261025T124700
