@@ -2298,7 +2298,7 @@ UID:554337552854c896bdc4575ac7edf450@poster.kultureouest.fr
 DTSTAMP:20261025T073500Z
 DTSTART;TZID=Europe/Paris:20261025T083500
 DTEND;TZID=Europe/Paris:20261025T090500
-SUMMARY:📣 Post réseaux : Loto Solidaire Octobre Rose à Rochefort : jouez pour la bonne cause
+SUMMARY:✅ Publié : Loto Solidaire Octobre Rose à Rochefort : jouez pour la bonne cause
 DESCRIPTION:Et si jouer au loto permettait aussi de soutenir la recherche contre le cancer du sein ? À Rochefort\, un après-midi de j
 END:VEVENT
 BEGIN:VEVENT
@@ -2332,6 +2332,14 @@ DTSTART;TZID=Europe/Paris:20261026T170300
 DTEND;TZID=Europe/Paris:20261026T173300
 SUMMARY:📣 Post réseaux : Grand Loto Solidaire Octobre Rose à Rochefort
 DESCRIPTION:Et si jouer au loto permettait aussi de sauver des vies ? À Rochefort\, le Grand Loto Solidaire d'Octobre Rose vous invit
+END:VEVENT
+BEGIN:VEVENT
+UID:64f355e9feb50d6255382401a3a3c004@poster.kultureouest.fr
+DTSTAMP:20261027T053500Z
+DTSTART;TZID=Europe/Paris:20261027T063500
+DTEND;TZID=Europe/Paris:20261027T070500
+SUMMARY:📣 Post réseaux : Un atelier ikebana pour s'initier à l'art floral japonais à Saint-Nazaire-sur-Charente
+DESCRIPTION:Et si vous appreniez à « donner vie aux fleurs » le temps d'une matinée ?
 END:VEVENT
 BEGIN:VEVENT
 UID:d5225de076fc723f1b8a88d51a5f8cf2@poster.kultureouest.fr
