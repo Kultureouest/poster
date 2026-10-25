@@ -2398,6 +2398,14 @@ SUMMARY:📣 Post réseaux : Bouquins Gourmands : le salon du livre polar et gou
 DESCRIPTION:Les amateurs de polars et les gourmands ont rendez-vous le premier week-end de novembre à Saint-Nazaire-sur-Charente.
 END:VEVENT
 BEGIN:VEVENT
+UID:542ade77b64d93c4118d875999824765@poster.kultureouest.fr
+DTSTAMP:20261103T103500Z
+DTSTART;TZID=Europe/Paris:20261103T113500
+DTEND;TZID=Europe/Paris:20261103T120500
+SUMMARY:📣 Post réseaux : Broyage de vos branchages – Saint-Nazaire-sur-Charente
+DESCRIPTION:Et si vos tas de branchages devenaient la cour de récré des enfants de demain ?
+END:VEVENT
+BEGIN:VEVENT
 UID:46d2927ea63f68e5020234991a498c95@poster.kultureouest.fr
 DTSTAMP:20261104T114700Z
 DTSTART;TZID=Europe/Paris:20261104T124700
