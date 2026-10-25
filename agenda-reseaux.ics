@@ -2414,6 +2414,14 @@ SUMMARY:📣 Post réseaux : Course Colorée de Saint-Agnant : une matinée fest
 DESCRIPTION:Dimanche 8 novembre\, Saint-Agnant se pare de mille couleurs pour une course pas comme les autres !
 END:VEVENT
 BEGIN:VEVENT
+UID:ea56e11527e40614234c20bef7b43a3b@poster.kultureouest.fr
+DTSTAMP:20261104T173500Z
+DTSTART;TZID=Europe/Paris:20261104T183500
+DTEND;TZID=Europe/Paris:20261104T190500
+SUMMARY:📣 Post réseaux : Concert Vocalude à Port-des-Barques : chansons du monde a cappella
+DESCRIPTION:Et si le temps d'une soirée\, les voix humaines suffisaient à transformer la pierre en musique ?
+END:VEVENT
+BEGIN:VEVENT
 UID:1cefea6e4aac31244c93e313c5369f60@poster.kultureouest.fr
 DTSTAMP:20261105T053500Z
 DTSTART;TZID=Europe/Paris:20261105T063500
