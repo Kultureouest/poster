@@ -2294,6 +2294,14 @@ SUMMARY:✅ Publié : Escape Game Outdoor Familial à Angoulins avec La Rochelle
 DESCRIPTION:Et si les vacances de la Toussaint devenaient le théâtre d'une véritable enquête grandeur nature ?
 END:VEVENT
 BEGIN:VEVENT
+UID:554337552854c896bdc4575ac7edf450@poster.kultureouest.fr
+DTSTAMP:20261025T073500Z
+DTSTART;TZID=Europe/Paris:20261025T083500
+DTEND;TZID=Europe/Paris:20261025T090500
+SUMMARY:📣 Post réseaux : Loto Solidaire Octobre Rose à Rochefort : jouez pour la bonne cause
+DESCRIPTION:Et si jouer au loto permettait aussi de soutenir la recherche contre le cancer du sein ? À Rochefort\, un après-midi de j
+END:VEVENT
+BEGIN:VEVENT
 UID:856b6704d3c3566989a9bb5c945f073d@poster.kultureouest.fr
 DTSTAMP:20261025T114700Z
 DTSTART;TZID=Europe/Paris:20261025T124700
