@@ -2342,6 +2342,14 @@ SUMMARY:📣 Post réseaux : Brocante de la Citadelle de Brouage : chine et conv
 DESCRIPTION:Amateurs de belles trouvailles et de balades patrimoniales\, direction la Citadelle de Brouage pour une journée de chine 
 END:VEVENT
 BEGIN:VEVENT
+UID:39a251c2f07c13b36a4e4951a3a18f35@poster.kultureouest.fr
+DTSTAMP:20261029T171500Z
+DTSTART;TZID=Europe/Paris:20261029T181500
+DTEND;TZID=Europe/Paris:20261029T184500
+SUMMARY:📣 Post réseaux : Halloween Party au Shapers Club House de Marennes
+DESCRIPTION:Une seule nuit par an\, le Shapers Club House bascule du côté obscur\, et c'est celle-là !
+END:VEVENT
+BEGIN:VEVENT
 UID:283246c440c231fd2c7a1cd6a5b70250@poster.kultureouest.fr
 DTSTAMP:20261101T054700Z
 DTSTART;TZID=Europe/Paris:20261101T064700
