@@ -2390,6 +2390,14 @@ SUMMARY:📣 Post réseaux : Concours de belote à Saint-Just-Luzac avec l'A.M.M
 DESCRIPTION:Les amateurs de cartes ont rendez-vous à Saint-Just-Luzac pour un après-midi de belote entre bonne humeur et convivialit
 END:VEVENT
 BEGIN:VEVENT
+UID:5f93fccfa9418f67aaf44709b8824702@poster.kultureouest.fr
+DTSTAMP:20261103T053500Z
+DTSTART;TZID=Europe/Paris:20261103T063500
+DTEND;TZID=Europe/Paris:20261103T070500
+SUMMARY:📣 Post réseaux : Bouquins Gourmands : le salon du livre polar et gourmand de Saint-Nazaire-sur-Charente
+DESCRIPTION:Les amateurs de polars et les gourmands ont rendez-vous le premier week-end de novembre à Saint-Nazaire-sur-Charente.
+END:VEVENT
+BEGIN:VEVENT
 UID:46d2927ea63f68e5020234991a498c95@poster.kultureouest.fr
 DTSTAMP:20261104T114700Z
 DTSTART;TZID=Europe/Paris:20261104T124700
