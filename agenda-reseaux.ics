@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c72e8f19a6ef4827f319ed37d8737fee@poster.kultureouest.fr
-DTSTAMP:20260727T151100Z
-DTSTART;TZID=Europe/Paris:20260727T171100
-DTEND;TZID=Europe/Paris:20260727T174100
-SUMMARY:✅ Publié : Les Lundis de l'Arsenal - Rochefort
-DESCRIPTION:Comme chaque lundi de l'été\, l'Arsenal des Mers de Rochefort se transforme en scène à ciel ouvert pour une soirée gratui
-END:VEVENT
-BEGIN:VEVENT
 UID:e4d464223de9121bda7fa9b310bd7303@poster.kultureouest.fr
 DTSTAMP:20260727T181500Z
 DTSTART;TZID=Europe/Paris:20260727T201500
