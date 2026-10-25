@@ -2454,6 +2454,14 @@ SUMMARY:📣 Post réseaux : Bouquins Gourmands Saint-Nazaire-sur-Charente : 5�
 DESCRIPTION:Et si on troquait les écrans contre des pages qui sentent bon le papier et les producteurs du coin ?
 END:VEVENT
 BEGIN:VEVENT
+UID:a5a0daf797651c975c0c6b5a35921a76@poster.kultureouest.fr
+DTSTAMP:20261106T103500Z
+DTSTART;TZID=Europe/Paris:20261106T113500
+DTEND;TZID=Europe/Paris:20261106T120500
+SUMMARY:📣 Post réseaux : Randonnée pédestre solidaire Novembre Bleu à La Tremblade
+DESCRIPTION:Et si vous chaussiez vos baskets pour une bonne cause\, le temps d'une matinée conviviale au bord de l'océan ?
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
