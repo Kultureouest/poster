@@ -2422,6 +2422,14 @@ SUMMARY:📣 Post réseaux : 3ᵉ Festival BD de Saint-Jean-d'Angély
 DESCRIPTION:Amateurs de bulles\, de romans graphiques et d'illustrations\, un rendez-vous vous attend à Saint-Jean-d'Angély !
 END:VEVENT
 BEGIN:VEVENT
+UID:3827a015ca188605f1a1c02108ac5edd@poster.kultureouest.fr
+DTSTAMP:20261106T053500Z
+DTSTART;TZID=Europe/Paris:20261106T063500
+DTEND;TZID=Europe/Paris:20261106T070500
+SUMMARY:📣 Post réseaux : Bouquins Gourmands Saint-Nazaire-sur-Charente : 5ᵉ édition du marché du livre
+DESCRIPTION:Et si on troquait les écrans contre des pages qui sentent bon le papier et les producteurs du coin ?
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
