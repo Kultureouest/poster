@@ -2358,6 +2358,14 @@ SUMMARY:📣 Post réseaux : Halloween Party au Shapers Club House de Marennes
 DESCRIPTION:Une seule nuit par an\, le Shapers Club House bascule du côté obscur\, et c'est celle-là !
 END:VEVENT
 BEGIN:VEVENT
+UID:f25444706fa8c953addadbe46ad7ffed@poster.kultureouest.fr
+DTSTAMP:20261030T053500Z
+DTSTART;TZID=Europe/Paris:20261030T063500
+DTEND;TZID=Europe/Paris:20261030T070500
+SUMMARY:📣 Post réseaux : Soirée Halloween des Tigers de Rochefort
+DESCRIPTION:Enfilez vos roulettes et préparez votre déguisement le plus terrifiant : les Tigers de Rochefort ouvrent leur piste pour
+END:VEVENT
+BEGIN:VEVENT
 UID:283246c440c231fd2c7a1cd6a5b70250@poster.kultureouest.fr
 DTSTAMP:20261101T054700Z
 DTSTART;TZID=Europe/Paris:20261101T064700
