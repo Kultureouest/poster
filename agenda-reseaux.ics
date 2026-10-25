@@ -2414,6 +2414,14 @@ SUMMARY:📣 Post réseaux : Course Colorée de Saint-Agnant : une matinée fest
 DESCRIPTION:Dimanche 8 novembre\, Saint-Agnant se pare de mille couleurs pour une course pas comme les autres !
 END:VEVENT
 BEGIN:VEVENT
+UID:1cefea6e4aac31244c93e313c5369f60@poster.kultureouest.fr
+DTSTAMP:20261105T053500Z
+DTSTART;TZID=Europe/Paris:20261105T063500
+DTEND;TZID=Europe/Paris:20261105T070500
+SUMMARY:📣 Post réseaux : Un ouvrage de dames : théâtre et comédie à Saint-Nazaire-sur-Charente
+DESCRIPTION:Rires garantis à Saint-Nazaire-sur-Charente avec deux soirées théâtrales signées Scène en Chœur !
+END:VEVENT
+BEGIN:VEVENT
 UID:d687575c77d5a2a19d936f5759278bb5@poster.kultureouest.fr
 DTSTAMP:20261105T164700Z
 DTSTART;TZID=Europe/Paris:20261105T174700
