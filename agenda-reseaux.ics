@@ -2286,6 +2286,14 @@ SUMMARY:✅ Publié : Super Loto de l'Amicale des Sapeurs-Pompiers de Sainte-Mar
 DESCRIPTION:Et si une soirée de jeu pouvait aussi réchauffer les cœurs et soutenir ceux qui veillent sur notre sécurité ?
 END:VEVENT
 BEGIN:VEVENT
+UID:0948ba571f4439369b479e5cb16e973b@poster.kultureouest.fr
+DTSTAMP:20261026T065500Z
+DTSTART;TZID=Europe/Paris:20261026T075500
+DTEND;TZID=Europe/Paris:20261026T082500
+SUMMARY:📣 Post réseaux : Take the Biscuit à Tonnay-Charente : sortie de résidence du spectacle « Le Chaland »
+DESCRIPTION:Le temps d'une soirée\, l'Espace culturel Les Halles de Tonnay-Charente vibrera au rythme d'un rock hybride et sensible\, 
+END:VEVENT
+BEGIN:VEVENT
 UID:2ab7717ddc855a4cc4bd6a9ad7005b3a@poster.kultureouest.fr
 DTSTAMP:20261026T113800Z
 DTSTART;TZID=Europe/Paris:20261026T123800
