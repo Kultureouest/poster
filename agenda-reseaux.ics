@@ -2469,4 +2469,12 @@ DTEND;TZID=Europe/Paris:20261116T073300
 SUMMARY:📣 Post réseaux : Concours de belote du Comité des Fêtes de Bords
 DESCRIPTION:Envie de taper le carton dans une ambiance conviviale ? Le Comité des Fêtes de Bords organise son concours de belote à l
 END:VEVENT
+BEGIN:VEVENT
+UID:aff292be63385fd80f5f4651c7378aef@poster.kultureouest.fr
+DTSTAMP:20261210T105500Z
+DTSTART;TZID=Europe/Paris:20261210T115500
+DTEND;TZID=Europe/Paris:20261210T122500
+SUMMARY:📣 Post réseaux : La formidable aventure du Reggae Sun Ska racontée par Fred Lachaize à Rochefort
+DESCRIPTION:Partez à la découverte des coulisses d'un festival mythique\, racontées par l'un de ses fondateurs.
+END:VEVENT
 END:VCALENDAR
