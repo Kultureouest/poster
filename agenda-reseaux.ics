@@ -2358,6 +2358,14 @@ SUMMARY:📣 Post réseaux : Drôle(s) de Festival 2026 à Aytré : un mois de f
 DESCRIPTION:Un mois entier dédié à l'imaginaire des petits et des grands s'ouvre à Aytré avec le retour du Drôle(s) de Festival.
 END:VEVENT
 BEGIN:VEVENT
+UID:b6bfd93f100ebc4888e5c7ae0e2cc0be@poster.kultureouest.fr
+DTSTAMP:20261102T045300Z
+DTSTART;TZID=Europe/Paris:20261102T055300
+DTEND;TZID=Europe/Paris:20261102T062300
+SUMMARY:📣 Post réseaux : Exposition « Reflets de Rives » à Marennes avec Hân et François Huynh-Rochon
+DESCRIPTION:Et si les rives avaient une mémoire\, une lumière\, une poésie à raconter ? Le Sas-culture de Marennes accueille « Reflets
+END:VEVENT
+BEGIN:VEVENT
 UID:a8afab5244bcb5e0cd3c4dcc28bd4ca4@poster.kultureouest.fr
 DTSTAMP:20261102T112900Z
 DTSTART;TZID=Europe/Paris:20261102T122900
