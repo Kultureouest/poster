@@ -2398,6 +2398,14 @@ SUMMARY:📣 Post réseaux : Broyage de vos branchages – Saint-Nazaire-sur-Cha
 DESCRIPTION:Et si vos tas de branchages devenaient la cour de récré des enfants de demain ?
 END:VEVENT
 BEGIN:VEVENT
+UID:f9eff260bdc5506e83ea699c9661559a@poster.kultureouest.fr
+DTSTAMP:20261103T165300Z
+DTSTART;TZID=Europe/Paris:20261103T175300
+DTEND;TZID=Europe/Paris:20261103T182300
+SUMMARY:📣 Post réseaux : Séances Bébé Lecteurs à la Médiathèque de Marennes
+DESCRIPTION:Et si la lecture commençait dès le berceau ? La Médiathèque de Marennes invite les tout-petits et leurs parents à venir 
+END:VEVENT
+BEGIN:VEVENT
 UID:46d2927ea63f68e5020234991a498c95@poster.kultureouest.fr
 DTSTAMP:20261104T114700Z
 DTSTART;TZID=Europe/Paris:20261104T124700
