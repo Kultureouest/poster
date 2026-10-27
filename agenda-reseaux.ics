@@ -2334,6 +2334,14 @@ SUMMARY:📣 Post réseaux : Brocante de la Citadelle de Brouage : chine et conv
 DESCRIPTION:Amateurs de belles trouvailles et de balades patrimoniales\, direction la Citadelle de Brouage pour une journée de chine 
 END:VEVENT
 BEGIN:VEVENT
+UID:70630bfb2da80ab0325b09c6522ded1c@poster.kultureouest.fr
+DTSTAMP:20261029T045300Z
+DTSTART;TZID=Europe/Paris:20261029T055300
+DTEND;TZID=Europe/Paris:20261029T062300
+SUMMARY:📣 Post réseaux : Le Fantôme de la Médiathèque : un safari photo nocturne pour Halloween à Soubise
+DESCRIPTION:Oserez-vous percer le mystère qui hante la médiathèque de Soubise\, le temps d'une nuit d'Halloween ?
+END:VEVENT
+BEGIN:VEVENT
 UID:39a251c2f07c13b36a4e4951a3a18f35@poster.kultureouest.fr
 DTSTAMP:20261029T171500Z
 DTSTART;TZID=Europe/Paris:20261029T181500
