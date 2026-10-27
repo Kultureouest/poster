@@ -2454,6 +2454,14 @@ SUMMARY:📣 Post réseaux : Bourse aux Jouets à Tonnay-Boutonne : chinez de bo
 DESCRIPTION:Envie de dénicher des trésors pour Noël sans se ruiner ? Direction Tonnay-Boutonne pour une journée de chine en famille 
 END:VEVENT
 BEGIN:VEVENT
+UID:ddb4458d14958c59f158b26d1fc1289e@poster.kultureouest.fr
+DTSTAMP:20261108T045300Z
+DTSTART;TZID=Europe/Paris:20261108T055300
+DTEND;TZID=Europe/Paris:20261108T062300
+SUMMARY:📣 Post réseaux : Ciné-débat Insecticide : comment l'agrochimie a tué les insectes à Port-des-Barques
+DESCRIPTION:Et si un simple film pouvait changer notre regard sur ce qui disparaît silencieusement sous nos yeux ?
+END:VEVENT
+BEGIN:VEVENT
 UID:46f42794d17e6ab298e967959dda542f@poster.kultureouest.fr
 DTSTAMP:20261109T053000Z
 DTSTART;TZID=Europe/Paris:20261109T063000
