@@ -2438,6 +2438,14 @@ SUMMARY:📣 Post réseaux : Foire à tout de Moëze : bonnes affaires à la Sal
 DESCRIPTION:Envie de dénicher une pépite ou de vider vos placards avant l'hiver ? Rendez-vous à Moëze pour la grande Foire à tout or
 END:VEVENT
 BEGIN:VEVENT
+UID:eab5b1dd5ab7b84a97e6c82c35c9a1a4@poster.kultureouest.fr
+DTSTAMP:20261115T103100Z
+DTSTART;TZID=Europe/Paris:20261115T113100
+DTEND;TZID=Europe/Paris:20261115T120100
+SUMMARY:📣 Post réseaux : Marché de Noël de Saint-Nazaire-sur-Charente
+DESCRIPTION:La magie de Noël illumine les rues de Saint-Nazaire-sur-Charente le temps d'un week-end féerique à partager en famille o
+END:VEVENT
+BEGIN:VEVENT
 UID:a8e8cbb0ab46f6049dc8f3b1d76f4de8@poster.kultureouest.fr
 DTSTAMP:20261116T060300Z
 DTSTART;TZID=Europe/Paris:20261116T070300
