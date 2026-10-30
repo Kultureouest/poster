@@ -2358,6 +2358,14 @@ SUMMARY:📣 Post réseaux : Randonnée pédestre solidaire Novembre Bleu à La 
 DESCRIPTION:Et si vous chaussiez vos baskets pour une bonne cause\, le temps d'une matinée conviviale au bord de l'océan ?
 END:VEVENT
 BEGIN:VEVENT
+UID:3da0a1352679234af695654fc9979c91@poster.kultureouest.fr
+DTSTAMP:20261106T164700Z
+DTSTART;TZID=Europe/Paris:20261106T174700
+DTEND;TZID=Europe/Paris:20261106T181700
+SUMMARY:📣 Post réseaux : Soirée Tango Argentin & Milonga au Clos Lapérouse à Rochefort
+DESCRIPTION:À Rochefort\, le tango argentin s'invite pour une soirée vibrante\, entre concert live et milonga envoûtante.
+END:VEVENT
+BEGIN:VEVENT
 UID:7f8debe221bfd8430f5d6e0249062f1b@poster.kultureouest.fr
 DTSTAMP:20261107T113400Z
 DTSTART;TZID=Europe/Paris:20261107T123400
