@@ -2406,6 +2406,14 @@ SUMMARY:📣 Post réseaux : Concours de belote du Comité des Fêtes de Bords
 DESCRIPTION:Envie de taper le carton dans une ambiance conviviale ? Le Comité des Fêtes de Bords organise son concours de belote à l
 END:VEVENT
 BEGIN:VEVENT
+UID:23e409e6b9091eb9818680d54961f3a3@poster.kultureouest.fr
+DTSTAMP:20261202T054700Z
+DTSTART;TZID=Europe/Paris:20261202T064700
+DTEND;TZID=Europe/Paris:20261202T071700
+SUMMARY:📣 Post réseaux : Concert Allegria Gospel à Saint-Nazaire-sur-Charente
+DESCRIPTION:Sous le clocher de Saint-Nazaire-sur-Charente\, les voix du chœur Allegria Gospel promettent un moment de pure émotion en
+END:VEVENT
+BEGIN:VEVENT
 UID:aff292be63385fd80f5f4651c7378aef@poster.kultureouest.fr
 DTSTAMP:20261210T105500Z
 DTSTART;TZID=Europe/Paris:20261210T115500
