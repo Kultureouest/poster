@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:259b5cd1b89df67f91ec637e31c44109@poster.kultureouest.fr
-DTSTAMP:20260803T163600Z
-DTSTART;TZID=Europe/Paris:20260803T183600
-DTEND;TZID=Europe/Paris:20260803T190600
-SUMMARY:✅ Publié : 37ème Festival International d'Orchestres de Jeunes – Eurochestries à Bords
-DESCRIPTION:Un soir d'été\, la grande musique symphonique fait escale au cœur des Vals de Saintonge\, à Bords.
-END:VEVENT
-BEGIN:VEVENT
 UID:73a08ce94f8f7fbb8a337e5b41c2393f@poster.kultureouest.fr
 DTSTAMP:20260804T041100Z
 DTSTART;TZID=Europe/Paris:20260804T061100
