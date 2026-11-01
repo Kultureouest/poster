@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eba684c3c9c17c0c7f2429b56cd15373@poster.kultureouest.fr
-DTSTAMP:20260803T070000Z
-DTSTART;TZID=Europe/Paris:20260803T090000
-DTEND;TZID=Europe/Paris:20260803T093000
-SUMMARY:✅ Publié : Les Lundis de l'Arsenal à Rochefort : concerts et spectacles gratuits le 3 août 2026
-DESCRIPTION:Ce lundi 3 août\, l'Ancien Arsenal Maritime de Rochefort se transforme en scène géante à ciel ouvert pour une nouvelle so
-END:VEVENT
-BEGIN:VEVENT
 UID:231ec1a41380334a6f73223168208715@poster.kultureouest.fr
 DTSTAMP:20260803T101100Z
 DTSTART;TZID=Europe/Paris:20260803T121100
