@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:46c6852b9fefb87f6f2644212d1d8d0c@poster.kultureouest.fr
-DTSTAMP:20260806T161100Z
-DTSTART;TZID=Europe/Paris:20260806T181100
-DTEND;TZID=Europe/Paris:20260806T184100
-SUMMARY:✅ Publié : Les Rencontres Nomades à Cabariot : Festival Musiques et Littératures du Monde
-DESCRIPTION:Deux soirées d'été pour voyager sans quitter la Charente-Maritime : les Rencontres Nomades posent leurs valises à Cabari
-END:VEVENT
-BEGIN:VEVENT
 UID:340f3203e9265b85fa55f86af652bc8d@poster.kultureouest.fr
 DTSTAMP:20260807T040600Z
 DTSTART;TZID=Europe/Paris:20260807T060600
