@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8a48202ab4ce07fef17b523f41fd411f@poster.kultureouest.fr
-DTSTAMP:20260806T103600Z
-DTSTART;TZID=Europe/Paris:20260806T123600
-DTEND;TZID=Europe/Paris:20260806T130600
-SUMMARY:✅ Publié : Vente spéciale Emmaüs à Saint-Agnant
-DESCRIPTION:Chineurs\, familles et curieux ont rendez-vous à Saint-Agnant pour une journée de déstockage solidaire placée sous le sig
-END:VEVENT
-BEGIN:VEVENT
 UID:46c6852b9fefb87f6f2644212d1d8d0c@poster.kultureouest.fr
 DTSTAMP:20260806T161100Z
 DTSTART;TZID=Europe/Paris:20260806T181100
