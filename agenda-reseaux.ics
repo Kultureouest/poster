@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:340f3203e9265b85fa55f86af652bc8d@poster.kultureouest.fr
-DTSTAMP:20260807T040600Z
-DTSTART;TZID=Europe/Paris:20260807T060600
-DTEND;TZID=Europe/Paris:20260807T063600
-SUMMARY:✅ Publié : Ciné Good Vibes Festival : projection The Doors et concert de Mazingo
-DESCRIPTION:Une soirée où le grand écran s'embrase au son du rock : le Ciné Good Vibes Festival transforme le Cinéma Agnès Varda en 
-END:VEVENT
-BEGIN:VEVENT
 UID:897f1f1e53f57ede07978b61c20cde79@poster.kultureouest.fr
 DTSTAMP:20260807T065000Z
 DTSTART;TZID=Europe/Paris:20260807T085000
