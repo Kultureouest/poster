@@ -2166,6 +2166,14 @@ SUMMARY:📣 Post réseaux : Foire à tout de Moëze : bonnes affaires à la Sal
 DESCRIPTION:Envie de dénicher une pépite ou de vider vos placards avant l'hiver ? Rendez-vous à Moëze pour la grande Foire à tout or
 END:VEVENT
 BEGIN:VEVENT
+UID:b6b55cd5925894d841f28ecff6ca9065@poster.kultureouest.fr
+DTSTAMP:20261110T053000Z
+DTSTART;TZID=Europe/Paris:20261110T063000
+DTEND;TZID=Europe/Paris:20261110T070000
+SUMMARY:📣 Post réseaux : Rencontre BD avec Isabelle Dethan et Mazan à Rochefort
+DESCRIPTION:Les amateurs de bande dessinée ont rendez-vous avec deux grandes voix du 9ᵉ Art à Rochefort.
+END:VEVENT
+BEGIN:VEVENT
 UID:cd4a5cd916d2cf7f7a10644a5c02653c@poster.kultureouest.fr
 DTSTAMP:20261113T054700Z
 DTSTART;TZID=Europe/Paris:20261113T064700
