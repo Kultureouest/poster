@@ -2122,7 +2122,7 @@ UID:3827a015ca188605f1a1c02108ac5edd@poster.kultureouest.fr
 DTSTAMP:20261106T053500Z
 DTSTART;TZID=Europe/Paris:20261106T063500
 DTEND;TZID=Europe/Paris:20261106T070500
-SUMMARY:📣 Post réseaux : Bouquins Gourmands Saint-Nazaire-sur-Charente : 5ᵉ édition du marché du livre
+SUMMARY:✅ Publié : Bouquins Gourmands Saint-Nazaire-sur-Charente : 5ᵉ édition du marché du livre
 DESCRIPTION:Et si on troquait les écrans contre des pages qui sentent bon le papier et les producteurs du coin ?
 END:VEVENT
 BEGIN:VEVENT
@@ -2188,6 +2188,14 @@ DTSTART;TZID=Europe/Paris:20261116T070300
 DTEND;TZID=Europe/Paris:20261116T073300
 SUMMARY:📣 Post réseaux : Concours de belote du Comité des Fêtes de Bords
 DESCRIPTION:Envie de taper le carton dans une ambiance conviviale ? Le Comité des Fêtes de Bords organise son concours de belote à l
+END:VEVENT
+BEGIN:VEVENT
+UID:8a787bbfb4cd6a7dbbea10675341638d@poster.kultureouest.fr
+DTSTAMP:20261127T113000Z
+DTSTART;TZID=Europe/Paris:20261127T123000
+DTEND;TZID=Europe/Paris:20261127T130000
+SUMMARY:📣 Post réseaux : Repas du Téléthon à Soubise
+DESCRIPTION:❤️ Un repas qui réchauffe les cœurs et soutient la recherche : le Téléthon fait escale à Soubise le temps d'une soirée g
 END:VEVENT
 BEGIN:VEVENT
 UID:23e409e6b9091eb9818680d54961f3a3@poster.kultureouest.fr
