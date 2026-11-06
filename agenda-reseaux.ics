@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8399d4fef82fe284606d9c7135b16ae1@poster.kultureouest.fr
-DTSTAMP:20260808T124100Z
-DTSTART;TZID=Europe/Paris:20260808T144100
-DTEND;TZID=Europe/Paris:20260808T151100
-SUMMARY:✅ Publié : Portes ouvertes CSP Royan 2026 : présence exceptionnelle de Dragon 17
-DESCRIPTION:Le temps d'une journée\, la caserne des pompiers de Royan ouvre grand ses portes au public pour une plongée immersive au 
-END:VEVENT
-BEGIN:VEVENT
 UID:0b977e2ebd44ad31d0e3907229f06828@poster.kultureouest.fr
 DTSTAMP:20260808T162500Z
 DTSTART;TZID=Europe/Paris:20260808T182500
