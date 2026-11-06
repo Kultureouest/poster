@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0f0d77d2e09da58621ce95bc9240c79c@poster.kultureouest.fr
-DTSTAMP:20260808T080800Z
-DTSTART;TZID=Europe/Paris:20260808T100800
-DTEND;TZID=Europe/Paris:20260808T103800
-SUMMARY:✅ Publié : Thé Dansant à Rochefort : l'Orchestre Clément Chevrier en concert à La Guinchette
-DESCRIPTION:Un dimanche de fête sur la piste au cœur de Rochefort ! La Guinchette accueille l'Orchestre Clément Chevrier pour un thé
-END:VEVENT
-BEGIN:VEVENT
 UID:b06bb93cb41dd328bcdef947a86f612a@poster.kultureouest.fr
 DTSTAMP:20260808T100600Z
 DTSTART;TZID=Europe/Paris:20260808T120600
