@@ -2182,6 +2182,14 @@ SUMMARY:📣 Post réseaux : Repas du Téléthon à Soubise
 DESCRIPTION:❤️ Un repas qui réchauffe les cœurs et soutient la recherche : le Téléthon fait escale à Soubise le temps d'une soirée g
 END:VEVENT
 BEGIN:VEVENT
+UID:d91c46f93562115bd408c5f5f2116da0@poster.kultureouest.fr
+DTSTAMP:20261130T043700Z
+DTSTART;TZID=Europe/Paris:20261130T053700
+DTEND;TZID=Europe/Paris:20261130T060700
+SUMMARY:📣 Post réseaux : Courir pour le Téléthon avec les Sapeurs-Pompiers de Jonzac
+DESCRIPTION:🏃‍♂️ Enfilez vos baskets : le 5 décembre\, chaque tour couru à Jonzac se transforme en élan de solidarité pour le Télétho
+END:VEVENT
+BEGIN:VEVENT
 UID:23e409e6b9091eb9818680d54961f3a3@poster.kultureouest.fr
 DTSTAMP:20261202T054700Z
 DTSTART;TZID=Europe/Paris:20261202T064700
