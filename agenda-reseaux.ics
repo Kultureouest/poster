@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:02c691436bfd64d280ad180e85b881c8@poster.kultureouest.fr
-DTSTAMP:20260809T085000Z
-DTSTART;TZID=Europe/Paris:20260809T105000
-DTEND;TZID=Europe/Paris:20260809T112000
-SUMMARY:✅ Publié : Fête du Port 2026 à Meschers-sur-Gironde : animations\, sorties en mer et chants de marins
-DESCRIPTION:⚓️ Le port de Meschers-sur-Gironde troque ses filets de pêche pour des guirlandes de fanions et invite tout le territoir
-END:VEVENT
-BEGIN:VEVENT
 UID:d60934deac995eadbfc0153eec2f2f97@poster.kultureouest.fr
 DTSTAMP:20260809T170500Z
 DTSTART;TZID=Europe/Paris:20260809T190500
