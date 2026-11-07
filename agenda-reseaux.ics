@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d60934deac995eadbfc0153eec2f2f97@poster.kultureouest.fr
-DTSTAMP:20260809T170500Z
-DTSTART;TZID=Europe/Paris:20260809T190500
-DTEND;TZID=Europe/Paris:20260809T193500
-SUMMARY:✅ Publié : Festival de Fontdouce 2026 : la 29e édition entre classique\, jazz et musiques du monde
-DESCRIPTION:Trois soirées d'exception attendent les mélomanes au cœur de l'Abbaye de Fontdouce\, entre classique\, jazz et musiques du
-END:VEVENT
-BEGIN:VEVENT
 UID:ed7303b10e6721167ce97fc2869b6306@poster.kultureouest.fr
 DTSTAMP:20260810T035000Z
 DTSTART;TZID=Europe/Paris:20260810T055000
