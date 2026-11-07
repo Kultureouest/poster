@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:28dd869739d2e5dabd64203463724154@poster.kultureouest.fr
-DTSTAMP:20260809T045500Z
-DTSTART;TZID=Europe/Paris:20260809T065500
-DTEND;TZID=Europe/Paris:20260809T072500
-SUMMARY:✅ Publié : Vide-grenier de Fouras : brocante estivale à la Prairie du Casino le 9 août
-DESCRIPTION:Un dimanche d'été à savourer entre chine et bord de mer sur la Prairie du Casino de Fouras.
-END:VEVENT
-BEGIN:VEVENT
 UID:02c691436bfd64d280ad180e85b881c8@poster.kultureouest.fr
 DTSTAMP:20260809T085000Z
 DTSTART;TZID=Europe/Paris:20260809T105000
