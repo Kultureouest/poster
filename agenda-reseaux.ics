@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ed7303b10e6721167ce97fc2869b6306@poster.kultureouest.fr
-DTSTAMP:20260810T035000Z
-DTSTART;TZID=Europe/Paris:20260810T055000
-DTEND;TZID=Europe/Paris:20260810T062000
-SUMMARY:✅ Publié : Concert Gospel à La Rochelle : Linda Lee Hopkins Quartet en l'église Notre-Dame
-DESCRIPTION:Une soirée où les voûtes de l'église Notre-Dame vibreront au rythme des negro spirituals et du gospel traditionnel venu 
-END:VEVENT
-BEGIN:VEVENT
 UID:5cfb3fb5a77f993a3f30abb2cfc914dd@poster.kultureouest.fr
 DTSTAMP:20260810T095100Z
 DTSTART;TZID=Europe/Paris:20260810T115100
