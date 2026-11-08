@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5cfb3fb5a77f993a3f30abb2cfc914dd@poster.kultureouest.fr
-DTSTAMP:20260810T095100Z
-DTSTART;TZID=Europe/Paris:20260810T115100
-DTEND;TZID=Europe/Paris:20260810T122100
-SUMMARY:✅ Publié : Exposition photo à Rochefort : 40 oiseaux célébrés par la LPO
-DESCRIPTION:Quarante regards d'oiseaux\, quarante histoires de sauvegarde : une escale photographique à ne pas manquer au cœur de Roc
-END:VEVENT
-BEGIN:VEVENT
 UID:2ca257ff5fdc0dd864ef276cba649fe8@poster.kultureouest.fr
 DTSTAMP:20260810T145500Z
 DTSTART;TZID=Europe/Paris:20260810T165500
