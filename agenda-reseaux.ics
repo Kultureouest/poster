@@ -2102,6 +2102,14 @@ SUMMARY:📣 Post réseaux : Concours de belote du Comité des Fêtes de Bords
 DESCRIPTION:Envie de taper le carton dans une ambiance conviviale ? Le Comité des Fêtes de Bords organise son concours de belote à l
 END:VEVENT
 BEGIN:VEVENT
+UID:e9fba798cc137a988bbdc161c38ae604@poster.kultureouest.fr
+DTSTAMP:20261125T105100Z
+DTSTART;TZID=Europe/Paris:20261125T115100
+DTEND;TZID=Europe/Paris:20261125T122100
+SUMMARY:📣 Post réseaux : Rencontre avec Stéphanie Nolf (CHAOS RISING) au LABO
+DESCRIPTION:Et si le metal se conjuguait au féminin\, à l'international et en toute solidarité ?
+END:VEVENT
+BEGIN:VEVENT
 UID:e9910c039b71729015fe80310a2683d7@poster.kultureouest.fr
 DTSTAMP:20261126T113000Z
 DTSTART;TZID=Europe/Paris:20261126T123000
