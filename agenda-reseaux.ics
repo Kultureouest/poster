@@ -2054,6 +2054,14 @@ SUMMARY:✅ Publié : Rencontre BD avec Isabelle Dethan et Mazan à Rochefort
 DESCRIPTION:Les amateurs de bande dessinée ont rendez-vous avec deux grandes voix du 9ᵉ Art à Rochefort.
 END:VEVENT
 BEGIN:VEVENT
+UID:f04ecaa132b1bd7ab42db1431a1ab153@poster.kultureouest.fr
+DTSTAMP:20261112T162600Z
+DTSTART;TZID=Europe/Paris:20261112T172600
+DTEND;TZID=Europe/Paris:20261112T175600
+SUMMARY:📣 Post réseaux : Lampli met les watts : Stents\, Novrak et Emprise envahissent La Poudrière
+DESCRIPTION:La Poudrière de Rochefort s'apprête à vibrer au son d'une soirée rock 100 % énergie\, gratuite et portée par trois groupe
+END:VEVENT
+BEGIN:VEVENT
 UID:cd4a5cd916d2cf7f7a10644a5c02653c@poster.kultureouest.fr
 DTSTAMP:20261113T054700Z
 DTSTART;TZID=Europe/Paris:20261113T064700
