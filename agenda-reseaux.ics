@@ -2022,6 +2022,14 @@ SUMMARY:✅ Publié : Rencontre BD avec Isabelle Dethan et Mazan à Rochefort
 DESCRIPTION:Les amateurs de bande dessinée ont rendez-vous avec deux grandes voix du 9ᵉ Art à Rochefort.
 END:VEVENT
 BEGIN:VEVENT
+UID:cbf3e869f445b727feeff317e1c72f6b@poster.kultureouest.fr
+DTSTAMP:20261111T103000Z
+DTSTART;TZID=Europe/Paris:20261111T113000
+DTEND;TZID=Europe/Paris:20261111T120000
+SUMMARY:📣 Post réseaux : Loto des enfants à Saint-Agnant : un après-midi solidaire pour la pédiatrie de Rochefort
+DESCRIPTION:🦋 LOTO DES ENFANTS À SAINT-AGNANT : UNE APRÈS-MIDI LUDIQUE ET SOLIDAIRE ! 🎲✨
+END:VEVENT
+BEGIN:VEVENT
 UID:f04ecaa132b1bd7ab42db1431a1ab153@poster.kultureouest.fr
 DTSTAMP:20261112T162600Z
 DTSTART;TZID=Europe/Paris:20261112T172600
