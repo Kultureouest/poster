@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4d448fadc7d75b193d57d128e51c7684@poster.kultureouest.fr
-DTSTAMP:20260813T043600Z
-DTSTART;TZID=Europe/Paris:20260813T063600
-DTEND;TZID=Europe/Paris:20260813T070600
-SUMMARY:✅ Publié : Grande Randonnée Solex\, Mobylettes & Motos – Fouqueure
-DESCRIPTION:Le 15 août\, Fouqueure vibrera au rythme des moteurs anciens pour une grande randonnée dédiée aux Solex\, mobylettes et mo
-END:VEVENT
-BEGIN:VEVENT
 UID:29f0e9baaabbb38b4374d4b48cc03ca1@poster.kultureouest.fr
 DTSTAMP:20260813T095500Z
 DTSTART;TZID=Europe/Paris:20260813T115500
