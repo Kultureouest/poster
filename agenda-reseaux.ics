@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:355d43bda66f86eceb05de8fee066860@poster.kultureouest.fr
-DTSTAMP:20260816T171000Z
-DTSTART;TZID=Europe/Paris:20260816T191000
-DTEND;TZID=Europe/Paris:20260816T194000
-SUMMARY:✅ Publié : Les Lundis de l'Arsenal à Rochefort : soirée festive le 17 août 2026
-DESCRIPTION:⚓ Le temps d'un lundi d'été\, l'Arsenal de Rochefort se transforme en village festif au bord de la Charente pour une nouv
-END:VEVENT
-BEGIN:VEVENT
 UID:219f484392158b492bb90811cc35a337@poster.kultureouest.fr
 DTSTAMP:20260817T041000Z
 DTSTART;TZID=Europe/Paris:20260817T061000
