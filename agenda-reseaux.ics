@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2db67248a600a318e7092e12e73c7ad4@poster.kultureouest.fr
-DTSTAMP:20260817T080000Z
-DTSTART;TZID=Europe/Paris:20260817T100000
-DTEND;TZID=Europe/Paris:20260817T103000
-SUMMARY:✅ Publié : Le Quart d'Écu raconte Puy du Lac : spectacle son et lumière à ne pas manquer
-DESCRIPTION:✨ L'histoire prend vie au spectacle son et lumière du Quart d'Écu !
-END:VEVENT
-BEGIN:VEVENT
 UID:bfdef305f45a51c8a8ca54394bc969da@poster.kultureouest.fr
 DTSTAMP:20260817T102900Z
 DTSTART;TZID=Europe/Paris:20260817T122900
