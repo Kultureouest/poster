@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ffe02803b34efa3f262608b753e3b9bf@poster.kultureouest.fr
-DTSTAMP:20260818T045500Z
-DTSTART;TZID=Europe/Paris:20260818T065500
-DTEND;TZID=Europe/Paris:20260818T072500
-SUMMARY:✅ Publié : Concert de Joseph Chédid au Bus Stop à Saint-Pierre-d'Oléron
-DESCRIPTION:🎸 Le temps d'une soirée d'été\, l'île d'Oléron accueille l'une des voix les plus attachantes de la nouvelle chanson franç
-END:VEVENT
-BEGIN:VEVENT
 UID:1a43ed26d8ca37760fa97048898830c0@poster.kultureouest.fr
 DTSTAMP:20260818T080000Z
 DTSTART;TZID=Europe/Paris:20260818T100000
