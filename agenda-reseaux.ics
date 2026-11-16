@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c3d2d17d3f0e952ae905f9302e44b14f@poster.kultureouest.fr
-DTSTAMP:20260818T101800Z
-DTSTART;TZID=Europe/Paris:20260818T121800
-DTEND;TZID=Europe/Paris:20260818T124800
-SUMMARY:✅ Publié : Tournoi Amical de Beach Tennis à Marennes-Plage : le 19 août 2026
-DESCRIPTION:🎾 Le sable chaud\, le filet tendu et une bonne dose de bonne humeur : Marennes-Plage se transforme le temps d'une matinée
-END:VEVENT
-BEGIN:VEVENT
 UID:16b7787490e73d658a2ed12265638f0f@poster.kultureouest.fr
 DTSTAMP:20260818T103200Z
 DTSTART;TZID=Europe/Paris:20260818T123200
