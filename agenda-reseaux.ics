@@ -1878,6 +1878,14 @@ SUMMARY:📣 Post réseaux : 40e Téléthon à Saint-Agnant - Deux jours de fêt
 DESCRIPTION:Pour sa 40e édition\, le Téléthon de Saint-Agnant se transforme en un grand week-end de fête où marché de Noël\, défis spo
 END:VEVENT
 BEGIN:VEVENT
+UID:6e4e68d3705dff6f7d59a075f2b6498e@poster.kultureouest.fr
+DTSTAMP:20261124T111200Z
+DTSTART;TZID=Europe/Paris:20261124T121200
+DTEND;TZID=Europe/Paris:20261124T124200
+SUMMARY:📣 Post réseaux : Téléthon à Fouras : trois jours de musique\, de sport et de solidarité
+DESCRIPTION:❤️ Trois jours durant\, Fouras vibre au rythme de la musique\, du sport et de la solidarité pour une cause qui dépasse les
+END:VEVENT
+BEGIN:VEVENT
 UID:e9fba798cc137a988bbdc161c38ae604@poster.kultureouest.fr
 DTSTAMP:20261125T105100Z
 DTSTART;TZID=Europe/Paris:20261125T115100
