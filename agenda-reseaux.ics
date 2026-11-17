@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:acf737be3d2c3e294462d9dbd375c1be@poster.kultureouest.fr
-DTSTAMP:20260819T100800Z
-DTSTART;TZID=Europe/Paris:20260819T120800
-DTEND;TZID=Europe/Paris:20260819T123800
-SUMMARY:✅ Publié : Loto des héros à Marennes-Plage : une animation familiale signée Lud'Oléron
-DESCRIPTION:Un matin d'été pas comme les autres attend les jeunes aventuriers du bassin de Marennes\, entre grilles de loto et héros 
-END:VEVENT
-BEGIN:VEVENT
 UID:5e553fbdc2698154d7b3c4c6de6fc3d6@poster.kultureouest.fr
 DTSTAMP:20260819T163200Z
 DTSTART;TZID=Europe/Paris:20260819T183200
