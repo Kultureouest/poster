@@ -1910,6 +1910,14 @@ SUMMARY:📣 Post réseaux : Courir pour le Téléthon avec les Sapeurs-Pompiers
 DESCRIPTION:🏃‍♂️ Enfilez vos baskets : le 5 décembre\, chaque tour couru à Jonzac se transforme en élan de solidarité pour le Télétho
 END:VEVENT
 BEGIN:VEVENT
+UID:22593298855386a82148bac2b84035c6@poster.kultureouest.fr
+DTSTAMP:20261201T111300Z
+DTSTART;TZID=Europe/Paris:20261201T121300
+DTEND;TZID=Europe/Paris:20261201T124300
+SUMMARY:📣 Post réseaux : Marché de l'Avent Soubise 2026 : le rendez-vous féerique du judo club
+DESCRIPTION:🎄 Le temps d'un week-end\, Soubise se pare des couleurs de Noël pour le plus convivial des marchés de l'Avent.
+END:VEVENT
+BEGIN:VEVENT
 UID:23e409e6b9091eb9818680d54961f3a3@poster.kultureouest.fr
 DTSTAMP:20261202T054700Z
 DTSTART;TZID=Europe/Paris:20261202T064700
