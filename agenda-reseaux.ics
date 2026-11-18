@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d37a16f59311a7ac3d81a05adf946795@poster.kultureouest.fr
-DTSTAMP:20260820T153100Z
-DTSTART;TZID=Europe/Paris:20260820T173100
-DTEND;TZID=Europe/Paris:20260820T180100
-SUMMARY:✅ Publié : Rencontre & dédicace avec Coline Chevis à l'Espace Nature - Boutique LPO
-DESCRIPTION:Le temps d'une rencontre\, embarquez pour un voyage entre plumes et aquarelle en compagnie de Coline Chevis\, autrice-illu
-END:VEVENT
-BEGIN:VEVENT
 UID:f63b9725aebd8e5ec7fd33ccb0655db2@poster.kultureouest.fr
 DTSTAMP:20260820T184900Z
 DTSTART;TZID=Europe/Paris:20260820T204900
