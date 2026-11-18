@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b226b66e07a63f0ba988bfdf05fe29fb@poster.kultureouest.fr
-DTSTAMP:20260820T080000Z
-DTSTART;TZID=Europe/Paris:20260820T100000
-DTEND;TZID=Europe/Paris:20260820T103000
-SUMMARY:✅ Publié : Fêtes de Saujon 2026 : la ville en jaune et noir pour sa première grande fête
-DESCRIPTION:🎉 Saujon enfile son plus bel habit jaune et noir pour une grande première festive au bord de la Seudre !
-END:VEVENT
-BEGIN:VEVENT
 UID:288d915fbbba9609e456abeafe3c2c0c@poster.kultureouest.fr
 DTSTAMP:20260820T103200Z
 DTSTART;TZID=Europe/Paris:20260820T123200
