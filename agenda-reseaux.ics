@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:288d915fbbba9609e456abeafe3c2c0c@poster.kultureouest.fr
-DTSTAMP:20260820T103200Z
-DTSTART;TZID=Europe/Paris:20260820T123200
-DTEND;TZID=Europe/Paris:20260820T130200
-SUMMARY:✅ Publié : Concours de Pétanque en Doublette à Corme-Royal : Places Limitées
-DESCRIPTION:À vos boules ! Le club SPCR FC organise un concours de pétanque en doublette à Corme-Royal\, ouvert à tous\, débutants com
-END:VEVENT
-BEGIN:VEVENT
 UID:d37a16f59311a7ac3d81a05adf946795@poster.kultureouest.fr
 DTSTAMP:20260820T153100Z
 DTSTART;TZID=Europe/Paris:20260820T173100
