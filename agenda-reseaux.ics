@@ -1758,6 +1758,14 @@ SUMMARY:✅ Publié : Cuarteto Tafí - El infinito y un amor
 DESCRIPTION:Le Palace de Surgères s'ouvre à un voyage musical entre l'Argentine et la Méditerranée orientale avec le Cuarteto Tafí.
 END:VEVENT
 BEGIN:VEVENT
+UID:6e9dbcf6081a44da9404ce9a20aef6ce@poster.kultureouest.fr
+DTSTAMP:20261120T061800Z
+DTSTART;TZID=Europe/Paris:20261120T071800
+DTEND;TZID=Europe/Paris:20261120T074800
+SUMMARY:📣 Post réseaux : Maison de Pierre Loti : visite gratuite réservée aux Rochefortais fin décembre
+DESCRIPTION:Et si vous pouviez pousser gratuitement les portes de la plus extraordinaire des maisons rochefortaises ? C'est l'occasi
+END:VEVENT
+BEGIN:VEVENT
 UID:79a55bfa529e2fb13a60478265e50fbb@poster.kultureouest.fr
 DTSTAMP:20261123T110100Z
 DTSTART;TZID=Europe/Paris:20261123T120100
