@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a9076821c113a06660e6192ffb930cb8@poster.kultureouest.fr
-DTSTAMP:20260822T164100Z
-DTSTART;TZID=Europe/Paris:20260822T184100
-DTEND;TZID=Europe/Paris:20260822T191100
-SUMMARY:✅ Publié : Marché nocturne et spectacle de feu aux Jeudis de Boyard à Boyardville
-DESCRIPTION:✨ Marché nocturne et spectacle de feu aux Jeudis de Boyard !
-END:VEVENT
-BEGIN:VEVENT
 UID:1f08caa0f8050b111a94ff2ce478e773@poster.kultureouest.fr
 DTSTAMP:20260823T043200Z
 DTSTART;TZID=Europe/Paris:20260823T063200
