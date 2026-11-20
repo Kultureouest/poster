@@ -1766,6 +1766,14 @@ SUMMARY:📣 Post réseaux : Maison de Pierre Loti : visite gratuite réservée 
 DESCRIPTION:Et si vous pouviez pousser gratuitement les portes de la plus extraordinaire des maisons rochefortaises ? C'est l'occasi
 END:VEVENT
 BEGIN:VEVENT
+UID:9727936032645c5011c73139e242f168@poster.kultureouest.fr
+DTSTAMP:20261120T101800Z
+DTSTART;TZID=Europe/Paris:20261120T111800
+DTEND;TZID=Europe/Paris:20261120T114800
+SUMMARY:📣 Post réseaux : Soirée Parents à Tonnay-Charente : une pause conviviale entre adultes
+DESCRIPTION:Et si\, le temps d'une soirée\, les parents de Tonnay-Charente se retrouvaient entre eux pour souffler et faire connaissan
+END:VEVENT
+BEGIN:VEVENT
 UID:f883d7605a1a47b28d6f1d52ab4841c3@poster.kultureouest.fr
 DTSTAMP:20261120T111800Z
 DTSTART;TZID=Europe/Paris:20261120T121800
