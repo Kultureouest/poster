@@ -1766,6 +1766,14 @@ SUMMARY:📣 Post réseaux : Maison de Pierre Loti : visite gratuite réservée 
 DESCRIPTION:Et si vous pouviez pousser gratuitement les portes de la plus extraordinaire des maisons rochefortaises ? C'est l'occasi
 END:VEVENT
 BEGIN:VEVENT
+UID:f883d7605a1a47b28d6f1d52ab4841c3@poster.kultureouest.fr
+DTSTAMP:20261120T111800Z
+DTSTART;TZID=Europe/Paris:20261120T121800
+DTEND;TZID=Europe/Paris:20261120T124800
+SUMMARY:📣 Post réseaux : Marché de Noël de Saint-Agnant 2026 : artisanat\, Père Noël et spectacle de feu
+DESCRIPTION:La magie de Noël s'installe à Saint-Agnant pour une soirée féerique à partager en famille.
+END:VEVENT
+BEGIN:VEVENT
 UID:79a55bfa529e2fb13a60478265e50fbb@poster.kultureouest.fr
 DTSTAMP:20261123T110100Z
 DTSTART;TZID=Europe/Paris:20261123T120100
