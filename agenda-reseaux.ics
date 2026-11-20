@@ -1806,6 +1806,14 @@ SUMMARY:📣 Post réseaux : Repas du Téléthon à Soubise
 DESCRIPTION:❤️ Un repas qui réchauffe les cœurs et soutient la recherche : le Téléthon fait escale à Soubise le temps d'une soirée g
 END:VEVENT
 BEGIN:VEVENT
+UID:007d4ef6d3e45fdcbfacb4d92f08bfe1@poster.kultureouest.fr
+DTSTAMP:20261128T061800Z
+DTSTART;TZID=Europe/Paris:20261128T071800
+DTEND;TZID=Europe/Paris:20261128T074800
+SUMMARY:📣 Post réseaux : Marché de Marennes - Ouverture exceptionnelle du dimanche
+DESCRIPTION:Direction la halle de Marennes pour un dimanche matin plein de saveurs\, juste avant que les tables de fête ne se remplis
+END:VEVENT
+BEGIN:VEVENT
 UID:d91c46f93562115bd408c5f5f2116da0@poster.kultureouest.fr
 DTSTAMP:20261130T043700Z
 DTSTART;TZID=Europe/Paris:20261130T053700
