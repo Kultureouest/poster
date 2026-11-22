@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b80aefd5a0e9d8d918cac73136d49043@poster.kultureouest.fr
-DTSTAMP:20260824T094400Z
-DTSTART;TZID=Europe/Paris:20260824T114400
-DTEND;TZID=Europe/Paris:20260824T121400
-SUMMARY:✅ Publié : Château Fort de la Fée Mélusine : une immersion médiévale à Saint-Jean-d'Angle
-DESCRIPTION:🏰 Et si le temps d'une journée\, vous plongiez véritablement au cœur du Moyen Âge ?
-END:VEVENT
-BEGIN:VEVENT
 UID:7518d433d764fa01ceccbf708a4b2e2a@poster.kultureouest.fr
 DTSTAMP:20260824T160000Z
 DTSTART;TZID=Europe/Paris:20260824T180000
