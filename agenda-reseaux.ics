@@ -1734,6 +1734,14 @@ SUMMARY:✅ Publié : Marché de Noël de Saint-Agnant 2026 : artisanat\, Père 
 DESCRIPTION:La magie de Noël s'installe à Saint-Agnant pour une soirée féerique à partager en famille.
 END:VEVENT
 BEGIN:VEVENT
+UID:7251fe40e379dad75f6853f74098464e@poster.kultureouest.fr
+DTSTAMP:20261122T061400Z
+DTSTART;TZID=Europe/Paris:20261122T071400
+DTEND;TZID=Europe/Paris:20261122T074400
+SUMMARY:📣 Post réseaux : Téléthon 2026 à Marennes : les danseurs d'Art'Danse montent sur scène
+DESCRIPTION:Le temps d'un après-midi\, les danseurs de Marennes mettent leurs pas au service d'une grande cause.
+END:VEVENT
+BEGIN:VEVENT
 UID:79a55bfa529e2fb13a60478265e50fbb@poster.kultureouest.fr
 DTSTAMP:20261123T110100Z
 DTSTART;TZID=Europe/Paris:20261123T120100
