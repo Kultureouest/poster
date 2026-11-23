@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6604033d9e5e600575e196dbe9f0aee8@poster.kultureouest.fr
-DTSTAMP:20260825T040500Z
-DTSTART;TZID=Europe/Paris:20260825T060500
-DTEND;TZID=Europe/Paris:20260825T063500
-SUMMARY:✅ Publié : Jour de Fête à Échillais : repas dansant et retraite aux flambeaux le 29 août
-DESCRIPTION:Échillais met les petits plats dans les grands pour une journée entière dédiée à la convivialité et aux retrouvailles es
-END:VEVENT
-BEGIN:VEVENT
 UID:d5d8277135ad23d52e2e5daf4f4471ad@poster.kultureouest.fr
 DTSTAMP:20260825T103300Z
 DTSTART;TZID=Europe/Paris:20260825T123300
