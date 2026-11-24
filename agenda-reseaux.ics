@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8e1d3ab037c2528fd59a14a4b857a6b5@poster.kultureouest.fr
-DTSTAMP:20260826T163200Z
-DTSTART;TZID=Europe/Paris:20260826T183200
-DTEND;TZID=Europe/Paris:20260826T190200
-SUMMARY:✅ Publié : Forum des associations à La Rochelle : rendez-vous le 28 août
-DESCRIPTION:Envie de vous investir\, de bouger ou simplement de dénicher une nouvelle passion pour la rentrée ? Le Forum des associat
-END:VEVENT
-BEGIN:VEVENT
 UID:38c19a0e70d50f46d2fa3823e553cdf3@poster.kultureouest.fr
 DTSTAMP:20260826T183200Z
 DTSTART;TZID=Europe/Paris:20260826T203200
