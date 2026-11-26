@@ -1646,6 +1646,14 @@ SUMMARY:📣 Post réseaux : Repas du Téléthon à Soubise
 DESCRIPTION:❤️ Un repas qui réchauffe les cœurs et soutient la recherche : le Téléthon fait escale à Soubise le temps d'une soirée g
 END:VEVENT
 BEGIN:VEVENT
+UID:644e468da71e186b2c34263cc493bd9f@poster.kultureouest.fr
+DTSTAMP:20261127T165200Z
+DTSTART;TZID=Europe/Paris:20261127T175200
+DTEND;TZID=Europe/Paris:20261127T182200
+SUMMARY:📣 Post réseaux : Concours cosplay Like My Cosplay - Broc' Land Geek
+DESCRIPTION:Un dimanche entier dédié à la pop culture et au rétrogaming attend petits et grands à Port-des-Barques\, avec le salon Br
+END:VEVENT
+BEGIN:VEVENT
 UID:007d4ef6d3e45fdcbfacb4d92f08bfe1@poster.kultureouest.fr
 DTSTAMP:20261128T061800Z
 DTSTART;TZID=Europe/Paris:20261128T071800
