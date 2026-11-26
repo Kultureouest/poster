@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:849b7f5d3f8fb4aed3cd288e5f0b51e8@poster.kultureouest.fr
-DTSTAMP:20260828T103000Z
-DTSTART;TZID=Europe/Paris:20260828T123000
-DTEND;TZID=Europe/Paris:20260828T130000
-SUMMARY:✅ Publié : Ducobu et le Fantôme de Saint-Potache - Avant-première en présence d'Élie Semoun
-DESCRIPTION:Le roi de la triche revient hanter les salles obscures\, et cette fois\, c'est Élie Semoun en personne qui vient présenter
-END:VEVENT
-BEGIN:VEVENT
 UID:6d098104d0cd173187859d3e36a45efc@poster.kultureouest.fr
 DTSTAMP:20260828T160000Z
 DTSTART;TZID=Europe/Paris:20260828T180000
