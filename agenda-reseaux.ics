@@ -1622,6 +1622,14 @@ SUMMARY:✅ Publié : Repas du Téléthon à Soubise : une soirée solidaire et 
 DESCRIPTION:❤️ Le 28 novembre\, la salle des fêtes de Soubise se transforme en grande tablée solidaire pour soutenir la recherche con
 END:VEVENT
 BEGIN:VEVENT
+UID:726c9eba949116ea882dd76958ba511d@poster.kultureouest.fr
+DTSTAMP:20261126T170100Z
+DTSTART;TZID=Europe/Paris:20261126T180100
+DTEND;TZID=Europe/Paris:20261126T183100
+SUMMARY:📣 Post réseaux : Création d'une association de jeu de palet à Soubise
+DESCRIPTION:À Soubise\, le jeu de palet s'apprête à trouver sa maison : une toute jeune association invite curieux et joueurs à venir
+END:VEVENT
+BEGIN:VEVENT
 UID:8a787bbfb4cd6a7dbbea10675341638d@poster.kultureouest.fr
 DTSTAMP:20261127T113000Z
 DTSTART;TZID=Europe/Paris:20261127T123000
