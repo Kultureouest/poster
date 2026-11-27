@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:70341ee5bab552efa2d5cd4f6d71f414@poster.kultureouest.fr
-DTSTAMP:20260829T102500Z
-DTSTART;TZID=Europe/Paris:20260829T122500
-DTEND;TZID=Europe/Paris:20260829T125500
-SUMMARY:✅ Publié : Exposition « À pas feutrés » d'Emma Schnellbach à la Tonnellerie de Brouage
-DESCRIPTION:🖼️ Jusqu'à la fin de l'été\, la Citadelle de Brouage se pare de douceur et de poésie avec l'exposition « À pas feutrés ».
-END:VEVENT
-BEGIN:VEVENT
 UID:33bbf6883e7be79c92a2fc1b472553dc@poster.kultureouest.fr
 DTSTAMP:20260829T160000Z
 DTSTART;TZID=Europe/Paris:20260829T180000
