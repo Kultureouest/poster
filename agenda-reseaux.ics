@@ -1662,6 +1662,14 @@ SUMMARY:📣 Post réseaux : Marché de Marennes - Ouverture exceptionnelle du d
 DESCRIPTION:Direction la halle de Marennes pour un dimanche matin plein de saveurs\, juste avant que les tables de fête ne se remplis
 END:VEVENT
 BEGIN:VEVENT
+UID:55a120bd599df9d0f7e2f1ce604bf747@poster.kultureouest.fr
+DTSTAMP:20261128T104400Z
+DTSTART;TZID=Europe/Paris:20261128T114400
+DTEND;TZID=Europe/Paris:20261128T121400
+SUMMARY:📣 Post réseaux : Téléthon 2026 à Saint-Sulpice-de-Royan : randonnée solidaire et thé dansant
+DESCRIPTION:Et si solidarité rimait avec grand air ? Saint-Sulpice-de-Royan donne rendez-vous pour un week-end du Téléthon 2026 plac
+END:VEVENT
+BEGIN:VEVENT
 UID:d91c46f93562115bd408c5f5f2116da0@poster.kultureouest.fr
 DTSTAMP:20261130T043700Z
 DTSTART;TZID=Europe/Paris:20261130T053700
