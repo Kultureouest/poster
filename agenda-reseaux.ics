@@ -22,14 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:33bbf6883e7be79c92a2fc1b472553dc@poster.kultureouest.fr
-DTSTAMP:20260829T160000Z
-DTSTART;TZID=Europe/Paris:20260829T180000
-DTEND;TZID=Europe/Paris:20260829T183000
-SUMMARY:✅ Publié : Exposition Arts en Partage à la Citadelle du Château-d'Oléron
-DESCRIPTION:Le temps d'un mois\, la Citadelle du Château-d'Oléron se transforme en écrin pour cinq regards d'artistes qui dialoguent 
-END:VEVENT
-BEGIN:VEVENT
 UID:bae08197f820fafe359baa3efacdb1dc@poster.kultureouest.fr
 DTSTAMP:20260830T050000Z
 DTSTART;TZID=Europe/Paris:20260830T070000
