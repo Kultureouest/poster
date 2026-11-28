@@ -1678,6 +1678,14 @@ SUMMARY:📣 Post réseaux : Soirée Disco Marennes 2026 : le Shapers Club House
 DESCRIPTION:Sortez les pattes d'eph' et les perruques : le Shapers Club House à Marennes-Hiers-Brouage organise une soirée Disco exp
 END:VEVENT
 BEGIN:VEVENT
+UID:d4ba9eafa1807628aac8353880e731fe@poster.kultureouest.fr
+DTSTAMP:20261204T051400Z
+DTSTART;TZID=Europe/Paris:20261204T061400
+DTEND;TZID=Europe/Paris:20261204T064400
+SUMMARY:📣 Post réseaux : Transports gratuits à La Rochelle avant Noël (réseau Yélo)
+DESCRIPTION:Les fêtes approchent\, et le réseau Yélo vous offre trois week-ends de liberté pour sillonner La Rochelle sans vous souci
+END:VEVENT
+BEGIN:VEVENT
 UID:aff292be63385fd80f5f4651c7378aef@poster.kultureouest.fr
 DTSTAMP:20261210T105500Z
 DTSTART;TZID=Europe/Paris:20261210T115500
