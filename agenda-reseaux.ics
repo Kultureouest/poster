@@ -1670,6 +1670,14 @@ SUMMARY:📣 Post réseaux : Concert Allegria Gospel à Saint-Nazaire-sur-Charen
 DESCRIPTION:Sous le clocher de Saint-Nazaire-sur-Charente\, les voix du chœur Allegria Gospel promettent un moment de pure émotion en
 END:VEVENT
 BEGIN:VEVENT
+UID:a073470461c91a3d58abc43ba91dd256@poster.kultureouest.fr
+DTSTAMP:20261203T171400Z
+DTSTART;TZID=Europe/Paris:20261203T181400
+DTEND;TZID=Europe/Paris:20261203T184400
+SUMMARY:📣 Post réseaux : Soirée Disco Marennes 2026 : le Shapers Club House fait sa fièvre du samedi soir
+DESCRIPTION:Sortez les pattes d'eph' et les perruques : le Shapers Club House à Marennes-Hiers-Brouage organise une soirée Disco exp
+END:VEVENT
+BEGIN:VEVENT
 UID:aff292be63385fd80f5f4651c7378aef@poster.kultureouest.fr
 DTSTAMP:20261210T105500Z
 DTSTART;TZID=Europe/Paris:20261210T115500
