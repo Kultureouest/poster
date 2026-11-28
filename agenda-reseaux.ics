@@ -1646,6 +1646,14 @@ SUMMARY:📣 Post réseaux : Téléthon 2026 à Saint-Sulpice-de-Royan : randonn
 DESCRIPTION:Et si solidarité rimait avec grand air ? Saint-Sulpice-de-Royan donne rendez-vous pour un week-end du Téléthon 2026 plac
 END:VEVENT
 BEGIN:VEVENT
+UID:0e2cecb3adb778d0c01dcac613399e78@poster.kultureouest.fr
+DTSTAMP:20261128T161400Z
+DTSTART;TZID=Europe/Paris:20261128T171400
+DTEND;TZID=Europe/Paris:20261128T174400
+SUMMARY:📣 Post réseaux : 1er Marché de Noël de Genouillé : fête et motos au programme
+DESCRIPTION:Genouillé troque ses sapins contre des moteurs vrombissants pour un premier Marché de Noël qui ne ressemble à aucun autr
+END:VEVENT
+BEGIN:VEVENT
 UID:d91c46f93562115bd408c5f5f2116da0@poster.kultureouest.fr
 DTSTAMP:20261130T043700Z
 DTSTART;TZID=Europe/Paris:20261130T053700
